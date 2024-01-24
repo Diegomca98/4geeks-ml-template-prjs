@@ -1,1 +1,1 @@
-# Template for Machine Learning projects
+# Exploratory Data Analysis Project
