@@ -5,10 +5,8 @@
 
 ## New York Airbnb EDA
 
-**Question to answer:**
-* What features affect the availability of the accomodation?
-
-<hr>
+### Question to answer:
+> What features affect the availability of the accomodation?
 
 ### Information about Airbnb
 According to the article published by [Tech Crunch](https://techcrunch.com/2023/05/03/airbnbs-average-home-prices-have-gone-up-so-now-its-refocusing-on-rooms-to-give-users-more-affordable-alternatives/) published May 23, 2023 and others like [ThePointsGuy](https://thepointsguy.com/news/airbnb-rate-surge/), at that specific point in time we were seeing a 36% increase on Airbnb rental prices in contrast with 2019.
