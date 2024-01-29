@@ -1,4 +1,8 @@
 # Linear Regression Project Tutorial
+* Understand a new dataset.
+* Process it by applying exploratory data analysis (EDA).
+* Model the data using logistic regression.
+* Analyze the results and optimize the model if possible.
 
 ## Predicting the cost of health insurance for a person
 > The important insurance company 4Geeks Insurance S.L. wants to calculate, based on physiological data of its customers what will be the premium (cost) to be borne by each of them. To do this, it has assembled a whole team of doctors and based on data from other companies and a particular study have managed to gather a set of data to train a predictive model.
