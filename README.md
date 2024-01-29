@@ -1,16 +1,9 @@
 # Exploratory Data Analysis Project
+* Download New York Airbnb data from Kaggle.com.
+* Perform a complete EDA including all steps of the process.
+* Write down the conclusions of each step and analyze the results on the relationships between the variables.
 
-## New York Airbnb EDA solution
-
-**Possible questions to answer:**
-* availability_365:
-    * What could affect the accomodation demand?
-* calculated_host_listings_count:
-    * More offer equals to more rentals of the same accomodation?
-* number_of_reviews:
-    * More reviews equals more rentals?
-* minimum_nights:
-    * More flexible minimum nights equals more rentals?
+## New York Airbnb EDA
 
 **Question to answer:**
 * What features affect the availability of the accomodation?
