@@ -13,4 +13,4 @@ According to the article published by [Tech Crunch](https://techcrunch.com/2023/
 
 With this, even before starting our analysis, we can assume that if prices are below the current cheapest accomodation in 2024 minus the 36% price increase is either misinformation or "trash" data.
 
-By doing a quick research on the actual (Airbnb)[www.airbnb.mx] site I concluded that the cheapest accomodations are between **30 USD** and **40 USD** at this time, so substracting the 36% increase we get that the (possible) minimum price per night at that time was **18.56 USD**
+By doing a quick research on the actual [Airbnb](www.airbnb.mx) site I concluded that the cheapest accomodations are between **30 USD** and **40 USD** at this time, so substracting the 36% increase we get that the (possible) minimum price per night at that time was **18.56 USD**
