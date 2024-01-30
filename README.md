@@ -23,8 +23,8 @@ The dataset can be found in this project folder under the name bank-marketing-ca
 2. `job`. Type of job (categorical)
 3. `marital`. Marital status (categorical)
 4. `education`. Level of education (categorical)
-5. `default`. do you currently have credit (categorical) 6. housing.
-6. `housing`. do you have a housing loan (categorical) 7. loan.
+5. `default`. do you currently have credit (categorical)
+6. `housing`. do you have a housing loan (categorical)
 7. `loan`. Do you have a personal loan? (categorical)
 8. `contact`. Type of contact communication (categorical)
 9. `month`. Last month in which you have been contacted (categorical)
@@ -34,11 +34,11 @@ The dataset can be found in this project folder under the name bank-marketing-ca
 13. `pdays`. Number of days that elapsed since the last campaign until the customer was contacted (numeric)
 14. `previous`. Number of contacts made during the previous campaign to the customer (numeric)
 15. `poutcome`. Result of the previous marketing campaign (categorical).
-16. `emp`.var.rate. Employment variation rate. Quarterly indicator (numeric)
-17. `cons`.price.idx. Consumer price index. Monthly indicator (numeric)
-18. `cons`.conf.idx. Consumer confidence index. Monthly indicator (numeric)
+16. `emp.var.rate.` Employment variation rate. Quarterly indicator (numeric)
+17. `cons.price.idx.` Consumer price index. Monthly indicator (numeric)
+18. `cons.conf.idx.` Consumer confidence index. Monthly indicator (numeric)
 19. `euribor3m`. EURIBOR 3-month rate. Daily indicator (numeric)
-20. `nr`.employed. Number of employees. Quarterly indicator (numeric)
+20. `nr.employed.` Number of employees. Quarterly indicator (numeric)
 21. `y`. TARGET. Whether the customer takes out a long-term deposit or not
 
 ### Step 2: Perform a full EDA
