@@ -1,10 +1,19 @@
-# Template for Machine Learning projects
+# Random Forest Project Tutorial
+* Use the data you have analyzed in the previous project.
+* Continue with the development to find a model that fits better.
 
-#### Module 13. Exploratory Data Analysis (Branch exploratory-data-analysis)
-> Find patterns in your data in order to get insights and valuable information. Use that information to make decisions and generate better predictions. If your data is garbage, the output will be garbage: Clean your data to avoid poor quality outputs.
+## Predicting diabetes
+>In the previous project we saw how we could use a decision tree to predict data sets related to classification and regression. However, did you know that we can improve the prediction of a tree by using a random forest?
+>
+> As we have studied, a random forest is a grouping of trees generated with random portions of the data and with random criteria. This view would allow us to improve the effectiveness of the model when an individual tree is not sufficient.
+> 
+> In this project you will focus on this idea by training the dataset to improve the `accuracy`
 
-#### Module 14. Your first ML Alorithm (Branch: logistic-regression)
-> During this module you will learn the basics of machine learning, the evaluation metrics and how to optimize your ML algo. We will start our journey with logistic regressions.
+### Step 1: Loading the dataset
+Load the processed dataset from the previous project (split into training and test samples and analyzed with EDA).
 
-#### Module 15. Linear Regression (Branch: linear-regression)
-> Read the linear regression theory and run the code in the exploring linear regression notebook to practice. Then go to your project and predict the cost of a medical insurance using Linear Regression
+### Step 2: Build a random forest
+One way to optimize and improve the results when using decision trees is to generate a random forest with enough trees so that there is the necessary variety to enrich the prediction. Train it and analyze its results. Try modifying the two hyperparameters that define the tree with different values and analyze their impact on the final accuracy and plot the conclusions.
+
+### Step 3: Save the model
+Store the model in the corresponding folder.
