@@ -1,4 +1,4 @@
-# Linear Regression Project Tutorial
+# Regularized Linear Regression Project Tutorial
 
 * Understand a new dataset.
 * Process it by applying exploratory data analysis (EDA).
