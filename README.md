@@ -1,42 +1,33 @@
-# Template for Machine Learning projects
+# K-Means - Project Tutorial
 
-#### Module 13. Exploratory Data Analysis (Branch exploratory-data-analysis)
-> Find patterns in your data in order to get insights and valuable information. Use that information to make decisions and generate better predictions. If your data is garbage, the output will be garbage: Clean your data to avoid poor quality outputs.
+- Understanding a new dataset.
+- Model the data using a K-Means.
+- Analyze the results and train a supervised model.
 
-#### Module 14. Your first ML Alorithm (Branch: logistic-regression)
-> During this module you will learn the basics of machine learning, the evaluation metrics and how to optimize your ML algo. We will start our journey with logistic regressions.
+## House Grouping System
 
-#### Module 15. Linear Regression (Branch: linear-regression)
-> Read the linear regression theory and run the code in the exploring linear regression notebook to practice. Then go to your project and predict the cost of a medical insurance using Linear Regression
+>We want to be able to classify houses according to their region and median income. To do this, we will use the famous `California Housing` dataset. It was constructed using data from the 1990 California census. It contains one row per census block group. A block group is the smallest geographic unit for which US Census data is published.
 
-#### Module 16. Regularized Linear Regression (Branch: regularized-linear-regression)
->It is very important to avoid overfitting, so in this lesson you will learn about regularized linear regression models, which are a common way to avoid it.
+### Step 1: Loading the dataset
 
-#### Module 17.  Decision Tree (Branch: decision-tree)
-> This is one of the most used algorithms in the industry. Decision Tree's are used for both classification and regression problems. This algorithm makes decisions by building trees with nodes, leaves and branches to make decisions.
+The dataset can be found in this project folder under the name `housing.csv`. You can load it into the code directly from the link (`https://raw.githubusercontent.com/4GeeksAcademy/k-means-project-tutorial/main/housing.csv`) or download it and add it by hand in your repository. In this case we are only interested in the `Latitude`, `Longitude` and `MedInc` columns.
 
-#### Module 18. Random Forest (Branch: random-forest)
-> In this module we will add some randomness to our trees and build machine learning models using Random Forest.
+Be sure to conveniently split the dataset into `train` and `test` as we have seen in previous lessons. Although these sets are not used to obtain statistics, you can use them to train the unsupervised algorithm and then to make predictions about new points to predict the cluster they are associated with.
 
-#### Module 19. Boosting Algorithms (Branch: boosting-algorithms)
-> In this lesson, we will learn about boosting techniques, specifically about gradient descent algorithm and XGBoost (extreme gradient descent).
+### Step 2: Build a K-Means
 
-#### Module 20. Naive Bayes (Branch: naive-bayes)
-> Were you wondering when are you going to apply Bayes Theorem? Now it's the time. The Naive Bayes algorithm is one of the fastest algorithm and its based in the bayes theorem. We will use it for classification and also as a brief and simple introduction to NLP, which we'll learn deeper in another module.
+Classify the data into 6 clusters using the K-Means model. Then store the cluster to which each house belongs as a new column in the dataset. You could call it `cluster`. To introduce it to your dataset you may have to categorize it. See what format and values it has and act accordingly. Plot it in a dot plot and describe what you see.
 
+### Step 3: Predict with the test set
 
-## Repository Structure
-```
-└── main
-    ├── exploratory-data-analysis
-    ├── logistic-regression
-    ├── linear-regression
-    ├── regularized-linear-regression
-    ├── decision-tree
-    ├── random-forest
-    ├── boosting-algorithms
-    └── naive-bayes
-```
-  
+Now use the trained model with the test set and add the points to the above plot to confirm that the prediction is successful or not.
 
-  
+### Step 4: Train a supervised classification model
+
+Now that K-Means has returned a categorization (clustering) of the points for the training and test sets, study which model might be most useful and train it. Get the statistics and describe what you see.
+
+This flow is very common when we have unlabeled data: use an unsupervised learning model to label it automatically and then a supervised learning model.
+
+### Step 5: Save the models
+
+Store both models in the corresponding folder.
