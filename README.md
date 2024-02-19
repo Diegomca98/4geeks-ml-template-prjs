@@ -1,42 +1,27 @@
-# Template for Machine Learning projects
+# Time Series Forecasting - Project Tutorial
 
-#### Module 13. Exploratory Data Analysis (Branch exploratory-data-analysis)
-> Find patterns in your data in order to get insights and valuable information. Use that information to make decisions and generate better predictions. If your data is garbage, the output will be garbage: Clean your data to avoid poor quality outputs.
+- Understand a new dataset.
+- Analyze the time series and study its characteristics.
+- Train a model to predict the amount of water in different areas.
 
-#### Module 14. Your first ML Alorithm (Branch: logistic-regression)
-> During this module you will learn the basics of machine learning, the evaluation metrics and how to optimize your ML algo. We will start our journey with logistic regressions.
+## Water Detection System
 
-#### Module 15. Linear Regression (Branch: linear-regression)
-> Read the linear regression theory and run the code in the exploring linear regression notebook to practice. Then go to your project and predict the cost of a medical insurance using Linear Regression
+> This project is going to be done at [Kaggle](https://www.kaggle.com/). Kaggle is known for organizing data science competitions in which individuals and teams can compete to create the best model on a variety of tasks.
+> 
+> Specifically, we will explore a competition that has now ended, which rewarded the top performers with $25,000, distributed to the top four solutions.
 
-#### Module 16. Regularized Linear Regression (Branch: regularized-linear-regression)
->It is very important to avoid overfitting, so in this lesson you will learn about regularized linear regression models, which are a common way to avoid it.
+### Step 1: Register or log in to Kaggle
 
-#### Module 17.  Decision Tree (Branch: decision-tree)
-> This is one of the most used algorithms in the industry. Decision Tree's are used for both classification and regression problems. This algorithm makes decisions by building trees with nodes, leaves and branches to make decisions.
+The first step to participate in a competition is to have a Kaggle account. Registration is very simple and versatile.
 
-#### Module 18. Random Forest (Branch: random-forest)
-> In this module we will add some randomness to our trees and build machine learning models using Random Forest.
+### Step 2: Participate in the competition
 
-#### Module 19. Boosting Algorithms (Branch: boosting-algorithms)
-> In this lesson, we will learn about boosting techniques, specifically about gradient descent algorithm and XGBoost (extreme gradient descent).
+Although it is closed, you can still upload your solutions and compare yourself with the rest of the competitors in the ranking. By clicking [here](https://www.kaggle.com/competitions/acea-water-prediction) you can access the competition where the purpose is to predict the amount of water.
 
-#### Module 20. Naive Bayes (Branch: naive-bayes)
-> Were you wondering when are you going to apply Bayes Theorem? Now it's the time. The Naive Bayes algorithm is one of the fastest algorithm and its based in the bayes theorem. We will use it for classification and also as a brief and simple introduction to NLP, which we'll learn deeper in another module.
+Read the information about the problem description, evaluation metrics, timeline and prizes. Once you have an overview of the competition, prepare the notebook with the code development and upload it, compare yourself with the other developers.
 
+**Follow these tips:**
 
-## Repository Structure
-```
-└── main
-    ├── exploratory-data-analysis
-    ├── logistic-regression
-    ├── linear-regression
-    ├── regularized-linear-regression
-    ├── decision-tree
-    ├── random-forest
-    ├── boosting-algorithms
-    └── naive-bayes
-```
-  
-
-  
+* Look at the solutions proposed by other developers. Some use time series, others use supervised algorithms such as linear regression, decision trees, etc. Investigate which model might work best for this use case and explore all options.
+* Whatever model you choose, be sure to process and explore the data as studied in past modules.
+* Trial and error! Don't pretend to get the best model the first time, keep trying.
