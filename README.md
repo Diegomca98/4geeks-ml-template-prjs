@@ -1,4 +1,4 @@
-# Time Series Forecasting - Project Tutorial
+# Time Series Forecasting - Kaggle Competition
 
 - Understand a new dataset.
 - Analyze the time series and study its characteristics.
