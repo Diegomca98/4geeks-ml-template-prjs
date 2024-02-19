@@ -1,27 +1,36 @@
 # Time Series Forecasting - Project Tutorial
 
-- Understand a new dataset.
+- Understanding a new dataset.
 - Analyze the time series and study its characteristics.
-- Train a model to predict the amount of water in different areas.
+- Train a model to predict future memory expenditure.
 
-## Water Detection System
+## Sales forecasting system
 
-> This project is going to be done at [Kaggle](https://www.kaggle.com/). Kaggle is known for organizing data science competitions in which individuals and teams can compete to create the best model on a variety of tasks.
-> 
-> Specifically, we will explore a competition that has now ended, which rewarded the top performers with $25,000, distributed to the top four solutions.
+> We want to set up our company's warehouse in another location and we need to estimate the rate of sales, which has been increasing since the company's creation, for the next few months in order to provide the space we will need.
 
-### Step 1: Register or log in to Kaggle
+### Step 1: Loading the dataset
 
-The first step to participate in a competition is to have a Kaggle account. Registration is very simple and versatile.
+The dataset can be found in this project folder under the name `sales.csv`. You can load it into the code directly from the link (`https://raw.githubusercontent.com/4GeeksAcademy/alternative-time-series-project/main/sales.csv`) or download it and add it by hand in your repository.
 
-### Step 2: Participate in the competition
+### Step 2: Construct and analyze the time serie
 
-Although it is closed, you can still upload your solutions and compare yourself with the rest of the competitors in the ranking. By clicking [here](https://www.kaggle.com/competitions/acea-water-prediction) you can access the competition where the purpose is to predict the amount of water.
+Construct the valid data structure for the time serie, graph it, and then analyze it and answer the following questions:
 
-Read the information about the problem description, evaluation metrics, timeline and prizes. Once you have an overview of the competition, prepare the notebook with the code development and upload it, compare yourself with the other developers.
+- Which is the tensor of the time serie?
+- Which is the trend?
+- Is it stationary?
+- Is there variability or noise?
 
-**Follow these tips:**
+> NOTE: A `tensor` in a time serie is the minimum unit of time for which there is data. It can be every second, minute, hour, day, week, month...
 
-* Look at the solutions proposed by other developers. Some use time series, others use supervised algorithms such as linear regression, decision trees, etc. Investigate which model might work best for this use case and explore all options.
-* Whatever model you choose, be sure to process and explore the data as studied in past modules.
-* Trial and error! Don't pretend to get the best model the first time, keep trying.
+### Step 3: Train an ARIMA
+
+Use the training data to find the best parameterization of your ARIMA model.
+
+### Step 4: Predict with the test set
+
+Now use the trained model with the test set and compare the points with the real ones. Measure the performance of the time serie.
+
+### Step 5: Save the model
+
+Store the model in the corresponding folder.
