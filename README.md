@@ -1,6 +1,6 @@
 # Template for Machine Learning projects
 
-#### Module 13. Exploratory Data Analysis (Branch [exploratory-data-analysis](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/exploratory-data-analysis))
+#### Module 13. Exploratory Data Analysis (Branch: [exploratory-data-analysis](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/exploratory-data-analysis))
 > Find patterns in your data in order to get insights and valuable information. Use that information to make decisions and generate better predictions. If your data is garbage, the output will be garbage: Clean your data to avoid poor quality outputs.
 
 #### Module 14. Your first ML Alorithm (Branch: [logistic-regression](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/logistic-regression))
