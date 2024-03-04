@@ -15,3 +15,5 @@ sympy>=1.10.1
 xgboost
 ipykernel
 pyarrow
+tensorflow
+nvidia-cuda-runtime-cu11
