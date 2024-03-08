@@ -1,31 +1,20 @@
-# Time Series Forecasting - Kaggle Competition
+# Machine Learning Web App using Flask - Project Tutorial
 
-- Understanding a new dataset.
-- Model the data using an SVM.
+- Search and understand a new dataset.
+- Model the data using a Machine Learning, Deep Learning or NLP algorithm.
 - Analyze the results and optimize the model.
+- Integrate it into Render using a Flask-based application.
 
-## Spam link detection system
+## Instructions
 
-> We want to implement a system that is able to automatically detect whether a web page contains spam or not based on its URL.
+### Step 1: Find a dataset
+Research different online sources about different datasets that you could use to train a model. You can use some public API, the UCI repository for Machine Learning or the Kaggle section of [datasets](https://www.kaggle.com/datasets), among many other sources. Remember to look for a simple dataset as this is not the final project of the course.
 
-### Step 1: Loading the dataset
+### Step 2: Develop a model
+Once you have found your ideal data set, analyze it and train a model. Optimize it if necessary.
 
-The dataset can be found in this project folder under the name `url_spam.csv`. You can load it into the code directly from this [link](`https://raw.githubusercontent.com/4GeeksAcademy/NLP-project-tutorial/main/url_spam.csv`) or download it and add it by hand in your repository.
+### Step 3: Develop a web application using Flask
+With the knowledge acquired in this module, develop an interface to be able to use the model. Give it the style that suits you best and note the external resources you have used for the development.
 
-### Step 2: Preprocess the links
-
-Use what we have seen in this module to transform the data to make it compatible with the model we want to train. Segment the URLs into parts according to their punctuation marks, remove stopwords, lemmatize, and so on.
-
-Make sure to conveniently split the dataset into `train` and `test` as we have seen in previous lessons.
-
-### Step 3: Build an SVM
-
-Start solving the problem by implementing an SVM with the default parameters. Train it and analyze its results.
-
-### Step 4: Optimize the previous model
-
-After training the SVM, optimize its hyperparameters using a grid search or a random search.
-
-### Step 5: Save the model
-
-Store the model in the corresponding folder.
+### Step 4: Integrate the model and the application in Render
+Create a free service in Render and integrate the work you have done to be able to deploy the web application online. Don't forget to include the link to the service in your repository.
