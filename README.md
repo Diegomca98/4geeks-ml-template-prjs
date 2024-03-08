@@ -1,4 +1,4 @@
-# Time Series Forecasting - Kaggle Competition
+# Natural Language Processing - Project Tutorial
 
 - Understanding a new dataset.
 - Model the data using an SVM.
