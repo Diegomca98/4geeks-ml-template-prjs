@@ -1,27 +1,31 @@
 # Time Series Forecasting - Kaggle Competition
 
-- Understand a new dataset.
-- Analyze the time series and study its characteristics.
-- Train a model to predict the amount of water in different areas.
+- Understanding a new dataset.
+- Model the data using an SVM.
+- Analyze the results and optimize the model.
 
-## Water Detection System
+## Spam link detection system
 
-> This project is going to be done at [Kaggle](https://www.kaggle.com/). Kaggle is known for organizing data science competitions in which individuals and teams can compete to create the best model on a variety of tasks.
-> 
-> Specifically, we will explore a competition that has now ended, which rewarded the top performers with $25,000, distributed to the top four solutions.
+> We want to implement a system that is able to automatically detect whether a web page contains spam or not based on its URL.
 
-### Step 1: Register or log in to Kaggle
+### Step 1: Loading the dataset
 
-The first step to participate in a competition is to have a Kaggle account. Registration is very simple and versatile.
+The dataset can be found in this project folder under the name `url_spam.csv`. You can load it into the code directly from this [link](`https://raw.githubusercontent.com/4GeeksAcademy/NLP-project-tutorial/main/url_spam.csv`) or download it and add it by hand in your repository.
 
-### Step 2: Participate in the competition
+### Step 2: Preprocess the links
 
-Although it is closed, you can still upload your solutions and compare yourself with the rest of the competitors in the ranking. By clicking [here](https://www.kaggle.com/competitions/acea-water-prediction) you can access the competition where the purpose is to predict the amount of water.
+Use what we have seen in this module to transform the data to make it compatible with the model we want to train. Segment the URLs into parts according to their punctuation marks, remove stopwords, lemmatize, and so on.
 
-Read the information about the problem description, evaluation metrics, timeline and prizes. Once you have an overview of the competition, prepare the notebook with the code development and upload it, compare yourself with the other developers.
+Make sure to conveniently split the dataset into `train` and `test` as we have seen in previous lessons.
 
-**Follow these tips:**
+### Step 3: Build an SVM
 
-* Look at the solutions proposed by other developers. Some use time series, others use supervised algorithms such as linear regression, decision trees, etc. Investigate which model might work best for this use case and explore all options.
-* Whatever model you choose, be sure to process and explore the data as studied in past modules.
-* Trial and error! Don't pretend to get the best model the first time, keep trying.
+Start solving the problem by implementing an SVM with the default parameters. Train it and analyze its results.
+
+### Step 4: Optimize the previous model
+
+After training the SVM, optimize its hyperparameters using a grid search or a random search.
+
+### Step 5: Save the model
+
+Store the model in the corresponding folder.
