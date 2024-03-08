@@ -33,6 +33,17 @@
 #### Module 23. Time Series Forecasting (Branches: [time-series-forecasting](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/time-series-forecasting) | [time-series-kaggle-competition](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/time-series-kaggle-competition))
 > In this lesson, we will learn how to recognize and deal with time series when they are present in our datasets. This lesson's project will be a real time competition so get all your skills ready!
 
+#### Module 24. Intro to Deep Learning (Branch: [image-classifier](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/image-classifier))
+> This is our last module on algorithms. We will close this part with a brief introduction to deep learning and neural networks so that we can learn a more complex but efficient model.
+
+#### Module 25. Intro to NLP (Branch: [natural-language-processing-intro](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/natural-language-processing-intro))
+> In this module we will learn the basics of a new algorithm: Support Vector machine and we will also have an intro to Natural Language Processing. We will combine both by practicing with an email spam classifier on the exploring NLP notebook, and then you will work on a URL spam classifier in your project.
+
+#### Module 26. ML Web App using Flask (Branch: [ml-webapp-using-flask](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/ml-webapp-using-flask))
+> In this lesson, we will learn how to build a machine learning web application using one of your best models and the Flask tool. Then we will deploy it to Heroku so that our model can be showed to the world.
+
+#### Module 27. ML Web App using Streamlit (Branch: [ml-webapp-using-streamlit](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/ml-webapp-using-streamlit))
+> In this lesson, we will learn how to build a machine learning web application using one of your best models and the Streamlit tool. Then we will deploy it to Heroku so that our model can be showed to the world.
 
 ## Repository Structure
 ```
@@ -48,7 +59,11 @@
     ├── k-nearest-neighbors
     ├── k-means
     ├── time-series-forecasting
-    └── time-series-kaggle-competition
+    ├── time-series-kaggle-competition
+    ├── image-classifier
+    ├── natural-language-processing-intro
+    ├── ml-webapp-using-flask
+    └── ml-webapp-using-streamlit
 ```
   
 
