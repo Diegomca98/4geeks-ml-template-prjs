@@ -1,0 +1,2370 @@
+,url,is_spam
+0,"['http', 'briefingday', 'list', 'manage', 'unsubscribe']",1
+1,"['http', 'hvper']",1
+2,"['http', 'briefingday']",1
+3,"['http', 'briefingday', 'commentform']",0
+4,"['http', 'briefingday']",1
+5,"['http', 'brookings', 'interactives', 'reopening', 'america', 'world']",0
+6,"['http', 'reuters', 'investigates', 'special', 'report', 'health', 'coronavirus', 'britain']",0
+7,"['http', 'theatlantic', 'magazine', 'archive', 'supermarket', 'miracle']",0
+8,"['http', 'john', 'bolton', 'book', 'excerpt', 'trump', 'ukraine', 'china']",0
+9,"['http', 'theguardian', 'travel', 'tourism', 'coronavirus', 'pandemic', 'travel', 'industry']",0
+10,"['http', 'future', 'article', 'virus', 'disappeared']",0
+11,"['http', 'narratively', 'quarantined', 'hippy', 'trapped', 'jungle', 'paradise']",0
+12,"['http', 'ourworldindata', 'grapher', 'daily', 'covid', 'case', 'average']",0
+13,"['http', 'spiked', 'online', 'healthy', 'society', 'destroy', 'monument']",0
+14,"['http', 'nytimes', 'interactive', 'business', 'economy', 'container', 'ship', 'built', 'html']",0
+15,"['http', 'aeon', 'essay', 'nostalgia', 'rocket', 'fuel', 'power', 'hope', 'change']",0
+16,"['http', 'youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",0
+17,"['http', 'popsci', 'story', 'science', 'haribo', 'gummy', 'candy', 'flavor']",0
+18,"['http', 'atlasobscura', 'article', 'coffee']",0
+19,"['http', 'outsideonline', 'john', 'ackerman', 'cave', 'minnesota']",0
+20,"['http', 'nautil', 'issue', 'energy', 'power', 'crossed', 'brain', 'wire']",0
+21,"['http', 'scmp', 'abacus', 'tech', 'article', 'satellite', 'internet', 'failed', 'year', 'time', 'different']",0
+22,"['http', 'technologyreview', 'innovator']",0
+23,"['http', 'marketwatch', 'story', 'best', 'worst', 'stock', 'first', 'coronavirus', 'pandemic']",0
+24,"['http', 'josefschulz', 'uebergang']",0
+25,"['http', 'sadanduseless', 'bread', 'doggos']",0
+26,"['http', 'nmaahc', 'explore', 'collection']",0
+27,"['http', 'theguardian', 'news', 'call', 'grow', 'make', 'juneteenth', 'federal', 'holiday']",0
+28,"['http', 'nmaahc', 'blog', 'post', 'historical', 'legacy', 'juneteenth']",0
+29,"['http', 'join']",1
+30,"['http', 'link', 'morningbrew', 'manage']",1
+31,"['http', 'morningbrew', 'daily', 'latest']",0
+32,"['http', 'help', 'aweber', 'article']",0
+33,"['http', 'austinkleon', 'list', 'manage', 'subscribe', 'confirm']",1
+34,"['http', 'nytimes', 'upshot', 'epidemiologist', 'decision', 'child', 'school', 'coronavirus', 'html']",0
+35,"['http', 'findthatpod', 'archive']",0
+36,"['http', 'constantpodcast', 'episode', 'cold', 'hard', 'truth']",0
+37,"['http', 'theobservereffect', 'marc', 'html']",0
+38,"['http', 'wired', 'story', 'covid']",0
+39,"['http', 'expressnews', 'news', 'local', 'article', 'hour', 'inside']",0
+40,"['http', 'politico', 'news', 'klobuchar', 'biden', 'woman', 'color']",0
+41,"['http', 'museeholocauste', 'object', 'identification', 'badge', 'political', 'prisoner', 'nazi', 'camp']",0
+42,"['http', 'techcrunch', 'facebook', 'trump', 'campaign', 'nazi', 'imagery', 'triangle']",0
+43,"['http', 'nbcnews', 'politics', 'election', 'trump', 'supporter', 'crowd', 'tulsa', 'ahead', 'saturday', 'rally']",0
+44,"['http', 'ourworldindata', 'grapher', 'daily', 'covid', 'death', 'average']",1
+45,"['http', 'axios', 'california', 'face', 'mask', 'order', 'coronavirus', 'html']",0
+46,"['http', 'reuters', 'article', 'albertsons', 'company', 'grocer', 'albertsons', 'expects', 'raise', 'billion']",0
+47,"['http', 'reuters', 'article', 'palantir', 'funding', 'japanese', 'insurer', 'sompo', 'investing', 'million', 'data', 'analytics', 'firm', 'palantir']",0
+48,"['http', 'techcrunch', 'delay', 'doordash', 'confirms', 'raise']",0
+49,"['http', 'nypost', 'carnival', 'loses', 'billion', 'coronavirus', 'sink', 'cruise', 'industry']",0
+50,"['http', 'hopkinsmedicine', 'news', 'newsroom', 'news', 'release', 'light', 'activated', 'crispr', 'trigger', 'precision', 'gene', 'editing', 'super', 'fast', 'repair']",0
+51,"['http', 'caltech', 'news', 'natural', 'fluid', 'injection', 'triggered', 'cahuilla', 'earthquake', 'swarm']",0
+52,"['http', 'theguardian', 'environment', 'climate', 'change', 'pollution', 'investigation', 'study']",0
+53,"['http', 'theguardian', 'environment', 'climate', 'crisis', 'alarm', 'record', 'breaking', 'heatwave', 'siberia']",0
+54,"['http', 'techcrunch', 'colin', 'kaepernick', 'join', 'medium', 'board', 'director', 'partnership', 'publishing', 'deal']",0
+55,"['http', 'news', 'entertainment']",0
+56,"['http', 'hollywoodreporter', 'news', 'theatre', 'reopen', 'location', 'july']",0
+57,"['http', 'supremecourt', 'opinion']",0
+58,"['http', 'reuters', 'article', 'trump', 'immigration', 'dreamer', 'factbo', 'factbox', 'immigrant', 'dreamer', 'affected', 'supreme', 'court', 'ruling']",0
+59,"['http', 'scotusblog', 'opinion', 'analysis', 'court', 'reject', 'trump', 'administration', 'effort', 'daca']",0
+63,"['http', 'briefingday', 'commentform']",0
+65,"['http', 'ianwelsh', 'cruelty', 'required']",0
+66,"['http', 'forbes', 'site', 'sergeiklebnikov', 'goldman', 'clear', 'sign', 'recovery', 'risk', 'remain']",0
+67,"['http', 'theguardian', 'film', 'werner', 'herzog', 'fascinated', 'trash', 'poet', 'must', 'avert']",0
+68,"['http', 'arstechnica', 'science', 'trump', 'administration', 'paid', 'million', 'test', 'tube', 'unusable', 'mini', 'soda', 'bottle']",0
+69,"['http', 'youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",0
+70,"['http', 'mansionglobal', 'article', 'apartment', 'next', 'door', 'london', 'famed', 'royal', 'albert', 'hall', 'asks', 'million']",0
+71,"['http', 'visualcapitalist', 'growth', 'covid', 'united', 'state', 'peak']",0
+72,"['http', 'statista', 'chart', 'country', 'hosting', 'refugee']",0
+73,"['http', 'howmuch', 'article', 'gold', 'silver', 'ratio', 'timeline']",0
+74,"['http', 'youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",0
+75,"['http', 'saturdayeveningpost', 'heinrich', 'beranns', 'beauty']",0
+76,"['http', 'news', 'trust', 'item']",0
+77,"['http', 'devex', 'news', 'opinion', 'open', 'response', 'open', 'recovery']",0
+78,"['http', 'lesswrong', 'post', 'cognitive', 'algorithm']",0
+79,"['http', 'seth', 'blog', 'dominant', 'culture']",0
+80,"['http', 'cnet', 'news', 'dark', 'matter', 'detector', 'pick', 'unexplained', 'unexpected', 'signal']",0
+81,"['http', 'protocol', 'bret', 'arensault', 'microsoft', 'ciso', 'profile']",0
+82,"['http', 'sciencemag', 'news', 'worst', 'year', 'alive']",0
+83,"['http', 'themarkup', 'banned', 'bounty', 'amazon', 'enforcement', 'failure', 'leave', 'open', 'back', 'door']",0
+84,"['http', 'theneutral', 'company', 'rush', 'change', 'brand', 'name', 'image', 'based', 'racial', 'stereotype']",0
+85,"['http', 'wired', 'article', 'coronavirus', 'beijing', 'second', 'wave', 'lockdown']",0
+86,"['http', 'lawfareblog', 'question', 'government', 'bolton', 'book', 'hearing']",0
+87,"['http', 'google', 'form', 'yduq', 'viewform']",1
+88,"['http', 'cbsnews', 'news', 'space', 'tourism', 'space', 'perspective', 'balloon', 'ride', 'earth', 'atmosphere']",0
+89,"['http', 'youtube', 'watch']",0
+90,"['http', 'iflscience', 'plant', 'animal', 'giant', 'squid', 'found', 'washed', 'beach', 'south', 'africa']",0
+91,"['http', 'cbsnews', 'news', 'watch', 'weekend', 'rare', 'solstice', 'ring', 'fire', 'solar', 'eclipse']",0
+92,"['http', 'thebalance', 'unemployment']",0
+93,"['http', 'cnbc', 'portman', 'congress', 'need', 'creative', 'solution', 'jobless', 'benefit', 'html']",0
+94,"['http', 'cnbc', 'weekly', 'jobless', 'claim', 'html']",0
+95,"['http', 'mymodernmet', 'santiago', 'olay', 'milky', 'cargo', 'ship']",0
+96,"['http', 'stackmedia']",1
+97,"['http', 'sandiegouniontribune', 'business', 'story', 'baby', 'pygmy', 'hippo', 'make', 'splash', 'debut']",0
+98,"['http', 'seattle', 'eater', 'seattle', 'protest', 'zone', 'chop', 'chaz', 'capitol', 'hill', 'food', 'eating']",0
+99,"['http', 'google', 'form', 'vwjiha', 'viewform']",1
+100,"['http', 'businesscasual']",1
+101,"['http', 'morningbrew', 'emerging', 'tech']",1
+102,"['http', 'morningbrew', 'retail']",1
+103,"['http', 'youtube', 'watch', 'feature', 'youtu', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",0
+104,"['http', 'cnbc', 'stock', 'market', 'future', 'open', 'close', 'news', 'html']",0
+105,"['http', 'apnews', 'ecbdd']",0
+106,"['http', 'manscaped', 'product', 'weed', 'whacker']",0
+107,"['http', 'morningbrew', 'daily', 'story', 'covid', 'consumer']",1
+108,"['http', 'morningbrew', 'daily']",0
+109,"['http', 'morningbrew']",1
+110,"['http', 'alcoholic', 'monkey', 'india', 'kalua']",0
+111,"['http', 'reuters', 'article', 'pepsico', 'race', 'breakingviews', 'breakingviews', 'company', 'first', 'reparation']",0
+112,"['http', 'mentalfloss', 'article', 'spare', 'keanu', 'reef', 'call', 'charity']",0
+114,"['http', 'briefingday', 'commentform']",0
+118,"['http', 'cbsnews', 'news', 'movie', 'theater', 'face', 'mask', 'policy', 'required']",0
+119,"['http', 'tech', 'wirecard', 'fraud', 'tech', 'accounting']",0
+120,"['http', 'forbes', 'site', 'bradhunter', 'three', 'reason', 'home', 'improvement', 'fastest', 'growing', 'retail', 'category', 'watch']",0
+121,"['http', 'reuters', 'article', 'health', 'coronavirus', 'garden', 'home', 'gardening', 'bloom', 'around', 'world', 'coronavirus', 'lockdown']",0
+122,"['http', 'good', 'summer', 'pool', 'open', 'inflatable', 'boat', 'rental', 'camp', 'lawn', 'coronavirus']",0
+123,"['http', 'morningbrew', 'daily', 'story', 'lowes', 'beat', 'home', 'depot', 'sale', 'surge', 'html']",0
+124,"['http', 'federalreserve', 'publication', 'economic', 'well', 'household', 'banking', 'credit']",0
+125,"['http', 'forbes', 'site', 'jonmarkman', 'pandemic', 'ring', 'death', 'knell', 'paper', 'cash']",0
+126,"['http', 'content']",0
+127,"['http', 'cnbc', 'coroanvirus', 'bain', 'report', 'global', 'luxury', 'sale', 'beyond', 'html']",0
+128,"['http', 'theatlantic', 'technology', 'archive', 'youll', 'shop', 'grocery', 'pandemic']",0
+129,"['http', 'forbes', 'site', 'jenniferwang', 'instacart', 'founder', 'apoorva', 'mehta', 'becomes', 'billionaire']",0
+130,"['http', 'bloomberg', 'tosv', 'html']",1
+131,"['http', 'opportunityinsights', 'content', 'uploads', 'tracker', 'summary']",0
+132,"['http', 'cnbc', 'saving', 'rate', 'record', 'percent', 'coronavirus', 'cause', 'american', 'stockpile', 'cash', 'curb', 'spending', 'html']",0
+133,"['http', 'thesunmagazine', 'issue', 'boyfriend', 'girlfriend']",0
+134,"['http', 'news', 'trust', 'item']",0
+135,"['http', 'tedium', 'flight', 'entertainment', 'system', 'covid', 'impact', 'history']",0
+136,"['http', 'profgalloway', 'iaddiction']",0
+137,"['http', 'future', 'article', 'boeing', 'plane', 'shrank', 'world']",0
+138,"['http', 'sivers', 'exan']",0
+139,"['http', 'german', 'police', 'allowed']",0
+140,"['http', 'psychologytoday', 'blog', 'insight', 'therapy', 'good', 'king', 'social', 'status', 'health']",0
+141,"['http', 'buzzfeednews', 'article', 'tanyachen', 'influencers', 'privilege', 'post', 'black', 'square']",0
+142,"['http', 'fivethirtyeight', 'feature', 'economy', 'mess', 'isnt', 'stock', 'market']",0
+143,"['http', 'realclearpolitics', 'article', 'medium', 'begging', 'second', 'wave', 'html']",0
+144,"['http', 'content']",0
+145,"['http', 'smithsonianmag', 'innovation', 'covid', 'tipping', 'point', 'telemedicine']",0
+146,"['http', 'theguardian', 'commentisfree', 'venice', 'tourism', 'covid', 'coronavirus', 'green', 'tourism']",0
+147,"['http', 'morningbrew', 'privacy']",1
+149,"['http', 'shop', 'morningbrew']",1
+150,"['http', 'lever', 'morningbrew']",1
+151,"['http', 'morningbrew', 'essential']",1
+152,"['http', 'morningbrew', 'daily']",1
+153,"['http', 'morningbrew', 'daily']",1
+154,"['http', 'morningbrew', 'daily', 'refer', 'friend']",1
+155,"['http', 'medium', 'giphy', 'medium', 'giphy']",0
+156,"['http', 'standard', 'business', 'cashstrapped', 'british', 'airway', 'sell', 'artwork', 'worth', 'million', 'html']",0
+157,"['http', 'morningbrewdaily', 'typeform']",0
+158,"['http', 'patch', 'york', 'westhampton', 'hamptonbays', 'filmmaker', 'movie', 'america', 'pandemic']",0
+159,"['http', 'neeva']",0
+161,"['http', 'invest', 'truststamp', 'morningbrew']",0
+162,"['http', 'cnbc', 'robinhood', 'increase', 'guardrail', 'option', 'trading', 'wake', 'customer', 'suicide', 'html']",0
+163,"['http', 'cnbc', 'apple', 'close', 'store', 'covid', 'case', 'reappear', 'html']",0
+164,"['http', 'amusingplanet', 'liverpool', 'secret', 'tunnel', 'built', 'html']",0
+165,"['http', 'reason', 'swiss', 'investigate', 'year', 'trying', 'money']",0
+166,"['http', 'melmagazine', 'story', 'summer', 'signaled', 'arnold', 'dawn']",0
+167,"['http', 'mentalfloss', 'article', 'incisive', 'fact']",0
+168,"['http', 'independent', 'life', 'style', 'cinema', 'return', 'lockdown', 'closed', 'watch', 'movie', 'silence', 'html']",0
+169,"['http', 'afar', 'magazine', 'rugby', 'north', 'dakota', 'geographical', 'center', 'north', 'america']",0
+170,"['http', 'cbsnews', 'news', 'arctic', 'hottest', 'temperature', 'ever']",0
+171,"['http', 'lesswrong', 'post', 'hxvf', 'oqyr', 'wireless', 'trap']",0
+172,"['http', 'thecut', 'think', 'arnold', 'schwarzeneggers', 'mini', 'horse', 'html']",0
+173,"['http', 'psychologytoday', 'blog', 'beauty', 'sick', 'instagram', 'worse', 'body', 'image', 'facebook']",0
+174,"['http', 'medium', 'learningbyshipping', 'store', 'debate', 'story', 'ecosystem', 'eeef']",0
+175,"['http', 'money', 'tracker', 'much', 'trump', 'biden', 'raised', 'election']",0
+176,"['http', 'austinkleon', 'good', 'book', 'read', 'spring']",1
+177,"['http', 'youtube', 'watch', 'tgyx', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",0
+178,"['http', 'aeon', 'essay', 'reality', 'computer', 'simulation', 'matter']",0
+179,"['http', 'fastcompany', 'airbnbwhileblack', 'inside', 'story', 'airbnbs', 'racism', 'problem']",0
+180,"['http', 'undark', 'undark', 'interview', 'brianna', 'remster']",0
+181,"['http', 'news', 'business']",0
+183,"['http', 'nypost', 'inside', 'government', 'plan', 'blow', 'moon']",0
+184,"['http', 'digitalcommerce', 'versus', 'goliath', 'guess']",0
+185,"['http', 'slate', 'human', 'interest', 'flight', 'attendant', 'interview', 'flying', 'right', 'covid', 'html']",0
+186,"['http', 'huckmag', 'culture', 'photography', 'charlie', 'kwai', 'pate', 'croute', 'sandwich', 'magazine']",0
+187,"['http', 'newstatesman', 'culture', 'design', 'news', 'picture', 'best', 'current', 'affair', 'shot']",0
+191,"['http', 'briefingday', 'commentform']",0
+193,"['http', 'reddit', 'nextfuckinglevel', 'comment', 'fitness', 'freak', 'simultaneously', 'solves', 'rubiks']",0
+195,"['http', 'wikipedia', 'wiki']",0
+196,"['http', 'people', 'health', 'workout', 'allow', 'client', 'exercise', 'without', 'mask', 'amid', 'pandemic']",0
+197,"['http', 'world', 'soap', 'bubble', 'robotic', 'pollination', 'study', 'index', 'html']",0
+198,"['http', 'thehustle', 'sport', 'stadium', 'suddenly', 'full', 'cardboard']",0
+199,"['http', 'youtube', 'watch']",0
+200,"['http', 'pitchfork', 'news', 'beyonce', 'drop', 'song', 'black', 'parade', 'listen']",0
+201,"['http', 'news', 'science', 'environment']",0
+202,"['http', 'salvationmountain']",0
+203,"['http', 'youtube', 'watch', 'text', 'arrated', 'aters', 'eccentric', 'individualistic']",0
+204,"['http', 'wikipedia', 'wiki', 'essage', 'ottle']",0
+205,"['http', 'wikipedia', 'wiki', 'ulinary', 'triangle']",0
+206,"['http', 'violenceandreligion', 'mimetic', 'theory']",0
+207,"['http', 'wikipedia', 'wiki', 'iolence', 'eace', 'eace', 'esearch']",0
+208,"['http', 'english', 'file', 'university', 'writing', 'file', 'item']",0
+209,"['http', 'wikipedia', 'wiki', 'rovidence']",0
+210,"['http', 'wikipedia', 'wiki', 'antrum']",0
+211,"['http', 'youtube', 'watch']",0
+212,"['http', 'logoworks', 'blog', 'bass', 'pale', 'brand', 'logo']",0
+213,"['http', 'whyisthisinteresting']",1
+214,"['http', 'whyisthisinteresting', 'subscribe']",1
+215,"['http', 'theguardian', 'commentisfree', 'black', 'life', 'mattered', 'revolt', 'cultural', 'debate', 'hostile', 'establishment']",0
+216,"['http', 'tribunemag', 'covid', 'could', 'disaster', 'automation', 'waiting']",0
+218,"['http', 'pudding', 'cool', 'travel', 'local']",0
+219,"['http', 'news', 'england', 'wiltshire']",0
+220,"['http', 'minnesota', 'cbslocal', 'legislature', 'adjourns', 'special', 'session', 'issue', 'remain', 'unsolved']",0
+221,"['http', 'reuters', 'article', 'seattle', 'shooting', 'teenager', 'killed', 'seattle', 'protest', 'zone', 'shooting', 'wounded']",0
+222,"['http', 'apnews']",0
+223,"['http', 'news', 'england', 'berkshire']",0
+224,"['http', 'reuters', 'article', 'wirecard', 'account', 'wirecard', 'exit', 'search', 'missing', 'billion', 'dead', 'asia']",0
+225,"['http', 'axios', 'major', 'cruise', 'line', 'suspend', 'trip', 'coronavirus', 'html']",0
+226,"['http', 'cnbc', 'treasury', 'disclose', 'name', 'business', 'taking', 'loan', 'html']",0
+227,"['http', 'nature', 'article']",0
+228,"['http', 'theverge', 'apple', 'wwdc', 'ipados', 'watchos', 'rumor']",0
+229,"['http', 'presskit']",0
+230,"['http', 'news', 'science', 'environment']",0
+231,"['http', 'deadline', 'regal', 'cinema', 'face', 'mask', 'policy', 'change', 'adam', 'aron', 'controversy', 'coronavirus']",0
+232,"['http', 'cbssports', 'news', 'player', 'vote', 'game', 'season', 'monday', 'manfred', 'tweak', 'proposal', 'report']",0
+233,"['http', 'espn', 'horse', 'racing', 'story', 'york', 'bred', 'belmont', 'stake']",0
+234,"['http', 'reuters', 'article', 'people', 'malala', 'sleep', 'netflix', 'ahead', 'malala', 'finish', 'oxford', 'degree']",0
+235,"['http', 'documentcloud', 'document', 'etter', 'erman', 'html']",0
+236,"['http', 'judiciary', 'senate', 'press', 'release', 'chairman', 'graham', 'statement', 'trump', 'administration', 'intent', 'nominate', 'clayton', 'attorney', 'southern', 'district', 'york']",0
+237,"['http', 'cbsnews', 'news', 'geoffrey', 'berman', 'trump', 'appointee', 'attorney', 'william', 'barr']",0
+238,"['http', 'axios', 'barr', 'trump', 'southern', 'district', 'york', 'html']",0
+239,"['http', 'scmp', 'news', 'hong', 'kong', 'politics', 'article', 'national', 'security', 'beijing', 'plan', 'appoint', 'adviser']",0
+240,"['http', 'reuters', 'article', 'hongkong', 'protest', 'finance', 'explainer', 'explainer', 'important', 'hong', 'kong', 'china', 'free', 'finance']",0
+241,"['http', 'reuters', 'article', 'hongkong', 'protest', 'security', 'beijing', 'sweeping', 'power', 'hong', 'kong', 'security']",0
+243,"['http', 'politico', 'news', 'takeaway', 'biden', 'trump', 'fundraising']",0
+244,"['http', 'tulsaworld', 'news', 'local', 'moment', 'inside', 'center', 'president', 'trump', 'rally', 'article', 'html']",0
+245,"['http', 'usatoday', 'stans', 'spamming', 'explained']",0
+246,"['http', 'politico', 'news', 'trump', 'tulsa', 'rally', 'ticket', 'hack']",0
+247,"['http', 'politico', 'gallery', 'trump', 'rally', 'tulsa', 'oklahoma', 'photo']",0
+248,"['http', 'tulsaworld', 'news', 'trump', 'tulsa', 'president', 'attack', 'china', 'biden', 'others', 'tout', 'heritage', 'improving', 'economy', 'article', 'efbcae', 'html']",0
+250,"['http', 'link', 'theskimm', 'manage']",1
+251,"['http', 'theskimm', 'general', 'disclaimer', 'post']",1
+252,"['http', 'google', 'form', 'pgrydnzd', 'viewform']",1
+253,"['http', 'collectiveaidngo']",0
+254,"['http', 'uprising']",0
+255,"['http', 'sakara', 'page', 'skimm']",0
+256,"['http', 'drinkhydrant', 'skimm', 'june']",0
+257,"['http', 'simplisafe', 'save']",1
+258,"['http', 'theskimm', 'skimmpicks']",1
+259,"['http', 'food', 'blog', 'picnic', 'perfect', 'dish', 'taste', 'great', 'room', 'temperature']",0
+260,"['http', 'elle', 'culture', 'movie', 'best', 'summer', 'show']",0
+261,"['http', 'latimes', 'entertainment', 'music', 'story', 'beyonce', 'black', 'parade', 'juneteenth']",0
+263,"['http', 'nytimes', 'world', 'europe', 'forbury', 'garden', 'stabbing', 'reading', 'terrorism', 'html']",0
+264,"['http', 'reading', 'terror', 'incident', 'intl', 'index', 'html']",0
+265,"['http', 'nascar', 'confederate', 'flag', 'trnd', 'index', 'html']",0
+266,"['http', 'espn', 'racing', 'nascar', 'story', 'nascar', 'noose', 'found', 'bubba', 'wallace', 'garage', 'talladega']",0
+267,"['http', 'politics', 'judge', 'john', 'bolton', 'book', 'index', 'html']",0
+268,"['http', 'thehill', 'homenews', 'administration', 'former', 'manhattan', 'prosecutor', 'condemn', 'berman', 'firing']",0
+269,"['http', 'theguardian', 'news', 'attorney', 'geoffrey', 'berman', 'oversaw', 'prosecution', 'trump', 'ally', 'abruptly', 'resigns']",0
+270,"['http', 'nytimes', 'nyregion', 'trump', 'geoffrey', 'berman', 'fired', 'sdny', 'html']",0
+271,"['http', 'apnews']",0
+272,"['http', 'forbes', 'site', 'andrewsolender', 'trump', 'campaign', 'manager', 'registered', 'ticket', 'tulsa', 'rallybut', 'venue', 'seat']",0
+273,"['http', 'marketwatch', 'story', 'trump', 'tongue', 'cheek', 'said', 'slow', 'testing', 'white', 'house', 'adviser', 'peter', 'navarro']",0
+274,"['http', 'section', 'health', 'shot', 'younger', 'adult', 'increasingly', 'testing', 'positive', 'coronavirus']",0
+275,"['http', 'insider', 'texas', 'governor', 'blame', 'coronavirus', 'case', 'spike', 'young', 'people']",0
+276,"['http', 'coronavirus', 'sunday', 'index', 'html']",0
+277,"['http', 'stevebryant', 'substack']",1
+278,"['http', 'outsideonline', 'world', 'change', 'chart']",0
+279,"['http', 'lawfareblog', 'challenge', 'effective', 'counterterrorism', 'intelligence']",0
+280,"['http', 'newstatesman', 'politics', 'health', 'dark', 'side', 'wellness', 'industry']",0
+281,"['http', 'yale', 'feature', 'global', 'regulator', 'selling', 'world', 'largest', 'tuna']",0
+282,"['http', 'militarytimes', 'news', 'military', 'tinder', 'sailor', 'hooker', 'pimp', 'navy', 'trafficking', 'scandal', 'bahrain']",0
+283,"['http', 'onezero', 'medium', 'segway', 'inventor', 'project', 'manufacturing', 'human', 'organ']",0
+284,"['http', 'thedailybeast', 'google', 'founder', 'sergey', 'brin', 'secret', 'disaster', 'relief', 'squad']",0
+285,"['http', 'youtube', 'watch', 'xxxqw', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",0
+286,"['http', 'layohn', 'village', 'built', 'among', 'rock', 'html']",0
+287,"['http', 'story', 'californiasunday', 'small', 'business', 'covid', 'north', 'light']",0
+288,"['http', 'nybooks', 'article', 'college', 'worth']",0
+289,"['http', 'robert', 'goetzfried']",0
+290,"['http', 'redd', 'mzrpdbygb']",0
+291,"['http', 'future', 'article', 'better', 'predicting', 'future', 'think']",0
+292,"['http', 'popularmechanics', 'culture', 'gaming', 'lego', 'bionicle', 'faber']",0
+293,"['http', 'googlemapsmania', 'blogspot', 'lived', 'house', 'html']",0
+294,"['http', 'ankit', 'alone']",0
+295,"['http', 'youtube', 'watch', 'jedph', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",0
+296,"['http', 'noemamag', 'statue', 'limitation']",0
+297,"['http', 'inverse', 'mind', 'body', 'first', 'stay', 'home']",0
+298,"['http', 'mcsweeneys', 'article', 'america', 'explained', 'pant']",0
+299,"['http', 'theracquet', 'substack', 'modernisation', 'tennis']",0
+301,"['http', 'briefingday', 'commentform']",0
+305,"['http', 'rentalcarrally']",0
+306,"['http', 'arbesman', 'substack', 'revisiting', 'world', 'simulation']",0
+307,"['http', 'uncertaintymindset', 'substack', 'preference', 'uncertainty']",0
+308,"['http', 'mailchi', 'racial', 'capitalism', 'stack', 'green', 'deal', 'finding', 'right', 'simplifier']",0
+309,"['http', 'drawinglinks', 'substack']",1
+310,"['http', 'breakingsmart', 'substack']",0
+311,"['http', 'othervalleys', 'substack']",0
+312,"['http', 'themargins', 'substack']",0
+313,"['http', 'messynessychic']",0
+314,"['http', 'youtube', 'watch']",0
+315,"['http', 'apps', 'apple', 'oblique', 'strategy']",0
+316,"['http', 'amazon']",0
+317,"['http', 'wikipedia', 'wiki', 'alifornia']",0
+318,"['http', 'abcnews', 'state', 'record', 'high', 'covid', 'case', 'story']",0
+319,"['http', 'theguardian', 'world', 'coronavirus', 'world', 'country', 'covid', 'case', 'death']",0
+320,"['http', 'apnews']",0
+321,"['http', 'section', 'health', 'shot', 'tracking', 'spread', 'coronavirus']",0
+322,"['http', 'nytimes', 'world', 'coronavirus', 'live', 'update', 'html', 'link']",0
+323,"['http', 'theskimm', 'invite']",1
+324,"['http', 'theskimm', 'daily', 'skimm']",1
+325,"['http', 'theskimm']",1
+337,"['http', 'morningbrew', 'daily', 'story', 'week', 'review', 'crossword', 'june']",0
+338,"['http', 'dcist', 'story', 'past', 'present', 'potential', 'future', 'statehood', 'explained']",0
+339,"['http', 'oversight', 'house', 'site', 'democrat', 'oversight', 'house', 'file', 'ayor', 'owser', 'estimony']",0
+340,"['http', 'cato', 'publication', 'commentary', 'statehood', 'fool', 'errand']",0
+341,"['http', 'statehood', 'columbia']",0
+342,"['http', 'wamu', 'story', 'statehood', 'back', 'table', 'need', 'know', 'push', 'become', 'state']",0
+343,"['http', 'politico', 'news', 'house', 'vote', 'statehood']",0
+344,"['http', 'geoguessr']",0
+345,"['http', 'nerdfitness', 'blog', 'beginner', 'body', 'weight', 'workout', 'burn', 'build', 'muscle']",0
+346,"['http', 'nytimes', 'wild', 'removed', 'html']",0
+347,"['http', 'imdb', 'title']",0
+348,"['http', 'penguinrandomhouse', 'book', 'wild', 'krakauer']",0
+349,"['http', 'podcasts', 'apple', 'podcast', 'megatrends', 'think', 'long', 'term', 'downturn']",0
+350,"['http', 'blog', 'announcement', 'decision', 'capitalize', 'black']",0
+351,"['http', 'content']",0
+352,"['http', 'reuters', 'article', 'american', 'airline', 'offering', 'american', 'airline', 'sell', 'share', 'debt', 'cope', 'coronavirus']",0
+353,"['http', 'tech', 'north', 'face', 'facebook', 'index', 'html']",0
+354,"['http', 'reuters', 'article', 'stock', 'weekahead', 'wall', 'street', 'week', 'ahead', 'london', 'index', 'reshuffle', 'give', 'healthcare', 'stock', 'bigger', 'profile']",0
+355,"['http', 'forbes', 'site', 'lisakocay', 'electric', 'blockaloo', 'livestream', 'music', 'festival', 'minecraft']",0
+356,"['http', 'morningbrew', 'daily', 'story', 'week', 'ahead', 'june']",0
+357,"['http', 'article', 'york', 'city', 'reopens', 'driving', 'becomes', 'tempting', 'commute']",0
+358,"['http', 'article', 'yorkers', 'return', 'office', 'staying', 'away']",0
+359,"['http', 'morningbrew', 'daily', 'story', 'enters', 'phase', 'reopening']",0
+360,"['http', 'youtube', 'watch']",0
+361,"['http', 'article', 'short', 'seller', 'made', 'billion', 'wirecards', 'plunge', 'without', 'scar']",0
+362,"['http', 'nytimes', 'business', 'wirecard', 'scandal', 'html']",0
+363,"['http', 'morningbrew', 'daily', 'story', 'whats', 'happening', 'wirecard']",0
+364,"['http', 'geoffrey', 'berman', 'attorney', 'prosecuted', 'trump', 'ally', 'wont', 'quit']",0
+365,"['http', 'morningbrew', 'daily', 'story', 'sdny', 'prosecutor', 'resigns', 'trump', 'chairman', 'nominated', 'take']",0
+366,"['http', 'developer', 'apple']",0
+367,"['http', 'apnews']",0
+369,"['http', 'theverge', 'apple', 'email', 'basecamp', 'rejection', 'response', 'controversy', 'antitrust', 'regulation']",0
+370,"['http', 'morningbrew', 'daily', 'story', 'apple', 'wwdc', 'virtual', 'first', 'time', 'ever']",0
+373,"['http', 'blackrock', 'individual']",1
+374,"['http', 'morningbrew', 'daily', 'story']",1
+375,"['http', 'morningbrew', 'daily']",0
+377,"['http', 'itsmestevebryant']",0
+381,"['http', 'briefingday', 'commentform']",0
+383,"['http', 'rollingstone', 'music', 'music', 'feature', 'penny', 'lane', 'beatles', 'slave', 'trade']",0
+384,"['http', 'airspacemag', 'history', 'flight', 'first', 'force']",0
+385,"['http', 'nbcnews', 'think', 'opinion', 'bullet', 'journal', 'paper', 'planner', 'rage', 'ncna']",0
+386,"['http', 'vice', 'article', 'wemm', 'strip', 'club', 'forced', 'creative', 'reopen', 'amid', 'coronavirus']",0
+387,"['http', 'youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",0
+388,"['http', 'youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",0
+389,"['http', 'youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",0
+390,"['http', 'protocol', 'apple', 'wwdc', 'developer']",0
+391,"['http', 'seth', 'blog', 'whats', 'front', 'line']",0
+392,"['http', 'section', 'coronavirus', 'live', 'update', 'barcelona', 'opera', 'reopens', 'audience', 'plant']",0
+393,"['http', 'wired', 'story', 'human', 'startup', 'investing', 'people']",0
+394,"['http', 'theguardian', 'money', 'martin', 'lewis', 'money', 'happiness', 'money', 'destroys', 'life']",0
+396,"['http', 'getpocket', 'explore', 'item', 'meat', 'paradox', 'reveals', 'moral', 'decision', 'making']",0
+397,"['http', 'percentinvisible', 'article', 'insert', 'coin', 'lump', 'coal', 'brief', 'year', 'history', 'vending', 'machine']",0
+398,"['http', 'theguardian', 'artanddesign', 'gallery', 'brief', 'history', 'protest', 'whitney', 'york']",0
+399,"['http', 'discovermagazine', 'health', 'sometimes', 'virus', 'good', 'health']",0
+400,"['http', 'melmagazine', 'story', 'everything', 'wikihow']",0
+401,"['http', 'theconversation', 'journalist', 'believe', 'news', 'opinion', 'separate', 'reader', 'cant', 'tell', 'difference']",0
+402,"['http', 'science', 'health', 'optical', 'illusion', 'science', 'humility', 'reality', 'polarization']",0
+403,"['http', 'fivethirtyeight', 'feature', 'police', 'reform', 'fundamentally', 'flawed', 'idea']",0
+404,"['http', 'apnews']",0
+405,"['http', 'noemamag', 'long', 'shadow', 'future']",0
+406,"['http', 'brookings', 'multi', 'chapter', 'report', 'opioid', 'crisis', 'america', 'domestic', 'international', 'dimension']",0
+407,"['http', 'salon', 'inside', 'blue', 'leak', 'trove', 'hacked', 'police', 'document', 'released', 'anonymous']",0
+408,"['http', 'thewalrus', 'shopping', 'mall', 'might', 'coming', 'back']",0
+411,"['http', 'oldfashioned', 'tech']",0
+412,"['http', 'youtube', 'watch']",0
+413,"['http', 'news', 'world', 'canada']",0
+414,"['http', 'dupont', 'product', 'dupont', 'tychem', 'html']",0
+415,"['http', 'tacobell', 'food', 'specialty', 'chalupa', 'supreme']",0
+416,"['http', 'coronavirus', 'ncov', 'traveler', 'travel', 'html']",0
+417,"['http', 'tinyletter', 'transportation']",0
+418,"['http', 'whyisthisinteresting', 'substack', 'interesting', 'autopilot']",1
+420,"['http', 'insidehook', 'daily', 'brief', 'dating', 'woman', 'dont', 'date']",0
+421,"['http', 'good', 'firework', 'complaint', 'northeastern', 'city']",0
+422,"['http', 'tiqets', 'blog', 'black', 'history', 'museum']",0
+423,"['http', 'flowingdata', 'generation', 'population']",0
+424,"['http', 'thisiscolossal', 'joerg', 'daiber', 'flower', 'power']",0
+425,"['http', 'admin', 'preview', 'thrillist', 'drink', 'nation', 'beer', 'changed', 'america', 'influential', 'beer', 'brewery']",0
+426,"['http', 'visualcapitalist', 'visualizing', 'true', 'size', 'land', 'mass', 'largest', 'smallest']",0
+427,"['http', 'nytimes', 'business', 'cheese', 'cheddar', 'price', 'html']",0
+428,"['http', 'theverge', 'crisis', 'text', 'line', 'racism', 'insensitivity', 'police', 'nancy', 'lublin', 'mental', 'health']",0
+430,"['http', 'reuters', 'article', 'saudi', 'saudi', 'arabia', 'arrival', 'abroad', 'attend']",0
+431,"['http', 'politico', 'news', 'trump', 'extends', 'foreign', 'worker', 'restriction']",0
+432,"['http', 'apnews', 'dcff']",0
+433,"['http', 'cnbc', 'patagonia', 'join', 'growing', 'list', 'company', 'boycotting', 'facebook', 'html']",0
+434,"['http', 'reuters', 'article', 'stock', 'wall', 'street', 'higher', 'boost', 'technology', 'stock']",0
+435,"['http', 'reuters', 'article', 'economy', 'home', 'sale', 'nine', 'half', 'year', 'price', 'growth', 'cool']",0
+436,"['http', 'news', 'japan', 'capture', 'crown', 'powered', 'supercomputer']",0
+437,"['http', 'theverge', 'apple', 'email', 'approval', 'rule', 'basecamp', 'launch']",0
+438,"['http', 'theverge', 'apple', 'processor', 'silicon', 'chip', 'wwdc']",0
+439,"['http', 'nature', 'article']",0
+440,"['http', 'player', 'association', 'reject', 'game', 'proposal', 'season']",0
+441,"['http', 'hollywoodreporter', 'news', 'golden', 'globe', 'oscar', 'delay']",0
+442,"['http', 'variety', 'film', 'news', 'joel', 'schumacher', 'dead', 'batman', 'director']",0
+443,"['http', 'espn', 'racing', 'nascar', 'story', 'richard', 'petty', 'attend', 'talladega', 'support', 'bubba', 'wallace']",0
+444,"['http', 'christopher', 'cloos']",1
+445,"['http', 'tech', 'wirecard', 'missing', 'money', 'index', 'html']",0
+446,"['http', 'content']",0
+448,"['http', 'reuters', 'article', 'wirecard', 'account', 'total', 'disaster', 'phantom', 'billion', 'plunge', 'wirecard', 'chaos']",0
+449,"['http', 'politico', 'news', 'everybody', 'hate', 'john', 'bolton']",0
+450,"['http', 'lawfareblog', 'assessing', 'government', 'lawsuit', 'john', 'bolton']",0
+451,"['http', 'thehill', 'homenews', 'administration', 'trump', 'lash', 'bolton', 'book', 'release']",0
+452,"['http', 'apnews']",0
+454,"['http', 'nbcnewyork', 'news', 'local', 'reopening', 'highest', 'gear', 'shop', 'outdoor', 'dining', 'playground', 'return', 'monday']",0
+455,"['http', 'theguardian', 'world', 'coronavirus', 'spike', 'first', 'wave']",0
+456,"['http', 'coronavirus', 'testing', 'individual', 'state', 'florida']",0
+457,"['http', 'orlandosentinel', 'coronavirus', 'coronavirus', 'monday', 'june', 'uuntnu', 'vqzff', 'hsuet', 'mgsbwa', 'story', 'html']",0
+462,"['http', 'classy', 'campaign', 'help', 'keep', 'virtual', 'door', 'open']",0
+463,"['http', 'lovevery', 'page', 'play', 'program']",0
+464,"['http', 'curiouselixirs']",0
+466,"['http', 'chocolateforbasil', 'squarespace', 'blog', 'pretzel', 'shortbread', 'cooky']",0
+467,"['http', 'open', 'spotify', 'playlist', 'oywva']",0
+468,"['http', 'mybillie', 'page', 'skimm']",1
+469,"['http', 'ballotpedia', 'ample', 'allot', 'ookup']",0
+470,"['http', 'usatoday', 'story', 'news', 'world', 'huge', 'circle', 'ancient', 'shaft', 'found', 'near', 'stonehenge']",0
+471,"['http', 'theverge', 'apple', 'update', 'cycling', 'direction', 'electric', 'charging', 'wwdc']",0
+472,"['http', 'cnet', 'news', 'wwdc', 'everything', 'apple', 'announced', 'macos', 'chip', 'siri', 'message', 'memoji']",0
+473,"['http', 'businessinsider', 'apple', 'wwdc', 'keynote', 'live', 'blog', 'watchos', 'announcement', 'feature', 'ipad', 'airpods']",0
+474,"['http', 'apnews']",0
+475,"['http', 'usatoday', 'nascar', 'bubba', 'wallace', 'geico', 'talladega', 'infield']",0
+476,"['http', 'nascar', 'noose', 'bubba', 'wallace', 'trnd', 'index', 'html']",0
+477,"['http', 'theskimm', 'immigration', 'policy', 'election']",0
+478,"['http', 'businessinsider', 'amazon', 'google', 'twitter', 'speak', 'trump', 'visa', 'freeze']",0
+479,"['http', 'newshour', 'economy', 'making', 'sense', 'myth', 'immigrant', 'affect', 'economy']",0
+480,"['http', 'nbcnews', 'business', 'economy', 'economy', 'shed', 'record', 'million', 'last']",0
+481,"['http', 'trump', 'expected', 'suspend', 'visa', 'year']",0
+482,"['http', 'entertainment', 'hamilton', 'movie', 'trailer', 'disney', 'intl', 'scli', 'index', 'html']",0
+484,"['http', 'communication', 'fidelity', 'retirement']",0
+500,"['http', 'gothamist', 'news', 'firework', 'complaint', 'increase', 'june', 'official', 'seek', 'supplier', 'crackdown']",0
+501,"['http', 'livemorningbrewkevinolearytalk', 'splashthat']",0
+502,"['http', 'link', 'morningbrew', 'join', 'thankyou', 'hash']",0
+503,"['http', 'pudding', 'cool', 'music', 'challenge']",0
+504,"['http', 'pudding', 'cool', 'karen']",0
+505,"['http', 'theverge', 'apple', 'update', 'home', 'screen', 'redesign', 'feature', 'release', 'date', 'wwdc']",0
+506,"['http', 'theverge', 'apple', 'wwdc', 'recap', 'biggest', 'announcement', 'ipados', 'macos', 'silicon', 'chip']",0
+507,"['http', 'foursigmatic', 'summer', 'sale']",0
+508,"['http', 'joinhoney']",1
+509,"['http', 'consequenceofsound', 'grateful', 'dead', 'deodorant']",0
+510,"['http', 'apnews', 'cbcd', 'ffef']",0
+511,"['http', 'axios', 'texas', 'coronavirus', 'case', 'spread', 'ecfaa', 'html']",0
+512,"['http', 'cnbc', 'bill', 'ackmans', 'blank', 'check', 'company', 'billion', 'called', 'mature', 'unicorn', 'html']",0
+513,"['http', 'arstechnica', 'gadget', 'apple', 'roadmap', 'moving', 'first', 'away', 'intel']",0
+514,"['http', 'theverge', 'microsoft', 'gaming', 'cloud', 'xbox', 'future']",0
+515,"['http', 'theloadout', 'mixer', 'facebook', 'gaming', 'ninja', 'shroud', 'contract', 'offer', 'turned']",0
+516,"['http', 'theverge', 'microsoft', 'mixer', 'closing', 'facebook', 'gaming', 'partnership', 'xcloud', 'feature']",0
+517,"['http', 'morningbrew', 'daily', 'story', 'microsoft', 'shuts', 'mixer']",0
+519,"['http', 'reuters', 'article', 'court', 'supreme', 'court', 'limit', 'power', 'recover', 'gotten', 'gain']",0
+520,"['http', 'morningbrew', 'daily', 'story', 'supreme', 'court', 'limit', 'disgorgement', 'practice']",0
+521,"['http', 'techcrunch', 'canva', 'design', 'platform', 'partner', 'fedex', 'office', 'push']",0
+522,"['http', 'techcrunch', 'canva', 'raise', 'million', 'billion', 'valuation']",0
+523,"['http', 'morningbrew', 'daily', 'story', 'canva', 'worth', 'billion', 'recent', 'round']",0
+524,"['http', 'article', 'trump', 'order', 'would', 'temporarily', 'suspend', 'visa']",0
+525,"['http', 'axios', 'immigrant', 'suspension', 'coronavirus', 'trump', 'html']",0
+526,"['http', 'buzzfeednews', 'article', 'adolfoflores', 'trump', 'suspending', 'certain', 'visa', 'foreign', 'worker']",0
+527,"['http', 'morningbrew', 'daily', 'story', 'trump', 'sign', 'order', 'restricting', 'immigration']",0
+528,"['http', 'reuters', 'article', 'facebook', 'patagonia', 'patagonia', 'join', 'north', 'face', 'facebook', 'boycott']",0
+529,"['http', 'article', 'google', 'revenue', 'expected', 'decline', 'emarketer']",0
+530,"['http', 'cnbc', 'google', 'revenue', 'drop', 'year', 'emarketer', 'html']",0
+531,"['http', 'morningbrew', 'daily', 'story', 'google', 'revenue', 'expected', 'fall']",0
+532,"['http', 'article', 'rally', 'material', 'signal', 'economic', 'rebound']",0
+533,"['http', 'apnews', 'fcff']",0
+534,"['http', 'fool', 'content', 'stock', 'alert']",0
+536,"['http', 'morningbrew', 'daily']",0
+538,"['http', 'bigspaceship', 'list', 'manage', 'profile']",1
+539,"['http', 'bigspaceship', 'list', 'manage', 'unsubscribe']",1
+540,"['http', 'forward', 'friend', 'forward']",1
+541,"['http', 'atlanta', 'spotlight', 'brook', 'funeral', 'index', 'html']",0
+542,"['http', 'cosmopolitan', 'politics', 'kentucky', 'voting', 'election', 'polling', 'location', 'help', 'donate']",0
+543,"['http', 'apnews']",0
+544,"['http', 'eonline', 'news', 'tennis', 'star', 'novak', 'djokovic', 'test', 'positive', 'coronavirus']",0
+550,"['http', 'theverge', 'spotify', 'interactive', 'podcasts', 'offer', 'launch']",0
+551,"['http', 'youtube', 'watch', 'ndag', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",0
+553,"['http', 'buzzfeed', 'natashajokic', 'megan', 'jimmy', 'kimmel', 'interview']",0
+554,"['http', 'variety', 'news', 'rock', 'blackface', 'episode', 'removed', 'tina']",0
+555,"['http', 'theverge', 'spongebob', 'squarepants', 'digital', 'release', 'delay', 'streaming', 'access', 'warner', 'bros', 'tenet']",0
+556,"['http', 'movie', 'chicken', 'work', 'netflix']",0
+557,"['http', 'hollywoodreporter', 'live', 'feed', 'cobra', 'move', 'netflix']",0
+559,"['http', 'buzzfeed', 'shelbyheinrich', 'tiktok', 'song', 'jingle', 'statistic', 'viral']",0
+560,"['http', 'youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",0
+561,"['http', 'youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",0
+562,"['http', 'youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",0
+563,"['http', 'mailchi', 'bigspaceship', 'spaceship', 'internet', 'brunch']",0
+565,"['http', 'theskimm', 'pick', 'thing', 'youll', 'need', 'smooth', 'road', 'trip']",1
+567,"['http', 'tennessean', 'story', 'news', 'tennessean', 'fire', 'manager', 'donates', 'fund', 'plan', 'training', 'anti', 'muslim']",0
+568,"['http', 'theguardian', 'artanddesign', 'expert', 'call', 'regulation', 'latest', 'botched', 'restoration', 'spain']",0
+569,"['http', 'sciencealert', 'number', 'understand', 'letter', 'symbol']",0
+570,"['http', 'mymodernmet', 'tibetan', 'book', 'printed', 'gutenberg', 'bible']",0
+572,"['http', 'livescience', 'hottest', 'arctic', 'circle', 'temperature', 'ever', 'siberia', 'html']",0
+574,"['http', 'theguardian', 'environment', 'gallery', 'otherworldly', 'life', 'giving', 'award', 'winning', 'photo', 'theme', 'water']",0
+575,"['http', 'axios', 'protest', 'fuel', 'record', 'traffic', 'donation', 'site', 'html']",0
+576,"['http', 'news', 'world', 'canada']",0
+577,"['http', 'nbcnews', 'news', 'latino', 'magnitude', 'earthquake', 'rock', 'mexico']",0
+578,"['http', 'thehill', 'homenews', 'state', 'watch', 'texas', 'governor', 'urge', 'resident', 'stay', 'home', 'state', 'report', 'high']",0
+579,"['http', 'apnews']",0
+580,"['http', 'theverge', 'european', 'union', 'travel', 'coronavirus', 'reopening', 'border', 'draft', 'list']",0
+581,"['http', 'countable', 'article', 'major', 'difference', 'democrat', 'republican', 'police', 'reform', 'bill']",0
+582,"['http', 'politico', 'news', 'harris', 'booker', 'schumer', 'police', 'plan']",0
+583,"['http', 'tech', 'wirecard', 'markus', 'braun', 'arrested', 'index', 'html']",0
+584,"['http', 'reuters', 'article', 'johnson', 'johnson', 'talc', 'lawsuit', 'loses', 'overturn', 'baby', 'powder', 'verdict', 'damage', 'billion']",0
+585,"['http', 'news', 'ucsc', 'pluto', 'ocean', 'html']",0
+586,"['http', 'axios', 'mercedes', 'nvidia', 'self', 'driving', 'update', 'html']",0
+587,"['http', 'eruption', 'alaska', 'okmok', 'volcano', 'linked', 'mysterious', 'period', 'extreme', 'cold', 'ancient', 'rome']",0
+588,"['http', 'hollywoodreporter', 'news', 'jeremy', 'charged', 'raping', 'three', 'woman']",0
+589,"['http', 'deadline', 'weekend', 'office', 'coroanvirus', 'cinemark', 'jurassic', 'park', 'troll', 'world', 'tour']",0
+590,"['http', 'hollywoodreporter', 'live', 'feed', 'jimmy', 'kimmel', 'apologizes', 'blackface', 'impression', 'star', 'karl', 'malone']",0
+591,"['http', 'dropps', 'page', 'welcome']",1
+592,"['http', 'news', 'video', 'puerto', 'rico', 'saharan', 'dust', 'moved', 'across', 'atlantic']",0
+593,"['http', 'nbcnews', 'news', 'news', 'suspect', 'custody', 'alleged', 'arson', 'wendy', 'rayshard', 'brook']",0
+594,"['http', 'news', 'local', 'exclusive', 'atlanta', 'charged', 'brook', 'case', 'truth', 'come']",0
+595,"['http', 'lifestyle', 'photo', 'rayshard', 'brook', 'funeral', 'ebenezer', 'baptist', 'church']",0
+596,"['http', 'cbsnews', 'news', 'rayshard', 'brook', 'funeral', 'today', 'atlanta', 'ebenezer', 'baptist', 'church']",0
+597,"['http', 'thehill', 'homenews', 'campaign', 'madison', 'cawthorn', 'defeat', 'meadow', 'ally', 'north', 'carolina', 'house', 'runoff']",0
+598,"['http', 'thehill', 'homenews', 'campaign', 'bowman', 'lead', 'engel', 'york', 'primary', 'vote', 'count', 'continues']",0
+599,"['http', 'usatoday', 'story', 'news', 'politics', 'election', 'june', 'primary', 'charles', 'booker', 'mcgrath', 'result', 'delayed']",0
+600,"['http', 'politico', 'news', 'tuesday', 'primary', 'york', 'kentucky']",0
+614,"['http', 'techcrunch', 'mschf', 'finger']",0
+615,"['http', 'morningbrew', 'daily', 'story', 'youre', 'getting', 'married', 'pandemic']",0
+616,"['http', 'wework', 'info', 'future', 'work', 'flexible']",0
+617,"['http', 'fool', 'ascent', 'credit', 'card', 'landing', 'citi', 'diamond', 'preferred']",1
+618,"['http', 'reuters', 'article', 'trump', 'twitter', 'twitter', 'warning', 'notice', 'trump', 'tweet', 'abusive', 'behavior']",0
+619,"['http', 'nytimes', 'business', 'stacy', 'brown', 'philpot', 'taskrabbit', 'html']",0
+620,"['http', 'article', 'dell', 'explores', 'option', 'vmware', 'stake']",0
+621,"['http', 'morningbrew', 'daily', 'story', 'mask', 'prove', 'puzzling', 'retail', 'category', 'html']",0
+622,"['http', 'cnbc', 'etsy', 'stock', 'climb', 'record', 'tripled', 'since', 'march', 'spurred', 'mask', 'html']",0
+623,"['http', 'politics', 'coronavirus', 'travel', 'index', 'html']",0
+624,"['http', 'apnews']",0
+625,"['http', 'fastcompany', 'exclusive', 'segway', 'hyped', 'invention', 'since', 'macintosh', 'production']",0
+626,"['http', 'morningbrew', 'daily', 'story', 'segway', 'shut', 'july']",0
+627,"['http', 'forbes', 'site', 'quora', 'jeff', 'bezos', 'banned', 'powerpoint', 'presentation', 'amazon', 'meeting', 'replaced', 'eebafb']",0
+630,"['http', 'apnews', 'fdcf']",0
+631,"['http', 'breonna', 'taylor', 'shooting', 'officer', 'fired', 'index', 'html']",0
+632,"['http', 'theguardian', 'news', 'breonna', 'taylor', 'louisville', 'protest', 'george', 'floyd']",0
+633,"['http', 'usatoday', 'story', 'news', 'nation', 'breonna', 'taylor', 'case', 'louisville', 'police', 'nearly', 'blank', 'incident', 'report']",0
+634,"['http', 'businessinsider', 'mcgrath', 'charles', 'booker', 'kentucky', 'primary', 'live', 'result', 'update']",0
+635,"['http', 'courier', 'journal', 'story', 'news', 'politics', 'kentucky', 'official', 'refute', 'primary', 'voter', 'suppression', 'claim']",0
+637,"['http', 'nbcnews', 'politics', 'election', 'wisconsin', 'vote', 'national', 'guard', 'called', 'many', 'polling', 'place']",0
+638,"['http', 'theguardian', 'news', 'georgia', 'election', 'primary', 'long', 'line', 'broken', 'voting', 'machine']",0
+639,"['http', 'cbsnews', 'news', 'kentucky', 'primary', 'election', 'turnout', 'historic']",0
+640,"['http', 'nytimes', 'politics', 'kentucky', 'york', 'election', 'recap', 'html']",0
+641,"['http', 'section', 'live', 'update', 'protest', 'racial', 'justice', 'nascars', 'bubba', 'wallace', 'target', 'hate', 'crime']",0
+642,"['http', 'cbsnews', 'news', 'fauci', 'coronavirus', 'testing', 'house', 'committee', 'testimony']",0
+644,"['http', 'newyorker', 'news', 'news', 'desk', 'went', 'wrong', 'coronavirus', 'testing']",0
+646,"['http', 'nytimes', 'rayshard', 'brook', 'police', 'tactic', 'html']",0
+647,"['http', 'nbcnews', 'news', 'news', 'george', 'floyd', 'memorial', 'loved', 'goodbye', 'whose', 'death']",0
+648,"['http', 'nbcnews', 'news', 'sport', 'baseball', 'restart', 'athlete', 'heading', 'back', 'training', 'player', 'union']",0
+649,"['http', 'people', 'human', 'interest', 'lawn', 'raise', 'money', 'black', 'life', 'matter']",0
+650,"['http', 'theskimm', 'pick', 'gift', 'friend', 'whose', 'wedding', 'postponed']",0
+651,"['http', 'womenshealthmag', 'beauty', 'pedicure', 'home']",0
+653,"['http', 'fool', 'ascent', 'credit', 'card', 'landing', 'discover', 'cash', 'back', 'review']",1
+654,"['http', 'sephora', 'product', 'ultra', 'repair', 'cream', 'intense', 'hydration']",0
+655,"['http', 'article', 'amazon', 'launch', 'billion', 'venture', 'capital', 'fund', 'invest', 'clean', 'energy']",0
+656,"['http', 'morningbrew', 'daily', 'story', 'amazon', 'announces', 'climate', 'fund']",0
+658,"['http', 'former', 'wirecard', 'markus', 'braun', 'arrested']",0
+660,"['http', 'flickr', 'people', 'websummit']",0
+661,"['http', 'creativecommons', 'license']",1
+662,"['http', 'flickr', 'photo', 'websummit']",0
+663,"['http', 'morningbrew', 'daily', 'story', 'german', 'regulator', 'criticized', 'wirecard', 'disaster']",0
+664,"['http', 'article', 'stock', 'index', 'telling', 'different', 'story']",0
+665,"['http', 'creativecommons', 'license', 'legalcode']",0
+666,"['http', 'common', 'wikimedia', 'wiki', 'stock', 'market', 'display']",0
+667,"['http', 'morningbrew', 'daily', 'story', 'major', 'stock', 'index', 'grow', 'historic', 'distance']",0
+668,"['http', 'article', 'impose', 'abbreviated', 'season']",0
+669,"['http', 'nytimes', 'world', 'coronavirus', 'update', 'html']",0
+670,"['http', 'politico', 'state', 'florida', 'story', 'desantis', 'pivot', 'covid', 'surge', 'testing', 'doesnt', 'account', 'spike']",0
+671,"['http', 'axios', 'trump', 'coronavirus', 'testing', 'kidding', 'html']",0
+672,"['http', 'cnbc', 'average', 'coronavirus', 'case', 'surge', 'percent', 'week', 'html']",0
+673,"['http', 'cnbc', 'fauci', 'part', 'seeing', 'distrubing', 'surge', 'coronavirus', 'html']",0
+674,"['http', 'morningbrew', 'daily', 'story', 'fauci', 'official', 'warn', 'disturbing', 'surge', 'coronavirus', 'case']",0
+675,"['http', 'cnbc', 'stock', 'market', 'future', 'open', 'close', 'news', 'html']",0
+676,"['http', 'reuters', 'article', 'trade', 'china', 'china', 'picked', 'game', 'trade', 'trump', 'adviser']",0
+678,"['http', 'policygenius', 'homeowner', 'insurance']",1
+680,"['http', 'morningbrew', 'daily']",0
+684,"['http', 'sephora', 'product', 'first', 'beauty', 'limited', 'edition']",0
+685,"['http', 'firstaidbeauty']",0
+686,"['http', 'lunya', 'collection', 'skimmrs', 'code', 'skimmr']",0
+689,"['http', 'tuesday', 'primary', 'race', 'watch', 'live', 'result']",0
+690,"['http', 'weather', 'mexico', 'earthquake', 'southern', 'coast', 'intl', 'index', 'html']",0
+692,"['http', 'theverge', 'amazon', 'prime', 'video', 'live', 'linear']",0
+693,"['http', 'nytimes', 'style', 'leslie', 'jordan', 'instagram', 'html']",0
+694,"['http', 'variety', 'podcasts', 'miley', 'cyrus', 'black', 'mirror', 'britney', 'spear', 'sobriety']",0
+695,"['http', 'variety', 'news', 'kendrick', 'sampson', 'tessa', 'thompson', 'black', 'life', 'matter', 'letter', 'hollywood', 'divest', 'police']",0
+696,"['http', 'deadline', 'terry', 'crew', 'brooklyn', 'nine', 'nine', 'scrap', 'four', 'episode', 'george', 'floyds', 'death']",0
+697,"['http', 'refinery', 'shes', 'dark', 'amanda', 'bynes', 'sexism']",0
+698,"['http', 'culture', 'eurovision', 'review', 'interview', 'ferrell', 'rachel', 'mcadams', 'netflix']",0
+699,"['http', 'tiktok', 'miss', 'excel']",0
+700,"['http', 'nytimes', 'style', 'roller', 'skating', 'back', 'baby', 'html']",0
+701,"['http', 'youtube', 'watch', 'qrinh', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",0
+702,"['http', 'mailchi', 'bigspaceship', 'spaceship', 'internet', 'brunch']",0
+703,"['http', 'rainydayclothing', 'sticker']",0
+707,"['http', 'youtube', 'watch', 'tzfg']",0
+708,"['http', 'youtube', 'watch']",0
+709,"['http', 'youtube', 'watch']",0
+710,"['http', 'youtube', 'watch']",0
+711,"['http', 'product']",0
+712,"['http', 'youtube', 'watch']",0
+713,"['http', 'account', 'google', 'ervice', 'ogin']",1
+714,"['http', 'youtube', 'channel', 'hbmb']",0
+715,"['http', 'howtospendit', 'house', 'garden', 'john', 'pawson', 'favourite', 'bookcase']",0
+716,"['http', 'outlier']",1
+717,"['http', 'shop', 'outlier', 'shop', 'retail', 'beach', 'thing', 'html']",0
+718,"['http', 'theatlantic', 'health', 'archive', 'became', 'poker', 'champion', 'year']",0
+721,"['http', 'reuters', 'article', 'health', 'coronavirus', 'wave', 'explainer', 'second', 'wave', 'pandemic', 'arrived']",0
+722,"['http', 'quantamagazine', 'south', 'asia', 'covid', 'number']",0
+723,"['http', 'news', 'world']",0
+724,"['http', 'visualcapitalist', 'covid', 'impact', 'advertising', 'spend']",0
+725,"['http', 'knowablemagazine', 'article', 'health', 'disease', 'america', 'unhealthy', 'inequality', 'kill']",0
+726,"['http', 'worklife', 'article', 'think', 'pressure']",0
+727,"['http', 'latimes', 'lifestyle', 'story', 'comedian', 'laurie', 'kilmarten', 'live', 'tweet', 'mother', 'death']",0
+728,"['http', 'thrillist', 'travel', 'nation', 'travel', 'trend', 'road', 'trip', 'scenic', 'drive', 'camping']",0
+729,"['http', 'currentaffairs', 'personality', 'sale']",0
+730,"['http', 'restofworld', 'india', 'magh', 'mela']",0
+731,"['http', 'marketplace', 'forgotten', 'paved', 'today', 'battle', 'immigration']",0
+732,"['http', 'thesunmagazine', 'issue', 'ordinary']",0
+733,"['http', 'saturdayeveningpost', 'good', 'medicine']",0
+734,"['http', 'petapixel', 'photo', 'shoot', 'mike', 'tyson']",0
+735,"['http', 'redd']",0
+736,"['http', 'scmp', 'abacus', 'culture', 'article', 'live', 'streaming', 'commerce', 'booming', 'china', 'covid', 'pandemic']",0
+737,"['http', 'vimeo']",0
+741,"['http', 'briefingday', 'commentform']",0
+743,"['http', 'blog', 'crisis']",0
+745,"['http', 'nytimes', 'dining', 'peanut', 'baseball', 'html']",0
+746,"['http', 'wired', 'story', 'poker', 'psychology', 'uncertainty']",0
+747,"['http', 'youtube', 'watch', 'zuhc', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",0
+748,"['http', 'designyoutrust', 'artist', 'imago', 'famous', 'cartoon', 'character', 'human', 'body', 'result', 'bizarre']",0
+749,"['http', 'designboom', 'architecture', 'nordic', 'office', 'spiraling', 'observation', 'tower', 'nanchang', 'wave', 'china']",0
+750,"['http', 'liadm', 'click']",1
+751,"['http', 'article', 'unemployment', 'benefit', 'weekly', 'jobless', 'claim', 'coronavirus']",0
+752,"['http', 'nbcnews', 'business', 'economy', 'million', 'people', 'filed', 'first', 'time', 'unemployment', 'last', 'week']",0
+753,"['http', 'cbsnews', 'news', 'united', 'state', 'recession', 'started', 'february']",0
+754,"['http', 'covid', 'coronavirus', 'case', 'update', 'texas', 'arizona', 'florida']",0
+755,"['http', 'marketwatch', 'story', 'future', 'slump', 'point', 'resurgence', 'coronavirus', 'case', 'trade', 'tension', 'take', 'focus']",0
+756,"['http', 'cnbc', 'million', 'face', 'income', 'cliff', 'next', 'month', 'extra', 'dollar', 'html']",0
+757,"['http', 'future', 'perfect', 'coronavirus', 'covid', 'economy', 'recession', 'unemployment', 'chetty']",0
+758,"['http', 'liveintent', 'choice']",1
+759,"['http', 'axios', 'american', 'traveler', 'reopen', 'border', 'html']",0
+760,"['http', 'nytimes', 'world', 'europe', 'coronavirus', 'merican', 'travel', 'html']",0
+761,"['http', 'news', 'world', 'europe']",0
+763,"['http', 'policy', 'politics', 'supreme', 'court', 'immigration', 'trump', 'deportation', 'thuraissigiam']",0
+764,"['http', 'section', 'coronavirus', 'live', 'update', 'contact', 'tracing', 'tell', 'cluster', 'spread', 'coronavirus']",0
+765,"['http', 'news', 'state', 'regional', 'govt', 'politics', 'today', 'finest', 'georgia', 'legislature', 'approves', 'hate', 'crime', 'bill']",0
+766,"['http', 'nasa', 'press', 'release', 'nasa', 'name', 'headquarters', 'hidden', 'figure', 'mary', 'jackson']",0
+767,"['http', 'open', 'spotify', 'show']",0
+768,"['http', 'nytimes', 'interactive', 'magazine', 'reparation', 'slavery', 'html']",0
+769,"['http', 'youtube', 'watch', 'byfj']",0
+770,"['http', 'recode', 'facebook', 'misinformation', 'natural', 'news', 'conspiracy', 'theory']",0
+771,"['http', 'good', 'reopening', 'coronavirus', 'florida']",0
+772,"['http', 'trump', 'reelection', 'polling', 'lead']",0
+773,"['http', 'biden', 'president', 'voice', 'america', 'fire', 'michael', 'pack']",0
+774,"['http', 'martha', 'mcsally', 'trip', 'explained']",0
+775,"['http', 'youtube', 'user', 'voxdotcom']",1
+776,"['http', 'page', 'support']",1
+777,"['http', 'voxmedia', 'legal', 'privacy', 'notice']",1
+778,"['http', 'voxmedia', 'legal', 'term']",1
+779,"['http', 'email']",0
+780,"['http', 'email', 'daily', 'brief']",0
+781,['http'],0
+782,"['http', 'subscribe', 'email']",1
+783,"['http', 'guide', 'world', 'coronavirus']",0
+784,"['http', 'guide', 'amazon']",0
+785,"['http', 'guide', 'china', 'africa', 'project']",0
+786,"['http', 'guide']",0
+787,"['http', 'mailchi', 'bigspaceship', 'spaceship', 'internet', 'brunch']",0
+788,"['http', 'youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",0
+789,"['http', 'theverge', 'animal', 'crossing', 'horizon', 'summer', 'update', 'swimming', 'date']",0
+790,"['http', 'movie', 'scott', 'pilgrim', 'world', 'oral', 'history']",0
+791,"['http', 'buzzfeed', 'eleanorbate', 'kristen', 'bell', 'quit', 'voicing', 'biracial', 'central', 'park', 'character']",0
+792,"['http', 'recode', 'instagram', 'black', 'life', 'matter', 'politics', 'blackout', 'tuesday']",0
+793,"['http', 'mashable', 'article', 'apple', 'youtube', 'video', 'background', 'play', 'picture', 'picture']",0
+794,"['http', 'theverge', 'google', 'photo', 'redesign', 'view', 'memory', 'search']",0
+795,"['http', 'hollywoodreporter', 'news', 'disneyland', 'reopening', 'delayed']",0
+796,"['http', 'techcrunch', 'tiktok', 'launch', 'tiktok', 'business', 'marketer', 'take', 'snapchat']",0
+797,"['http', 'york', 'coronavirus', 'travel', 'restriction', 'index', 'html']",0
+798,"['http', 'nbcnews', 'news', 'news', 'three', 'suspect', 'indicted', 'murder', 'death', 'ahmaud', 'arbery', 'georgia']",0
+799,"['http', 'colorado', 'investigation', 'elijah', 'mcclain', 'died', 'custody', 'index', 'html']",0
+800,"['http', 'cbsnews', 'news', 'rhode', 'island', 'name', 'change', 'providence', 'plantation', 'slavery', 'connotation']",0
+804,"['http', 'digg']",1
+805,"['http', 'chewy']",0
+806,"['http', 'theatlantic', 'idea', 'archive', 'dude', 'wont', 'wear', 'mask']",0
+807,"['http', 'nymag', 'intelligencer', 'peter', 'stein', 'lifeguard', 'html']",0
+808,"['http', 'propublica', 'article', 'removed', 'label', 'said', 'medical', 'prohibited', 'tried', 'sell', 'thousand', 'mask', 'official', 'distribute', 'hospital']",0
+809,"['http', 'newrepublic', 'article', 'temping', 'percent']",0
+810,"['http', 'melmagazine', 'story', 'secret', 'life', 'police', 'wife', 'abuse', 'suffer', 'silence']",0
+811,"['http', 'scientificamerican', 'interactive', 'inside', 'coronavirus']",0
+812,"['http', 'newyorker', 'news', 'annals', 'activism', 'bail', 'fund']",0
+813,"['http', 'next', 'angelic', 'troublemaker', 'reset', 'america']",0
+814,"['http', 'digg', 'video', 'german', 'shepherd', 'sneak', 'pool']",0
+815,"['http', 'health', 'coronavirus', 'thursday', 'index', 'html']",0
+816,"['http', 'abcnews', 'grand', 'jury', 'indicts', 'arrested', 'murder', 'ahmaud', 'arbery', 'story']",0
+817,"['http', 'thehill', 'policy', 'healthcare', 'trump', 'admin', 'ending', 'support', 'texas', 'testing', 'site', 'case', 'spike']",0
+818,"['http', 'futurism', 'tesla', 'reportedly', 'sold', 'battery', 'knew', 'catch', 'fire']",0
+819,"['http', 'store', 'digg', 'sale', 'trainz', 'railroad', 'simulator', 'platinum', 'edition', 'bundle']",0
+820,"['http', 'story', 'underground', 'railroad', 'north', 'korea']",0
+821,"['http', 'digg', 'edition', 'story']",0
+822,"['http', 'digg', 'tumblr']",1
+823,"['http', 'youtube', 'user', 'riginal']",1
+824,"['http', 'digg', 'advertising']",1
+825,"['http', 'digg', 'cmail', 'ptitydd', 'vkjjhbly']",0
+827,"['http', 'fultonandroark', 'collection', 'product', 'sample', 'pack']",0
+829,"['http', 'gearpatrol', 'jannard', 'oakley', 'origin', 'story']",0
+830,"['http', 'mossandfog', 'concert', 'plant', 'barcelona']",0
+831,"['http', 'gettheelevator']",1
+832,"['http', 'gettheelevator', 'editorial']",1
+833,"['http', 'theskimm', 'money', 'skimmd', 'couch', 'tiffany', 'warren']",0
+836,"['http', 'goodhousekeeping', 'lifestyle', 'relate', 'research', 'turbo', 'relationship', 'lockdown']",0
+837,"['http', 'apnews']",0
+838,"['http', 'britannica', 'event', 'osovo', 'conflict']",0
+839,"['http', 'nytimes', 'world', 'serb', 'renew', 'crackdown', 'albanian', 'village', 'kosovo', 'html']",0
+840,"['http', 'apnews']",0
+841,"['http', 'reuters', 'article', 'kosovo', 'serbia', 'kosovo', 'declares', 'independence', 'serbia']",0
+842,"['http', 'thehill', 'policy', 'international', 'kosovo', 'president', 'indicted', 'crime', 'cancel', 'trip']",0
+843,"['http', 'reuters', 'article', 'serbia', 'russia', 'kosovo', 'serbia', 'ready', 'sacrifice', 'membership', 'kosovo', 'deal']",0
+844,"['http', 'nbcnews', 'news', 'world', 'kosovo', 'president', 'hashim', 'thaci', 'indicted', 'crime', 'cancel', 'white', 'house']",0
+846,"['http', 'nbcnews', 'news', 'news', 'highest', 'single', 'coronavirus', 'case']",0
+849,"['http', 'axios', 'senate', 'republican', 'police', 'reform', 'bill', 'vote', 'fails', 'html']",0
+850,"['http', 'nytimes', 'politics', 'qualified', 'immunity', 'html']",0
+851,"['http', 'latimes', 'california', 'story', 'george', 'floyd', 'carotid', 'neck', 'hold', 'police']",0
+852,"['http', 'apnorc', 'project', 'idespread', 'esire', 'olicing', 'riminal', 'ustice', 'eform', 'aspx']",0
+853,"['http', 'apnews']",0
+855,"['http', 'york', 'city', 'marathon', 'covid', 'canceled', 'trnd', 'index', 'html']",0
+856,"['http', 'cnet', 'news', 'chicken', 'sequel', 'coming', 'netflix']",0
+857,"['http', 'theskimm', 'money', 'grad', 'school', 'worth', 'student', 'loan']",0
+858,"['http', 'theskimm', 'pick', 'product', 'pack', 'youre', 'flying', 'pandemic']",0
+859,"['http', 'glamour', 'gallery', 'best', 'movie']",0
+860,"['http', 'globalcitizen', 'connect', 'globalgoalunite']",0
+862,"['http', 'cariuma', 'page', 'skimm']",1
+863,"['http', 'drinkolipop']",0
+864,"['http', 'verbenergy', 'trial']",0
+865,"['http', 'uqora']",1
+866,"['http', 'neonatalrescue']",0
+867,"['http', 'simpleswitch']",0
+873,"['http', 'morningbrew', 'daily']",0
+875,"['http', 'magicspoon', 'product', 'pack', 'case']",0
+876,"['http', 'reuters', 'article', 'stock', 'wall', 'street', 'drop', 'rising', 'virus', 'case', 'weak', 'economic', 'view']",0
+877,"['http', 'nytimes', 'politics', 'trump', 'biden', 'poll', 'upshot', 'siena', 'college', 'html']",0
+878,"['http', 'morningbrew', 'daily', 'story', 'report', 'show', 'overwhelming', 'public', 'debt']",0
+880,"['http', 'content']",0
+881,"['http', 'cnbc', 'global', 'economy', 'contract', 'coronavirus', 'recovery', 'slow', 'html']",0
+882,"['http', 'article', 'debt', 'soaring', 'debt', 'risk']",0
+883,"['http', 'morningbrew', 'daily', 'story', 'ford', 'debut']",0
+884,"['http', 'cnbc', 'ford', 'feature', 'integrated', 'generator', 'update', 'html']",0
+885,"['http', 'detroitnews', 'story', 'business', 'auto', 'ford', 'ford', 'series', 'cash', 'haul', 'rank', 'near', 'iphone', 'among', 'product']",0
+886,"['http', 'morningbrew', 'daily', 'story', 'bayer', 'agrees', 'billion', 'settlement', 'roundup', 'lawsuit']",0
+887,"['http', 'flickr', 'photo', 'jeepersmedia']",0
+889,"['http', 'flickr', 'people', 'jeepersmedia']",0
+890,"['http', 'article', 'bayer', 'monsanto', 'became', 'worst', 'corporate', 'dealsin', 'chart']",0
+891,"['http', 'nytimes', 'business', 'roundup', 'settlement', 'lawsuit', 'html']",0
+892,"['http', 'morningbrew', 'daily', 'story', 'crossfit', 'glassman', 'good']",0
+893,"['http', 'business', 'greg', 'glassman', 'selling', 'crossfit', 'index', 'html']",0
+894,"['http', 'business', 'greg', 'glassman', 'crossfit', 'index', 'html']",0
+895,"['http', 'nytimes', 'style', 'greg', 'glassman', 'crossfit', 'sexism', 'html']",0
+896,"['http', 'morningbrew', 'daily', 'story', 'economic', 'political', 'consequence', 'follow', 'djokovics', 'tennis', 'tournament']",0
+897,"['http', 'apnews']",0
+898,"['http', 'apnews']",0
+899,"['http', 'nbcnews', 'news', 'news', 'york', 'jersey', 'connecticut', 'quarantine', 'visitor', 'coronavirus', 'spot']",0
+900,"['http', 'cnbc', 'apple', 'store', 'seven', 'houston', 'store', 'closing', 'covid', 'html']",0
+901,"['http', 'theguardian', 'news', 'texas', 'coronavirus', 'case', 'infection', 'houston', 'hospital']",0
+902,"['http', 'reuters', 'article', 'bankruptcy', 'vitamin', 'chain', 'file', 'bankruptcy', 'close', 'store', 'sell']",0
+903,"['http', 'tech', 'olympus', 'camera', 'trnd', 'index', 'html']",0
+904,"['http', 'within', 'retail', 'pulse']",0
+905,"['http', 'webull', 'activity']",0
+907,"['http', 'newyorker', 'magazine', 'dont', 'reading']",0
+908,"['http', 'goodreads', 'book', 'show', 'itchen', 'onfidential']",0
+909,"['http', 'show', 'anthony', 'bourdain', 'part', 'unknown']",0
+910,"['http', 'travelchannel', 'show', 'anthony', 'bourdain']",0
+911,"['http', 'firstwefeast', 'anthony', 'bourdain', 'standout', 'recipe', 'cookbook']",0
+912,"['http', 'quartzy', 'best', 'honor', 'anthony', 'bourdains', 'memory', 'like']",0
+915,"['http', 'history', 'news', 'olympic', 'marathon', 'outlandish', 'early', 'history']",0
+927,"['http', 'cnbc', 'york', 'jersey', 'connecticut', 'impose', 'quarantine', 'traveler', 'coronavirus', 'hotspot', 'state', 'html']",0
+928,"['http', 'theverge', 'coronavirus', 'daily', 'record', 'case', 'covid', 'arizona', 'texas', 'trump']",0
+929,"['http', 'coronavirus', 'testing', 'individual', 'state']",1
+930,"['http', 'texastribune', 'texas', 'coronavirus', 'greg', 'abbott', 'home']",0
+931,"['http', 'governing', 'ublic', 'ealth', 'fficials', 'uitting', 'uring', 'andemic', 'html']",0
+932,"['http', 'sciencedaily', 'release']",0
+933,"['http', 'ncbi', 'article']",0
+934,"['http', 'reuters', 'article', 'michigan', 'facial', 'recognition', 'activist', 'fault', 'face', 'recognition', 'wrongful', 'arrest', 'first', 'time']",0
+935,"['http', 'nist', 'news', 'event', 'news', 'nist', 'study', 'evaluates', 'effect', 'race', 'face', 'recognition', 'software']",0
+936,"['http', 'medium', 'uolamwini', 'response', 'racial', 'gender', 'bias', 'amazon', 'rekognition', 'commercial', 'system', 'analyzing', 'face', 'eeced']",0
+937,"['http', 'wired', 'story', 'algorithm', 'predicts', 'criminality', 'based', 'face', 'spark', 'furor']",0
+938,"['http', 'fool', 'content', 'netflix', 'really', 'fear']",1
+939,"['http', 'section', 'coronavirus', 'live', 'update', 'york', 'city', 'marathon', 'canceled', 'coronavirus']",0
+940,"['http', 'variety', 'digital', 'news', 'gone', 'wind', 'disclaimer', 'horror', 'slavery']",0
+941,"['http', 'news', 'business']",0
+942,"['http', 'nature', 'article']",0
+943,"['http', 'news', 'northwestern', 'story', 'ligo', 'virgo', 'find', 'mystery', 'astronomical', 'object', 'mass']",0
+944,"['http', 'nature', 'article']",0
+945,"['http', 'reuters', 'article', 'stock', 'wall', 'street', 'finish', 'lower', 'rising', 'virus', 'case', 'weak', 'economic', 'view']",0
+946,"['http', 'detroitnews', 'story', 'business', 'auto', 'chrysler', 'fiat', 'chrysler', 'loan', 'backed', 'italy', 'government']",0
+947,"['http', 'fortune', 'bankruptcy', 'filing', 'close', 'store']",0
+948,"['http', 'news', 'crime', 'cobb', 'holmes', 'speak', 'ahmaud', 'arbery', 'case', 'afternoon', 'tegn']",0
+949,"['http', 'apnews', 'eabf']",0
+950,"['http', 'politico', 'news', 'circuit', 'order', 'flynn', 'judge', 'dismiss', 'charge']",0
+951,"['http', 'axios', 'bill', 'barr', 'testify', 'house', 'judiciary', 'committee', 'html']",0
+952,"['http', 'thehill', 'homenews', 'senate', 'democrat', 'block', 'police', 'reform', 'bill', 'amid', 'senate', 'stalemate']",0
+953,"['http', 'news', 'article', 'news', 'local', 'arizona', 'tucson', 'custody', 'death']",0
+954,"['http', 'wnycstudios', 'podcasts', 'radiolab', 'article', 'liberation']",0
+955,"['http', 'visualcapitalist', 'whats', 'risk', 'month', 'view', 'post', 'covid', 'world']",0
+956,"['http', 'fivethirtyeight', 'feature', 'look', 'face', 'mask', 'according', 'science']",0
+957,"['http', 'abcnews', 'nasa', 'headquarters', 'hidden', 'figure', 'mary', 'jackson', 'story']",0
+959,"['http', 'arcgis', 'apps', 'ournal', 'index', 'html']",0
+960,"['http', 'news', 'business']",0
+961,"['http', 'highlight', 'coronavirus', 'covid', 'wedding', 'virtual', 'wedding', 'zoom', 'quarantine']",0
+962,"['http', 'popsci', 'story', 'technology', 'inside', 'force', 'training', 'mission']",0
+963,"['http', 'smithsonianmag', 'smart', 'news', 'beethoven', 'black', 'might', 'wrong', 'question']",0
+964,"['http', 'fastcompany', 'meet', 'summer', 'sleeper', 'product']",0
+966,"['http', 'nytimes', 'opinion', 'sunday', 'trump', 'cant', 'disengage', 'america', 'world', 'html']",0
+967,"['http', 'worldview', 'stratfor', 'article', 'geopolitics', 'united', 'state', 'part', 'inevitable', 'empire']",0
+968,"['http', 'worldview', 'stratfor', 'article', 'geopolitics', 'united', 'state', 'part', 'inevitable', 'empire']",0
+969,"['http', 'nytimes', 'interactive', 'magazine', 'slavery', 'capitalism', 'html']",0
+970,"['http', 'investopedia', 'article', 'market', 'economy', 'country', 'natural', 'resource']",0
+971,"['http', 'newyorker', 'magazine', 'hiroshima']",0
+973,"['http', 'straight', 'spam']",0
+974,"['http', 'theringer', 'south', 'park', 'episode', 'ranked']",0
+975,"['http', 'digg', 'watch', 'long', 'range', 'soccer', 'goal', 'rocket', 'back']",0
+979,"['http', 'graphic', 'reuters', 'oakveazawvr']",0
+980,"['http', 'news', 'trust', 'item']",0
+981,"['http', 'nautil', 'issue', 'energy', 'bird', 'mount', 'everest']",0
+982,"['http', 'onezero', 'medium', 'inside', 'social', 'medium', 'cult', 'convinces', 'young', 'people', 'give', 'everything', 'fbec']",0
+983,"['http', 'messynessychic', 'arctic', 'seaside', 'town', 'call', 'paris', 'north']",0
+984,"['http', 'politico', 'news', 'angela', 'merkel', 'germany']",0
+985,"['http', 'apimagesblog', 'blog', 'plastic', 'keep', 'virus', 'love', 'away', 'spain', 'nursing', 'home']",0
+986,"['http', 'theconversation', 'uber', 'wework', 'airbnb', 'coronavirus', 'bursting', 'tech', 'bubble']",0
+987,"['http', 'future', 'article', 'quiet', 'secret', 'success', 'athlete']",0
+988,"['http', 'narratively', 'crime', 'victim', 'obsessed', 'true', 'crime', 'show']",0
+989,"['http', 'city', 'journal', 'francisco', 'hotel', 'motel', 'plan', 'homeless']",0
+990,"['http', 'tedium', 'television', 'test', 'pattern', 'history']",0
+991,"['http', 'news', 'gallup', 'poll', 'confident', 'protect', 'self', 'covid', 'aspx']",0
+992,"['http', 'youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",0
+993,"['http', 'gizmodo', 'endangered', 'internet', 'archive', 'full', 'treasure']",0
+994,"['http', 'thedodo', 'close', 'home', 'retiring', 'detection', 'surprised', 'tennis', 'ball']",0
+995,"['http', 'thereader', 'mitpress', 'citizenship', 'great', 'extinguisher', 'hope']",0
+996,"['http', 'outsideonline', 'sperm', 'whale', 'research', 'dominica']",0
+997,"['http', 'esquire', 'entertainment', 'music', 'world', 'history', 'interview']",0
+998,"['http', 'theguardian', 'world', 'live', 'cage', 'resident', 'hide', 'macaque', 'gang', 'take', 'thai', 'city']",0
+1000,"['http', 'briefingday', 'commentform']",0
+1004,"['http', 'theringer', 'south', 'park', 'oscar', 'blame', 'canada', 'controversy']",0
+1005,"['http', 'melmagazine', 'story', 'girl', 'gone', 'wild', 'commercial', 'threw', 'million', 'millennials', 'puberty']",0
+1006,"['http', 'youtube', 'playlist']",1
+1007,"['http', 'king', 'article', 'news', 'local', 'seattle', 'amazon', 'rename', 'keyarena', 'climate', 'pledge', 'arena', 'securing', 'naming', 'right']",0
+1008,"['http', 'youtube', 'watch']",0
+1010,"['http', 'apnews', 'ebaf']",0
+1012,"['http', 'nbcnews', 'news', 'news', 'texas', 'governor', 'pause', 'state', 'reopening', 'spike', 'covid']",0
+1013,"['http', 'apnews']",0
+1014,"['http', 'apnews']",0
+1018,"['http', 'wired', 'story', 'slack', 'connect', 'email', 'stewart', 'butterfield', 'interview']",0
+1019,"['http', 'newyorker', 'culture', 'video', 'dept', 'llama', 'antibody', 'could', 'help', 'fight', 'coronavirus']",0
+1020,"['http', 'smithsonianmag', 'smart', 'news', 'museum', 'reimagines', 'masterpiece', 'face', 'mask']",0
+1021,"['http', 'washingtonpost', 'video', 'game', 'enjoy', 'game', 'make', 'work', 'proficiency', 'control', 'fairness', 'escape']",0
+1022,"['http', 'vice', 'article', 'uber', 'acquisition', 'jump', 'bikeshare', 'destroyed', 'thousand', 'bike']",0
+1023,"['http', 'skratchbastid', 'bandcamp', 'album', 'starter', 'dope']",0
+1024,"['http', 'reddit', 'eddit', 'comment', 'stupidest', 'thing', 'youve', 'done']",0
+1025,"['http', 'forecastapp']",0
+1026,"['http', 'perininetworks', 'term', 'condition']",1
+1027,"['http', 'imperica', 'newsletter']",1
+1028,"['http', 'youtube', 'watch']",1
+1029,"['http', 'youtube', 'watch']",0
+1030,"['http', 'youtube', 'watch']",0
+1031,"['http', 'youtube', 'watch', 'ffdn']",0
+1032,"['http', 'youtube', 'watch']",0
+1033,"['http', 'lithub', 'someone', 'wrong', 'internet', 'study', 'pandemic', 'distraction']",0
+1034,"['http', 'therumpus', 'blacker', 'berry', 'quicker', 'shoot']",0
+1035,"['http', 'nplusonemag', 'online', 'online', 'could']",0
+1036,"['http', 'mashable', 'article', 'reddit', 'history', 'anniversary']",0
+1037,"['http', 'theface', 'music', 'alternative', 'black', 'woman', 'goth', 'grunge', 'rico', 'nasty', 'doja']",0
+1039,"['http', 'esquire', 'culture', 'virtual', 'quiz']",0
+1040,"['http', 'buzzfeednews', 'article', 'adeonibada', 'nigeriam', 'comedian', 'dont', 'leave', 'tiktok', 'challenge']",0
+1041,"['http', 'change', 'name', 'turok']",0
+1042,"['http', 'theatlantic', 'technology', 'archive', 'little', 'pony', 'nazi', 'chan', 'black', 'life', 'matter']",0
+1043,"['http', 'tribunemag', 'conquest', 'bread']",0
+1044,"['http', 'forbes', 'site', 'carltonreid', 'segway', 'reach', 'road', 'bicycle', 'keep', 'rolling']",0
+1045,"['http', 'bellingcat', 'resource', 'investigate', 'tiktok', 'like']",0
+1046,"['http', 'hollywoodreporter', 'news', 'disney', 'overhaul', 'splash', 'mountain', 'ride', 'outcry']",0
+1047,"['http', 'refinery', 'dixie', 'chick', 'name', 'change', 'racist', 'root']",0
+1048,"['http', 'axios', 'golf', 'tour', 'lower', 'score', 'coronavirus', 'html']",0
+1049,"['http', 'theneed', 'know', 'list', 'manage']",1
+1050,"['http', 'theneed', 'know', 'list', 'manage', 'unsubscribe']",1
+1051,"['http', 'theneed', 'know', 'list', 'manage', 'profile']",1
+1052,"['http', 'patent', 'racism']",0
+1053,"['http', 'interactioninstitute', 'temporary', 'autonomous', 'zone']",0
+1054,"['http', 'theweek', 'article', 'seattle', 'policefree', 'autonomous', 'zone', 'anomaly']",0
+1055,"['http', 'utopiskehorisonter', 'engelsk', 'comcur']",0
+1056,"['http', 'travel', 'article', 'christiania', 'copenhagen', 'denmark', 'index', 'html']",0
+1057,"['http', 'newyorker', 'news', 'dispatch', 'attack', 'exarchia', 'anarchist', 'refuge', 'athens']",0
+1058,"['http', 'surprising', 'legacy', 'occupy', 'wall', 'street']",0
+1059,"['http', 'journal', 'burningman', 'philosophical', 'center', 'tenprinciples', 'black', 'rock', 'city', 'rise', 'great', 'civilization']",0
+1060,"['http', 'king', 'article', 'news', 'local', 'protest', 'activist', 'urge', 'chop', 'demonstrator', 'leave', 'capitol', 'hill', 'protest', 'night', 'chaz']",0
+1061,"['http', 'kuow', 'story', 'chaz', 'chop', 'seattle', 'protest', 'make', 'change']",0
+1063,"['http', 'theanarchistlibrary', 'library', 'hakim', 'temporary', 'autonomous', 'zone', 'ontological', 'anarchy', 'poetic', 'terrorism']",0
+1064,"['http', 'wikipedia', 'wiki', 'eter', 'amborn', 'ilson']",0
+1065,"['http', 'whatsupwithamsterdam', 'amsterdam', 'squat']",0
+1066,"['http', 'wikipedia', 'wiki', 'uburbia']",0
+1067,"['http', 'theculturetrip', 'europe', 'netherlands', 'article', 'brief', 'history', 'squatting', 'amsterdam']",0
+1068,"['http', 'framestrategy', 'substack']",1
+1069,"['http', 'framestrategy']",0
+1070,"['http', 'whyisthisinteresting', 'substack', 'interesting', 'utopia']",1
+1071,"['http', 'whyisthisinteresting', 'substack', 'interesting', 'climate']",1
+1072,"['http', 'bonappetit', 'story', 'bittersweet', 'quaratine', 'cooking']",0
+1073,"['http', 'nytimes', 'opinion', 'sunday', 'poker', 'bluffing', 'luck', 'skill', 'html']",0
+1075,"['http', 'moonclerk', 'otanwlok']",1
+1076,"['http', 'nytimes', 'interactive', 'design', 'rosie', 'tompkins', 'quilt', 'html']",0
+1077,"['http', 'hirshhorn', 'hirshhorninsideout']",0
+1082,"['http', 'learntoexpress', 'wixsite', 'learntoexpress']",0
+1083,"['http', 'bringcamphome']",0
+1084,"['http', 'podcasts', 'apple', 'podcast', 'mask', 'girl', 'summer']",0
+1085,"['http', 'revtownusa', 'offer', 'skimm']",0
+1086,"['http', 'carawayhome', 'collection']",0
+1087,"['http', 'maryruthorganics', 'page', 'skimm', 'morning', 'multi']",0
+1088,"['http', 'magicspoon', 'product', 'pack', 'case']",0
+1089,"['http', 'vincerowatches', 'page', 'skimm']",0
+1090,"['http', 'wearlively', 'collection', 'bralette']",0
+1091,"['http', 'drinkhydrant', 'sample', 'skimm', 'lander']",0
+1092,"['http', 'people', 'country', 'dixie', 'chick', 'change', 'name', 'chick']",0
+1093,"['http', 'eonline', 'news', 'elizabeth', 'bank', 'cast', 'frizzle', 'magic', 'school', 'live', 'action', 'film']",0
+1094,"['http', 'medium', 'splash', 'mountain', 'disney', 'index', 'html']",0
+1095,"['http', 'section', 'live', 'update', 'protest', 'racial', 'justice', 'nasa', 'name', 'headquarters', 'mary', 'jackson', 'first', 'black', 'female', 'engineer', 'text', 'ashington', 'headquarters', 'statement', 'released', 'ednesday']",0
+1096,"['http', 'news', 'room', 'detail', 'ebola', 'outbreak', 'detected', 'northwest', 'democratic', 'republic', 'congo', 'surge', 'team', 'supporting', 'response']",0
+1097,"['http', 'abcnews', 'nternational', 'world', 'deadliest', 'ebola', 'outbreak', 'story']",0
+1098,"['http', 'nytimes', 'supreme', 'court', 'obamacare', 'appeal', 'html']",0
+1099,"['http', 'reuters', 'article', 'trump', 'obamacare', 'trump', 'administration', 'asks', 'supreme', 'court', 'obamacare']",0
+1100,"['http', 'britannica', 'topic', 'habeas', 'corpus']",0
+1101,"['http', 'thehill', 'regulation', 'court', 'battle', 'supreme', 'court', 'permit', 'fast', 'track', 'removal', 'asylum', 'seeker']",0
+1102,"['http', 'nytimes', 'business', 'coronavirus', 'small', 'business', 'loan', 'large', 'company', 'html']",0
+1103,"['http', 'cnbc', 'trump', 'second', 'round', 'stimulus', 'check', 'could', 'happen', 'html']",0
+1104,"['http', 'cbsnews', 'news', 'stimulus', 'check', 'dead', 'people', 'return']",0
+1105,"['http', 'nytimes', 'politics', 'coronavirus', 'stimulus', 'dead', 'people', 'html']",0
+1106,"['http', 'cnbc', 'texas', 'abbott', 'pause', 'state', 'reopening', 'plan', 'coronavirus', 'case', 'hospitalization', 'rise', 'html']",0
+1107,"['http', 'cbsnews', 'news', 'texas', 'coronavirus', 'massive', 'outbreak', 'governor', 'greg', 'abbott', 'reopening']",0
+1108,"['http', 'nytimes', 'interactive', 'state', 'reopen', 'coronavirus', 'html']",0
+1109,"['http', 'section', 'coronavirus', 'live', 'update', 'texas', 'governor', 'pause', 'reopening', 'amid', 'covid', 'surge']",0
+1110,"['http', 'health', 'maskne', 'acne', 'covid', 'mask', 'wellness', 'index', 'html']",0
+1114,"['http', 'austinkleon', 'learn', 'alone']",0
+1115,"['http', 'youtube', 'watch']",0
+1116,"['http', 'nytimes', 'music', 'dylan', 'rough', 'rowdy', 'html']",0
+1117,"['http', 'newyorker', 'culture', 'culture', 'desk', 'dylan', 'rough', 'rowdy', 'hard']",0
+1118,"['http', 'austinkleon', 'fish', 'thought']",0
+1119,"['http', 'explore', 'livecams', 'brown', 'bear', 'brown', 'bear', 'salmon', 'brook', 'fall']",0
+1120,"['http', 'offspring', 'lifehacker', 'play', 'game', 'youre', 'done', 'parenting']",0
+1121,"['http', 'theguardian', 'radio', 'netflixs', 'floor', 'lava', 'show', 'save', 'summer']",0
+1122,"['http', 'amazon', 'ivers', 'ides', 'oldsworthy']",0
+1123,"['http', 'austinkleon', 'morning']",0
+1124,"['http', 'austinkleon', 'change']",0
+1125,"['http', 'austinkleon', 'welcoming']",0
+1126,"['http', 'sfchronicle', 'bayarea', 'article', 'rancisco', 'residio', 'threaten']",0
+1128,"['http', 'vulture', 'zadie', 'smith', 'essay', 'collection', 'lockdown', 'html']",0
+1129,"['http', 'wikipedia', 'wiki', 'uihitsu']",0
+1130,"['http', 'austinkleon', 'next']",1
+1131,"['http', 'proof', 'product', 'proof']",0
+1132,"['http', 'vanityfair', 'news', 'inside', 'world', 'poker', 'super', 'high', 'roller']",0
+1133,"['http', 'unsubscribe', 'fourhourmail', 'wqlokqf', 'hxlr']",1
+1134,"['http', 'blog', 'output']",1
+1136,"['http', 'wikipedia', 'wiki', 'uanxiu']",0
+1137,"['http', 'youtube', 'channel']",0
+1138,"['http', 'open', 'spotify', 'track']",0
+1139,"['http', 'youtube', 'watch']",0
+1140,"['http', 'hopkinspsychedelic', 'anorexia']",0
+1141,"['http', 'blog', 'psychedelics', 'microdosing', 'mind', 'enhancing', 'method']",0
+1142,"['http', 'youtube', 'watch']",0
+1143,"['http', 'blog', 'largest', 'psychedelic', 'research', 'center']",0
+1144,"['http', 'blog', 'enjoy', 'perfect', 'shower', 'anywhere', 'worldfor']",0
+1145,"['http', 'blog', 'ferriss', 'show', 'transcript', 'caroline', 'paul']",0
+1146,"['http', 'blog', 'caroline', 'paul']",0
+1147,"['http', 'wikipedia', 'wiki', 'rien', 'author']",0
+1148,"['http', 'blog', 'bullet', 'friday']",1
+1149,"['http', 'blog']",1
+1150,"['http', 'digg', 'cmail', 'ptdjtuk', 'vkjjhbly']",0
+1153,"['http', 'datajournalism', 'read', 'handbook', 'verification']",0
+1154,"['http', 'doctornerdlove', 'finding', 'hero', 'monster', 'detoxifying', 'comic', 'culture']",0
+1155,"['http', 'longreads', 'long', 'britishness']",0
+1156,"['http', 'guidetoallyship']",0
+1157,"['http', 'mildlyinteresting', 'blog', 'blogspot']",0
+1158,"['http', 'angeladeanestudio']",0
+1159,"['http', 'blue']",0
+1160,"['http', 'youtube', 'watch']",0
+1161,"['http', 'radiatoryang', 'itch', 'hardlads']",0
+1162,"['http', 'stinkymeat']",0
+1163,"['http', 'kickscondor']",0
+1164,"['http', 'dreamwiki', 'sixey', 'welcome', 'dream']",0
+1165,"['http', 'tiktok', 'fishesgetstitches']",0
+1166,"['http', 'mowned']",0
+1167,"['http', 'foldnfly']",0
+1168,"['http', 'trump', 'shrunk']",0
+1169,"['http', 'kickstarter', 'project', 'ugmonk', 'analog', 'simplest', 'productivity', 'system']",0
+1170,"['http', 'theatlantic', 'photo', 'eclipse']",0
+1171,"['http', 'readtheplaque']",0
+1172,"['http', 'glastonburyfestivals', 'line']",0
+1173,"['http', 'chiaraluzzana']",0
+1174,"['http', 'chrome', 'google', 'webstore', 'detail', 'link', 'text', 'fragment', 'pbcodcjpfjdpcineamnnmbkkmkdpajjg']",0
+1175,"['http', 'zooniverse', 'project', 'hiro']",0
+1176,"['http', 'unhcr', 'goalclick']",0
+1177,"['http', 'epicgames', 'fortnite', 'partyroyale']",0
+1178,"['http', 'unicornycopia']",0
+1179,"['http', 'evolution', 'depositphotos']",0
+1181,"['http', 'staykeen', 'landing']",0
+1182,"['http', 'theverge', 'luka', 'artificial', 'intelligence', 'memorial', 'roman', 'mazurenko']",0
+1183,"['http', 'hereafter']",0
+1184,"['http', 'waxy']",1
+1185,"['http', 'katalog', 'barbaraiweins']",0
+1186,"['http', 'airforcepuzzle']",0
+1187,"['http', 'fingeronthe']",0
+1188,"['http', 'aisnakeoil', 'designinvestigations']",0
+1189,"['http', 'aquarium']",0
+1190,"['http', 'musiclab', 'chromeexperiments', 'hared', 'iano']",0
+1191,"['http', 'mixcloud', 'jedhallam', 'love', 'save', 'three', 'year', 'anniversary', 'special']",0
+1192,"['http', 'google', 'presentation', 'wqxp', 'edit', 'slide']",0
+1193,"['http', 'ofcom', 'data', 'asset', 'file', 'online', 'nation', 'report']",0
+1194,"['http', 'tiktok', 'business']",0
+1195,"['http', 'stophateforprofit']",0
+1196,"['http', 'news', 'context', 'news', 'article', 'content']",0
+1198,"['http', 'adweek', 'digital', 'facebook', 'gaming', 'creator', 'design', 'custom', 'sticker', 'emojis', 'subscription', 'player']",0
+1199,"['http', 'adweek', 'digital', 'vidcon', 'facebook', 'tweak', 'monetization', 'option', 'content', 'creator']",0
+1200,"['http', 'adweek', 'digital', 'facebook', 'gaming', 'level', 'program', 'live', 'country']",0
+1201,"['http', 'adweek', 'digital', 'facebook', 'gaming', 'debut', 'live', 'partnered', 'gaming', 'creator']",0
+1202,"['http', 'forecast', 'community', 'crowdsourced', 'prediction', 'collective', 'insight']",0
+1203,"['http', 'news', 'supporting', 'black', 'diverse', 'community']",0
+1205,"['http', 'mixcloud', 'sadeagle', 'eagle', 'banging', 'drum', 'catch', 'criminal']",0
+1206,"['http', 'behance', 'alicemoxlin']",0
+1207,"['http', 'imperica']",1
+1213,"['http', 'donald', 'trump', 'lobster', 'bailout', 'obama']",0
+1214,"['http', 'culture', 'disney', 'splash', 'mountain', 'redesign', 'racist', 'song', 'south']",0
+1215,"['http', 'donald', 'trump', 'poll', 'coronavirus', 'biden', 'reelection', 'losing']",0
+1216,"['http', 'recode', 'mark', 'zuckerberg', 'facebook', 'chan', 'zuckerberg', 'initiative', 'philanthropy', 'tension']",0
+1217,"['http', 'good', 'college', 'reopening', 'fall', 'coronavirus', 'student', 'faculty', 'worry']",0
+1218,"['http', 'open', 'spotify', 'episode']",0
+1219,"['http', 'nytimes', 'opinion', 'confederate', 'monument', 'racism', 'html']",0
+1220,"['http', 'free', 'online', 'crossword']",1
+1221,"['http', 'coronavirus']",1
+1222,"['http', 'good', 'outdoor', 'dining', 'drinking', 'restaurant', 'opening', 'safety']",0
+1223,"['http', 'politics', 'border', 'wall', 'circuit', 'appeal', 'court', 'index', 'html']",0
+1224,"['http', 'nytimes', 'world', 'africa', 'ebola', 'congo', 'html']",0
+1225,"['http', 'section', 'coronavirus', 'live', 'update', 'daily', 'record', 'covid', 'case']",0
+1226,"['http', 'statehood', 'vote', 'filibuster', 'supreme', 'court', 'biden']",0
+1227,"['http', 'washingtonian', 'colossally', 'stupid', 'argument', 'statehood']",0
+1228,"['http', 'house', 'vote', 'friday', 'would', 'make', 'state', 'trump', 'senate']",0
+1229,"['http', 'abcnews', 'olitics', 'house', 'vote', 'statehood', 'create', 'washington', 'douglas', 'story']",0
+1231,"['http', 'search', 'itunes', 'apple', 'bjects', 'ontent', 'link']",0
+1232,"['http', 'politics', 'trump', 'administration', 'obamacare', 'supreme', 'court', 'index', 'html']",0
+1233,"['http', 'politico', 'news', 'trump', 'supreme', 'court', 'overturn', 'obamacare']",0
+1234,"['http', 'axios', 'enrollment', 'coronavirus', 'html']",0
+1235,"['http', 'nytimes', 'politics', 'obamacare', 'trump', 'administration', 'supreme', 'court', 'html']",0
+1236,"['http', 'supreme', 'court', 'trump', 'justice', 'department', 'health', 'care', 'obamacare', 'affordable', 'care', 'texas', 'california']",0
+1238,"['http', 'digg', 'edition', 'story']",0
+1239,"['http', 'thecut', 'anna', 'delvey', 'tricked', 'york', 'html']",0
+1240,"['http', 'outsideonline', 'murder', 'mountain', 'bike']",0
+1241,"['http', 'huckberry', 'store', 'looft', 'category', 'looftlighter']",0
+1242,"['http', 'police', 'reform', 'bill', 'house', 'democrat', 'senate', 'republican']",0
+1243,"['http', 'usatoday', 'story', 'news', 'politics', 'supreme', 'court', 'upholds', 'trump', 'administration', 'removing', 'asylum', 'seeker']",0
+1246,"['http', 'digg', 'video', 'relationship', 'advice']",0
+1247,"['http', 'theatlantic', 'science', 'archive', 'second', 'coronavirus', 'surge']",0
+1248,"['http', 'nytimes', 'interactive', 'coronavirus', 'spread', 'html']",0
+1249,"['http', 'theringer', 'movie', 'sight', 'george', 'clooney', 'steven', 'soderbergh']",0
+1250,"['http', 'insidehook', 'article', 'politics', 'edgy', 'comedy', 'lazy', 'rogan', 'coco', 'diaz']",0
+1251,"['http', 'mentalfloss', 'article', 'live', 'concert', 'history']",0
+1252,"['http', 'digg', 'best', 'meme', 'trump', 'walk', 'shame', 'hand', 'water', 'drinking', 'challenge']",0
+1253,"['http', 'simplisafe', 'value']",1
+1255,"['http', 'list', 'manage', 'profile']",1
+1256,"['http', 'americanart']",0
+1257,"['http', 'glenstone']",0
+1258,"['http', 'avclub', 'madonna', 'golden', 'girl', 'queer', 'icon']",0
+1259,"['http', 'story', 'californiasunday', 'eleanor', 'davis', 'look', 'forward']",0
+1260,"['http', 'youtube', 'watch']",0
+1262,"['http', 'obamacare', 'must', 'fall', 'trump', 'administration', 'tell', 'supreme', 'court']",0
+1263,"['http', 'caltech', 'news', 'black', 'hole', 'collision', 'exploded', 'light']",0
+1264,"['http', 'nasa', 'mission', 'page', 'chandra', 'news', 'black', 'hole', 'image', 'make', 'history']",0
+1265,"['http', 'ligo', 'caltech', 'page']",0
+1266,"['http', 'theguardian', 'science', 'black', 'hole', 'merge', 'light', 'trillion', 'scientist']",0
+1267,"['http', 'apnews']",0
+1268,"['http', 'tradingeconomics', 'united', 'state', 'asylum', 'application']",0
+1269,"['http', 'trac', 'immigration', 'report']",0
+1270,"['http', 'texastribune', 'asylum', 'seeker', 'experience', 'texas', 'mexico', 'border']",0
+1271,"['http', 'thehill', 'policy', 'healthcare', 'health', 'insurance', 'trump', 'administration', 'call', 'supreme', 'court', 'strike']",0
+1272,"['http', 'noom', 'program', 'health', 'weight', 'exsf']",0
+1273,"['http', 'nycpride', 'event', 'pride', 'march']",0
+1274,"['http', 'espn', 'soccer', 'fifa', 'woman', 'world', 'story', 'australianew', 'zealand', 'host', 'woman', 'world']",0
+1275,"['http', 'billboard', 'article', 'column', 'country', 'dixie', 'chick', 'change', 'name']",0
+1276,"['http', 'thehill', 'changing', 'america', 'enrichment', 'culture', 'backlash', 'racist', 'trope', 'disney', 'splash']",0
+1277,"['http', 'nature', 'article']",0
+1278,"['http', 'broadinstitute', 'broad', 'area', 'focus', 'project', 'spotlight', 'question', 'answer', 'crispr']",0
+1279,"['http', 'newatlas', 'drone', 'algorithm', 'autonomous', 'drone', 'barrel', 'roll', 'flip']",0
+1280,"['http', 'news', 'world', 'africa']",0
+1281,"['http', 'medium', 'lebron', 'james', 'springhill', 'medium', 'index', 'html']",0
+1282,"['http', 'cnbc', 'german', 'payment', 'company', 'wirecard', 'file', 'insolvency', 'html']",0
+1283,"['http', 'apnews']",0
+1284,"['http', 'reuters', 'article', 'defense', 'senate', 'senate', 'advance', 'billion', 'defense', 'bill', 'stage', 'confederate', 'battle']",0
+1285,"['http', 'politico', 'news', 'senate', 'pass', 'china', 'sanction', 'bill']",0
+1286,"['http', 'politico', 'news', 'police', 'reform', 'plan', 'house']",0
+1287,"['http', 'axios', 'police', 'reform', 'george', 'floyd', 'protest', 'html']",0
+1288,"['http', 'apnews']",0
+1289,"['http', 'section', 'health', 'shot', 'year', 'patient', 'gene', 'editing', 'sickle', 'cell', 'disease', 'thriving']",0
+1291,"['http', 'unbundle', 'defund', 'police', 'george', 'floyd', 'rayshard', 'brook', 'violence', 'european', 'policing']",0
+1292,"['http', 'manhattan', 'institute', 'responds', 'five', 'idea', 'sensible', 'approach', 'police', 'reform']",0
+1294,"['http', 'usnewsdeserts']",0
+1295,"['http', 'startupgenome', 'article', 'ranking']",0
+1297,"['http', 'cbsnews', 'news', 'eiffel', 'tower', 'reopens', 'paris', 'stair', 'longest', 'closure', 'since', 'wwii', 'coronavirus']",0
+1298,"['http', 'earther', 'gizmodo', 'musician', 'latest', 'project', 'made', 'noise']",0
+1299,"['http', 'goldenhearts', 'oldest', 'golden', 'retriever']",0
+1300,"['http', 'nbcnews', 'politics', 'politics', 'news', 'dead', 'wrong', 'sent', 'stimulus', 'check', 'million']",0
+1301,"['http', 'usatoday', 'cutler', 'instagram', 'chicken']",0
+1302,"['http', 'history', 'history', 'begin', 'berlin', 'airlift']",0
+1303,"['http', 'wikipedia', 'wiki', 'idrikson', 'aharias']",0
+1305,"['http', 'news', 'story']",0
+1306,"['http', 'lawfareblog', 'classified', 'information', 'primer']",0
+1307,"['http', 'vice', 'article', 'akzkvp', 'international', 'fashion', 'house', 'leaving', 'million', 'asian', 'jobless', 'worker', 'protesting']",0
+1308,"['http', 'wired', 'article', 'door', 'door', 'salesperson', 'coronavirus']",0
+1309,"['http', 'news', 'odour', 'history', 'smelling', 'magna', 'carta', 'shakespeare', 'iliad']",0
+1310,"['http', 'reddit', 'interestingasfuck', 'comment', 'hfwnua', 'light', 'captured', 'trillion', 'frame', 'second']",0
+1311,"['http', 'fastcompany', 'quibi', 'quibi', 'inside', 'story', 'jeffrey', 'katzenbergs', 'first', 'failure']",0
+1312,"['http', 'aeon', 'essay', 'time', 'take', 'alternative', 'dark', 'matter', 'seriously']",0
+1313,"['http', 'aljazeera', 'programme', 'peopleandpower', 'coronavirus', 'lockdown', 'iran', 'html']",0
+1314,"['http', 'devex', 'news', 'data', 'tell', 'state', 'human', 'right']",0
+1315,"['http', 'expmag', 'health', 'tracking', 'implant', 'create', 'bionic', 'human', 'next']",0
+1316,"['http', 'youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",0
+1317,"['http', 'caltech', 'news', 'memory', 'based', 'choice', 'probed', 'brain']",0
+1318,"['http', 'marketwatch', 'story', 'news', 'converging', 'stock', 'market', 'deal']",0
+1319,"['http', 'nypost', 'capone', 'childhood', 'home', 'brooklyn', 'market']",0
+1320,"['http', 'country', 'expensive', 'alcohol', 'world']",0
+1322,"['http', 'outsideonline', 'tarahumara', 'runner', 'study']",0
+1323,"['http', 'edition', 'business', 'pakistan', 'fake', 'pilot', 'intl', 'index', 'html']",0
+1324,"['http', 'theverge', 'nasa', 'artemis', 'astronaut', 'human', 'lunar', 'lander', 'toilet', 'competition']",0
+1326,"['http', 'briefingday', 'commentform']",0
+1331,"['http', 'morningbrew', 'daily']",0
+1333,"['http', 'businessinsider', 'weekly', 'jobless', 'claim', 'filing', 'unemployment', 'insurance', 'coronavirus', 'recession', 'economy']",0
+1334,"['http', 'morningbrew', 'daily', 'story', 'rising', 'covid', 'case', 'threaten', 'state', 'reopening', 'plan']",0
+1335,"['http', 'texastribune', 'texas', 'elective', 'surgery', 'coronavirus', 'greg', 'abbott']",0
+1336,"['http', 'news', 'news', 'local', 'desantis', 'plan', 'move', 'next', 'phase', 'reopening', 'florida', 'amid', 'spike']",0
+1337,"['http', 'nypost', 'reopen', 'york', 'phase', 'four']",0
+1338,"['http', 'hollywoodreporter', 'news', 'bellagio', 'resort', 'vega', 'require', 'guest', 'wear', 'face', 'mask']",0
+1339,"['http', 'blog', 'airport', 'delta', 'already', 'banned', 'passenger', 'refusing', 'wear', 'mask']",0
+1340,"['http', 'cnbc', 'apple', 'close', 'store', 'florida', 'rising', 'covid', 'rate', 'html']",0
+1341,"['http', 'nbcnews', 'health', 'health', 'news', 'covid', 'case']",0
+1343,"['http', 'morningbrew', 'daily', 'story', 'lebron', 'james', 'agent', 'maverick', 'carter', 'raise', 'million', 'medium', 'company']",0
+1345,"['http', 'morningbrew', 'daily', 'story', 'find', 'stimulus', 'check', 'went', 'dead', 'american']",0
+1346,"['http', 'asset']",0
+1347,"['http', 'morningbrew', 'daily', 'story', 'unilever', 'change', 'fair', 'lovely', 'skincare', 'brand', 'name']",0
+1348,"['http', 'news', 'business']",0
+1349,"['http', 'article', 'unilever', 'rename', 'fair', 'lovely', 'skin', 'lightening', 'cream', 'amid', 'criticism']",0
+1350,"['http', 'reuters', 'article', 'unilever', 'whitening', 'southasia', 'unilevers', 'fair', 'lovely', 'makeover', 'backlash']",0
+1351,"['http', 'espn', 'story', 'amazon', 'backing', 'seattle', 'arena', 'climate', 'initiative']",0
+1352,"['http', 'cnbc', 'verizon', 'pulling', 'advertising', 'facebook', 'instagram', 'html']",0
+1353,"['http', 'cnbc', 'nike', 'report', 'earnings', 'html']",0
+1354,"['http', 'reuters', 'article', 'wirecard', 'account', 'wirecard', 'collapse', 'owing', 'creditor', 'billion']",0
+1356,"['http', 'nirandfar', 'focus', 'quiz']",1
+1357,"['http', 'theverge', 'face', 'mask', 'glass', 'fogging', 'stop', 'clear']",0
+1358,"['http', 'tiktok', 'btypep', 'video']",0
+1359,"['http', 'tiktok', 'watercolorartist', 'video']",0
+1360,"['http', 'tiktok', 'evanatoredits']",0
+1361,"['http', 'tiktok', 'kcdadventure']",0
+1362,"['http', 'tiktok', 'discovery', 'video']",0
+1363,"['http', 'tiktok', 'washingtonpost', 'video']",0
+1364,"['http', 'tiktok', 'video']",0
+1365,"['http', 'morningbrew', 'daily', 'story', 'finance', 'twitter', 'account', 'follow']",0
+1368,"['http', 'puzzle', 'blainesville', 'sunday', 'puzzle', 'digit', 'html']",0
+1378,"['http', 'mailchi', 'creativemornings', 'weekly', 'highlight']",0
+1379,"['http', 'ownyourcontent', 'wordpress', 'toolkit', 'write', 'page']",0
+1380,"['http', 'ownyourcontent', 'wordpress', 'paul', 'jarvis']",0
+1381,"['http', 'wordpress', 'business', 'website', 'guidance', 'create', 'page', 'website']",0
+1382,"['http', 'holleymurchison', 'tmay', 'book']",0
+1383,"['http', 'wordpress', 'creativemornings']",1
+1384,"['http', 'ownyourcontent', 'wordpress']",1
+1385,['http'],1
+1386,"['http', 'airtable', 'shrfzkyygv']",1
+1387,"['http', 'psyche', 'guide', 'engage', 'life', 'feel']",0
+1388,"['http', 'designbetter', 'podcast', 'nancy', 'douyon']",0
+1389,"['http', 'quakelab', 'blog', 'please', 'dont', 'check', 'black', 'employee']",0
+1390,"['http', 'wordpress', 'content', 'blogging', 'blogger', 'block', 'writing', 'resource', 'youre', 'idea']",0
+1391,"['http', 'collageretreat']",0
+1392,"['http', 'latinxdesigndirectory']",0
+1393,"['http', 'natashaknows', 'summersoulstice']",0
+1394,"['http', 'gleefactor', 'resource']",0
+1395,"['http', 'adalo', 'future', 'code', 'conclusion']",0
+1396,"['http', 'oprahmag', 'entertainment', 'book', 'black', 'queer', 'author']",0
+1397,"['http', 'wingspan', 'blog', 'start', 'resent', 'client']",0
+1398,"['http', 'youtube', 'nalog', 'ournal', 'playlist']",0
+1399,"['http', 'twitch', 'soulection', 'video']",0
+1400,"['http', 'giphy', 'salim', 'adam']",0
+1401,"['http', 'timcasasola', 'blog', 'design']",0
+1402,"['http', 'quakelab']",0
+1403,"['http', 'natashaknows']",0
+1404,"['http', 'creativemornings', 'company']",1
+1405,"['http', 'creativemornings', 'company', 'studio', 'cooke', 'john']",0
+1406,"['http', 'creativemornings', 'company', 'west', 'design', 'studio']",0
+1407,"['http', 'creativemornings']",1
+1408,"['http', 'creativemornings', 'company', 'black', 'sheep', 'agency']",1
+1409,"['http', 'creativemornings', 'company', 'shopify']",1
+1410,"['http', 'creativemornings', 'company', 'place', 'staffing']",0
+1411,"['http', 'creativemornings', 'company', 'numarket']",0
+1412,"['http', 'creativemornings', 'company', 'sdco', 'partner']",0
+1413,"['http', 'creativemornings', 'individual', 'emerlineji']",1
+1414,"['http', 'creativemornings', 'list', 'manage', 'profile']",1
+1415,"['http', 'creativemornings', 'list', 'manage', 'unsubscribe']",1
+1416,"['http', 'creativemornings']",1
+1417,"['http', 'mymodernmet', 'baby', 'sleeping']",0
+1418,"['http', 'apnews']",0
+1419,"['http', 'theringer', 'breonna', 'taylor', 'louisville', 'police', 'black', 'life', 'matter', 'protest']",0
+1420,"['http', 'list', 'manage', 'unsubscribe']",1
+1421,"['http', 'open', 'spotify', 'playlist', 'rryt']",1
+1422,"['http', 'nytimes', 'interactive', 'magazine', 'america', 'slavery', 'html']",0
+1423,"['http', 'nikolehannahjones']",0
+1425,"['http', 'bombas', 'pride', 'loremipsum']",0
+1426,"['http', 'wizard', 'article', 'feature', 'diversity']",0
+1427,"['http', 'twimg', 'medium']",0
+1428,"['http', 'pawpatrol']",0
+1429,"['http', 'vulture', 'live', 'legacy', 'running', 'html']",0
+1430,"['http', 'nytimes', 'television', 'protest', 'fictional', 'html']",0
+1431,"['http', 'theatlantic', 'health', 'archive', 'story', 'black', 'band']",0
+1432,"['http', 'forbes', 'site', 'lisettevoytko', 'uncle', 'brand', 'evolve', 'following', 'aunt', 'jemimas', 'removal']",0
+1433,"['http', 'wikipedia', 'wiki', 'astus', 'text', 'astus', 'pejorative', 'term', 'considered', 'offensive']",0
+1434,"['http', 'forbes', 'site', 'jemimamcevoy', 'cream', 'wheat', 'becomes', 'fourth', 'brand', 'hour', 'revisit', 'packaging', 'racist', 'origin']",0
+1435,"['http', 'conagrabrands', 'news', 'room', 'news', 'conagra', 'brand', 'announces', 'butterworths', 'brand', 'review']",0
+1436,"['http', 'nbcnews', 'culture', 'culture', 'news', 'relative', 'aunt', 'jemima', 'actress', 'express', 'concern', 'history', 'erased']",0
+1437,"['http', 'article', 'pepsico', 'unit', 'retire', 'aunt', 'jemima', 'brand', 'citing', 'origin', 'racist', 'stereotype']",0
+1438,"['http', 'forbes', 'site', 'jemimamcevoy', 'cream', 'wheat', 'becomes', 'fourth', 'brand', 'hour', 'revisit', 'packaging', 'racist', 'origin']",0
+1439,"['http', 'kareemali', 'bandcamp']",0
+1440,"['http', 'kareemali', 'bandcamp', 'album', 'black', 'power']",0
+1441,"['http', 'kareemali', 'bandcamp', 'album', 'black', 'advancement']",0
+1442,"['http', 'kareemali', 'bandcamp', 'album', 'black', 'freedom']",0
+1443,"['http', 'youtube', 'watch']",0
+1446,"['http', 'action', 'justiceforbreonna', 'sign', 'reonna', 'ssential']",0
+1447,"['http', 'nytimes', 'interactive', 'coronavirus', 'case', 'html']",1
+1448,"['http', 'eventbrite', 'friendship', 'book', 'launch', 'ticket']",1
+1449,"['http', 'pagesofhackney']",0
+1450,"['http', 'sixthandi', 'event', 'friedman', 'aminatou']",1
+1451,"['http', 'politics', 'prose']",0
+1452,"['http', 'bigfriendship', 'event']",1
+1453,"['http', 'blog', 'list', 'manage', 'subscribe']",1
+1454,"['http', 'anchorandorbit', 'grow']",0
+1455,"['http', 'feelingmyflo']",0
+1456,"['http', 'tightlippedpod']",0
+1457,"['http', 'witchesconfluence', 'newsletter']",0
+1458,"['http', 'entropyinherited']",0
+1459,"['http', 'wixsite', 'list', 'manage', 'subscribe']",1
+1460,"['http', 'theokraproject']",1
+1461,"['http', 'annfriedman', 'classified']",1
+1462,"['http', 'annfriedman', 'weekly']",1
+1463,"['http', 'moonclerk', 'portal', 'oyynk', 'signin']",1
+1464,"['http', 'theguardian', 'commentisfree', 'arctic', 'heatwave', 'siberia', 'science']",0
+1465,"['http', 'theatlantic', 'idea', 'archive', 'second', 'great', 'depression']",0
+1466,"['http', 'wired', 'story', 'airbnb', 'quietly', 'fired', 'hundred', 'contract', 'worker']",0
+1467,"['http', 'saltyworld', 'chick', 'walk', 'doctor', 'office']",0
+1468,"['http', 'thecut', 'daughter', 'always', 'loved', 'solitude', 'much', 'html']",0
+1469,"['http', 'marieclaire', 'politics', 'prison', 'release', 'recidivism']",0
+1470,"['http', 'austinkleon', 'free', 'cheap']",0
+1471,"['http', 'austinkleon', 'book']",1
+1472,"['http', 'austinkleon', 'newsletter']",1
+1473,"['http', 'austinkleon', 'keepgoing']",1
+1474,"['http', 'austinkleon']",1
+1475,"['http', 'austinkleon']",1
+1476,"['http', 'austinkleon', 'steal']",1
+1477,"['http', 'austinkleon', 'contact']",1
+1478,"['http', 'austinkleon', 'list', 'manage', 'profile']",1
+1479,"['http', 'austinkleon', 'list', 'manage', 'unsubscribe']",1
+1480,"['http', 'indiebound', 'indie', 'bookstore', 'finder']",1
+1482,"['http', 'cheddar', 'newsletter', 'share']",0
+1483,"['http', 'forward', 'friend', 'forward']",1
+1484,"['http', 'cheddar', 'live']",1
+1486,"['http', 'nytimes', 'coronavirus', 'case', 'young', 'people', 'html']",0
+1487,"['http', 'reuters', 'article', 'facebook', 'boycott', 'verizon', 'verizon', 'suspends', 'advertising', 'facebook', 'join', 'growing', 'boycott']",0
+1488,"['http', 'sportingnews', 'nascar', 'news', 'bubba', 'wallace', 'noose', 'picture', 'lamurgkgs', 'xtyv']",0
+1490,"['http', 'podcasts', 'apple', 'podcast', 'cheddar', 'need', 'know']",1
+1491,"['http', 'open', 'spotify', 'show', 'ofzr']",1
+1492,"['http', 'story', 'chase', 'strangio', 'aclu', 'lgbtq', 'legal', 'victory']",0
+1493,"['http', 'tinyletter', 'dayo', 'letter', 'noun', 'labyrinth']",0
+1494,"['http', 'theguardian', 'commentisfree', 'abolish', 'police', 'sexual', 'assault', 'violence']",0
+1495,"['http', 'newyorker', 'news', 'news', 'desk', 'domestic', 'abuser', 'keep', 'accountable', 'watching']",0
+1496,"['http', 'nytimes', 'minneapolis', 'george', 'floyd', 'police', 'html']",0
+1497,"['http', 'latimes', 'opinion', 'story', 'social', 'medium', 'trauma', 'black', 'killing']",0
+1498,"['http', 'theguardian', 'society', 'online', 'harassment', 'increase', 'american', 'minority', 'group']",0
+1499,"['http', 'news', 'artnet', 'opinion', 'limit', 'care', 'knowledge', 'yesomi', 'umolu']",0
+1500,"['http', 'runnersworld', 'runner', 'story', 'ahmaud', 'arbery', 'death', 'running', 'racism']",0
+1501,"['http', 'identity', 'police', 'black', 'trans', 'people', 'violence']",0
+1502,"['http', 'thecut', 'since', 'breonna', 'taylor', 'murder', 'html']",0
+1503,"['http', 'newyorker', 'news', 'dispatch', 'vanishing', 'monument', 'columbus', 'ohio']",0
+1504,"['http', 'newyorker', 'magazine', 'trayvon', 'generation']",0
+1505,"['http', 'independentpublisher', 'article']",0
+1506,"['http', 'tinyletter', 'dayo']",0
+1507,"['http', 'bigfriendship']",1
+1508,"['http', 'callyourgirlfriend', 'episode', 'origin', 'story', 'summer', 'friendship']",0
+1509,"['http', 'mailchi', 'ladyswagger', 'close', 'frond']",0
+1510,"['http', 'giveessential']",0
+1511,"['http', 'annfriedman', 'aboutme']",1
+1512,"['http', 'annfriedman', 'writing']",1
+1513,"['http', 'annfriedman', 'speaking']",1
+1514,"['http', 'annfriedman', 'consulting']",1
+1515,"['http', 'annfriedman', 'list', 'manage', 'profile']",1
+1516,"['http', 'annfriedman', 'list', 'manage', 'unsubscribe']",1
+1517,"['http', 'mailchi', 'bigspaceship', 'spaceship', 'internet', 'brunch']",0
+1518,"['http', 'youtube', 'watch', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",0
+1519,"['http', 'youtube', 'watch', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",0
+1521,"['http', 'conversation', 'friend', 'adaptation', 'hulu', 'sally', 'rooney']",0
+1522,"['http', 'variety', 'film', 'office', 'tenet', 'release', 'date', 'delayed', 'christopher', 'nolan']",0
+1523,"['http', 'eonline', 'news', 'justin', 'bieber', 'file', 'million', 'defamation', 'lawsuit', 'sexual', 'assault', 'accuser']",0
+1524,"['http', 'youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'medium', 'email', 'term']",0
+1525,"['http', 'cnbc', 'ford', 'unveils', 'tech', 'savvy', 'pickup', 'hand', 'free', 'driving', 'html']",0
+1526,"['http', 'theverge', 'microsoft', 'retail', 'store', 'closing', 'city', 'open']",0
+1527,"['http', 'nytimes', 'business', 'kanye', 'west', 'yeezy', 'html']",0
+1528,"['http', 'economist', 'leader', 'next', 'olympics', 'include', 'fortnite']",0
+1529,"['http', 'cbsnews', 'news', 'bubba', 'wallace', 'nascar', 'noose', 'photo', 'garage']",0
+1533,"['http', 'austinkleon', 'good', 'thing', 'must', 'begin']",0
+1534,"['http', 'mailchi', 'austinkleon', 'good', 'thing', 'must', 'begin']",0
+1537,"['http', 'menshealth', 'fitness', 'yoga']",0
+1542,"['http', 'fastcompany', 'decontaminate', 'mask', 'minute']",0
+1543,"['http', 'youtube', 'watch', 'briefingday', 'curator', 'briefingday', 'source', 'briefingday', 'medium', 'email']",0
+1545,"['http', 'biography', 'news', 'stephen', 'hawking', 'zinger']",0
+1546,"['http', 'noemamag', 'anthropocene', 'microbiocene']",0
+1547,"['http', 'easterneuropeanmovies']",0
+1548,"['http', 'curbed', 'swimming', 'pool', 'ground', 'coronavirus']",0
+1549,"['http', 'designyoutrust', 'breathtaking', 'aerial', 'shot', 'barcelona', 'revealing', 'city', 'symmetry']",0
+1550,"['http', 'reel', 'video', 'hfhck', 'little', 'known', 'concept', 'hypersanity']",0
+1551,"['http', 'outsideonline', 'grid', 'cabin', 'life', 'california']",0
+1552,"['http', 'treehugger', 'slowest', 'animal', 'world']",0
+1553,"['http', 'future', 'article', 'astonishing', 'focus', 'namibia', 'nomad']",0
+1554,"['http', 'todayifoundout', 'index', 'coming', 'america', 'life', 'frederick', 'trump']",0
+1555,"['http', 'apollo', 'magazine', 'future', 'museum', 'fundraising']",0
+1556,"['http', 'stevebenjamins', 'blog', 'music', 'algorithm']",0
+1557,"['http', 'theguardian', 'environment', 'cyanide', 'bomb', 'wildfire', 'service', 'idaho']",0
+1558,"['http', 'news', 'blog', 'trending']",0
+1559,"['http', 'typeinvestigations', 'investigation', 'exporting', 'virus']",0
+1560,"['http', 'haaretz', 'world', 'news', 'premium', 'million', 'people', 'jailed', 'china', 'gulag', 'escaped', 'inside']",0
+1561,"['http', 'wired', 'article', 'mask', 'shaming']",0
+1562,"['http', 'theconversation', 'northern', 'ireland', 'police', 'transformation', 'hold', 'lesson']",0
+1563,"['http', 'briefingday', 'commentform']",0
+1565,"['http', 'morningbrew', 'account', 'edit']",1
+1570,"['http', 'morningbrew', 'daily', 'story', 'youre', 'getting', 'married', 'pandemic', 'html']",0
+1573,"['http', 'boston', 'news', 'local', 'news', 'rhode', 'island', 'town', 'declared', 'first', 'amendment', 'sanctuary']",0
+1574,"['http', 'medium', 'giphy', 'medium', 'dvsgta', 'giphy']",0
+1575,"['http', 'fieri', 'flavortown', 'columbus', 'ohio', 'petition', 'trnd', 'index', 'html']",0
+1576,"['http', 'morningbrew', 'daily', 'story', 'future', 'city', 'source', 'morning', 'brew']",0
+1577,"['http', 'physic', 'harvard', 'undergrad', 'humor']",0
+1578,"['http', 'existentialcomics', 'comic']",0
+1579,"['http', 'youtube', 'watch', 'source', 'morning', 'brew']",0
+1580,"['http', 'youtube', 'watch', 'source', 'morning', 'brew']",0
+1581,"['http', 'theconversation', 'trolley', 'dilemma', 'would', 'kill', 'person', 'save', 'five']",0
+1582,"['http', 'podcasts', 'apple', 'podcast', 'climate', 'data', 'revolution']",0
+1583,"['http', 'investing', 'luckin', 'coffee', 'delisted', 'index', 'html']",0
+1584,"['http', 'cnbc', 'nike', 'john', 'donahoe', 'tell', 'employee', 'layoff', 'coming', 'html']",0
+1585,"['http', 'tech', 'microsoft', 'store', 'closing', 'index', 'html']",0
+1587,"['http', 'reuters', 'article', 'oreal', 'whitening', 'loreal', 'drop', 'word', 'whitening', 'skin', 'product']",0
+1588,"['http', 'cbssports', 'soccer', 'news', 'fifa', 'woman', 'world', 'australia', 'zealand', 'joint', 'awarded', 'hosting', 'duty', 'next']",0
+1589,"['http', 'news', 'england', 'merseyside']",0
+1590,"['http', 'morningbrew', 'daily', 'story', 'nwsl', 'return', 'utah', 'monthlong', 'tournament']",0
+1591,"['http', 'cnbc', 'amazon', 'spending', 'billion', 'zoox', 'invest', 'billion', 'html']",0
+1592,"['http', 'article', 'elon', 'musk', 'call', 'amazon', 'breakup', 'latest', 'spat', 'jeff', 'bezos']",0
+1593,"['http', 'cnbc', 'amazon', 'self', 'driving', 'technology', 'company', 'zoox', 'html']",0
+1594,"['http', 'morningbrew', 'daily', 'story', 'amazon', 'level', 'autonomous', 'driving', 'game']",0
+1595,"['http', 'youtube', 'watch']",0
+1596,"['http', 'complex', 'style', 'kanye', 'west', 'mowalola', 'ogunlesi', 'design', 'director', 'yeezy']",0
+1597,"['http', 'morningbrew', 'retail', 'story', 'simon', 'missed', 'rent', 'payment']",0
+1598,"['http', 'cnbc', 'report', 'loss', 'share', 'fall', 'html']",0
+1599,"['http', 'youtube', 'watch', 'source', 'morning', 'brew']",0
+1600,"['http', 'morningbrew', 'daily', 'story', 'kanye', 'team', 'clothing', 'line']",0
+1601,"['http', 'article', 'coronavirus', 'latest', 'news']",0
+1602,"['http', 'health', 'florida', 'coronavirus', 'case', 'young', 'people', 'index', 'html']",0
+1603,"['http', 'axios', 'florida', 'single', 'increase', 'coronavirus', 'case', 'html']",0
+1604,"['http', 'nbcnews', 'news', 'news', 'texas', 'close', 'limit', 'restaurant', 'dining', 'explosion', 'covid']",0
+1605,"['http', 'morningbrew', 'daily', 'story', 'texas', 'florida', 'curb', 'stem', 'outbreak', 'among', 'young', 'people']",0
+1606,"['http', 'cnbc', 'zuckerberg', 'facebook', 'prohibit', 'hate', 'speech', 'html']",0
+1607,"['http', 'gizmodo', 'stop', 'hate', 'profit', 'movement', 'isnt', 'going', 'stop']",0
+1608,"['http', 'forbes', 'site', 'martyswant', 'civil', 'right', 'group', 'marketer', 'boycott', 'facebook', 'outdoor', 'brand', 'pause', 'spending']",0
+1609,"['http', 'cnbc', 'coca', 'cola', 'pause', 'advertising', 'social', 'medium', 'platform', 'globally', 'html']",0
+1610,"['http', 'content']",0
+1611,"['http', 'morningbrew', 'daily', 'story', 'facebook', 'boycott', 'grows', 'zuck', 'announces', 'policy', 'change']",0
+1612,"['http', 'nytimes', 'world', 'europe', 'europe', 'travel', 'html']",0
+1613,"['http', 'cnbc', 'stock', 'market', 'future', 'open', 'close', 'news', 'html']",0
+1614,"['http', 'reuters', 'article', 'economy', 'spending', 'consumer', 'spending', 'rebound', 'falling', 'income', 'surging', 'covid', 'case', 'loom']",0
+1618,"['http', 'morningbrew', 'daily']",0
+1620,"['http', 'digg', 'cmail', 'ptddylt', 'vkjjhbly']",0
+1624,"['http', 'digg', 'edition', 'story']",0
+1625,"['http', 'splinternews', 'first', 'step', 'recovery', 'admitting', 'youre', 'racist']",0
+1626,"['http', 'magazine', 'atavist', 'ghost', 'pickering', 'trail']",0
+1627,"['http', 'classic', 'avantlink', 'click']",0
+1628,"['http', 'digg', 'video', 'someone', 'mashed', 'anti', 'mask', 'protester', 'florida', 'park', 'recreation', 'town', 'hall', 'meeting']",0
+1629,"['http', 'hollywoodreporter', 'news', 'streamer', 'muzzling', 'controversial']",0
+1630,"['http', 'buzzfeednews', 'article', 'scaachikoul', 'netflix', 'michele', 'morrone', 'erotica']",0
+1632,"['http', 'culture', 'best', 'movie', 'streaming']",0
+1633,"['http', 'digg', 'best', 'photo', 'week', 'forgotten', 'playground']",0
+1634,"['http', 'newrepublic', 'article', 'justice', 'department', 'fake', 'fight', 'trafficking']",0
+1635,"['http', 'digg', 'oldest', 'restaurant', 'world', 'visualized']",0
+1636,"['http', 'theatlantic', 'politics', 'archive', 'kamala', 'harris', 'shadow', 'campaign', 'vice', 'president']",0
+1637,"['http', 'lelo', 'pride', 'month']",0
+1639,"['http', 'spiegel', 'international', 'business', 'corona', 'slaughterhouse', 'high', 'price', 'cheap', 'meat']",0
+1640,"['http', 'briefingday']",0
+1642,"['http', 'youtube', 'watch', 'feature', 'youtu']",0
+1643,"['http', 'youtube', 'watch', 'feature', 'youtu']",0
+1644,"['http', 'youtube', 'watch', 'feature', 'youtu']",0
+1645,"['http', 'youtube', 'watch', 'feature', 'youtu']",0
+1646,"['http', 'vincerowatches', 'page', 'elevator']",0
+1647,"['http', 'youtube', 'watch', 'feature', 'youtu']",0
+1648,"['http', 'mailchi', 'benedict', 'newsletter']",0
+1649,"['http', 'evans', 'list', 'manage', 'unsubscribe']",1
+1650,"['http', 'forward', 'friend', 'forward']",0
+1651,"['http', 'ofcom', 'research', 'data', 'internet', 'demand', 'research', 'online', 'nation', 'narrative']",0
+1652,"['http', 'mobiledevmemo', 'apocalypse', 'wwdc', 'idfa', 'dead']",0
+1653,"['http', 'medium', 'learningbyshipping', 'apple', 'relentless', 'strategy', 'execution']",0
+1654,"['http', 'digitstodollars', 'apple', 'silicon', 'rest']",0
+1655,"['http', 'nytimes', 'technology', 'facial', 'recognition', 'arrest', 'html']",0
+1656,"['http', 'jdsupra', 'legalnews', 'california', 'privacy', 'right']",0
+1657,"['http', 'europa', 'info', 'site', 'info', 'file', 'codeofconduct', 'factsheet']",0
+1658,"['http', 'story', 'digitalmycenae']",0
+1659,"['http', 'readingdesign', 'thing']",0
+1660,"['http', 'secondbreakfast', 'google', 'blew', 'year', 'lead']",0
+1661,"['http', 'protocol', 'mike', 'schroepfer', 'facebook', 'interview']",0
+1662,"['http', 'opensignal', 'rakutens', 'mobile', 'experience', 'challenge', 'japan', 'world']",0
+1663,"['http', 'blog', 'google', 'product', 'admanager', 'news', 'publisher', 'make', 'money', 'manager']",0
+1664,"['http', 'blog', 'google', 'product', 'admanager', 'display', 'buying', 'share', 'revenue', 'publisher']",0
+1665,"['http', 'content', 'adfbc']",0
+1666,"['http', 'digg', 'video', 'crime', 'expert', 'critique', 'movie', 'realistic', 'money', 'laundering', 'scene']",0
+1667,"['http', 'digg', 'video', 'make', 'trader', 'joes', 'product']",0
+1668,"['http', 'digg', 'wing', 'movie', 'tracking', 'shot', 'incredible']",0
+1669,"['http', 'store', 'digg', 'sale', 'waterproof', 'zapper', 'lantern', 'gray']",0
+1670,"['http', 'digg', 'edition', 'video']",0
+1674,"['http', 'digg', 'cmail', 'ptddjn', 'vkjjhbly']",0
+1675,"['http', 'blog', 'google', 'technology', 'safety', 'security', 'keeping', 'private', 'information', 'private']",0
+1676,"['http', 'thetileapp', 'work']",0
+1677,"['http', 'developer', 'apple', 'find']",0
+1678,"['http', 'news', 'microsoft', 'microsoft', 'store', 'announces', 'approach', 'retail']",0
+1681,"['http', 'digg', 'video', 'dirty', 'flushing', 'house', 'listing']",0
+1682,"['http', 'digg', 'video', 'trey', 'kennedy', 'karen', 'impression']",0
+1683,"['http', 'digg', 'video', 'squirrel', 'show', 'woman', 'peanut', 'stash']",0
+1684,"['http', 'digg', 'video', 'would', 'happen', 'injected', 'liquid', 'metal', 'inside', 'stretch', 'armstrong', 'action', 'figure']",0
+1685,"['http', 'eater', 'reopening', 'restaurant', 'struggling', 'rehire', 'employment', 'coronavirus', 'pandemic', 'covid']",0
+1689,"['http', 'briefingday', 'commentform']",0
+1691,"['http', 'seth', 'blog', 'stolen', 'address', 'book']",0
+1692,"['http', 'reuters', 'article', 'boeing', 'exclusive', 'exclusive', 'boeing', 'certification', 'flight', 'test', 'begin', 'monday', 'source']",0
+1693,"['http', 'city', 'journal', 'plummeting', 'confidence', 'expert']",0
+1694,"['http', 'techcrunch', 'oreilly', 'make', 'persuasive', 'case', 'venture', 'capital', 'starting', 'harm', 'good']",0
+1695,"['http', 'thedodo', 'video', 'daily', 'dodo', 'baby', 'animal', 'pure']",0
+1696,"['http', 'boingboing', 'magnetic', 'medium', 'enthusiast', 'html']",0
+1697,"['http', 'itsnicethat', 'article', 'barbara', 'iweins', 'katalog', 'photography']",0
+1698,"['http', 'futurism', 'byte', 'michigan', 'illegal', 'company', 'microchip', 'employee']",0
+1699,"['http', 'worklife', 'article', 'canada', 'forgotten', 'universal', 'basic', 'income', 'experiment']",0
+1700,"['http', 'vintage', 'everyday', 'curtis', 'wright', 'html']",0
+1701,"['http', 'foodandwine', 'travel', 'restaurant', 'scamming', 'pizza']",0
+1702,"['http', 'mysteriousuniverse', 'forbidden', 'hotel', 'room', 'haunted', 'guest', 'arent', 'allowed', 'stay']",0
+1703,"['http', 'theconversation', 'holding', 'holding', 'still', 'photograph', 'father', 'alzheimers']",0
+1704,"['http', 'marketwatch', 'story', 'reason', 'stock', 'market', 'face', 'severe', 'bout', 'turbulence', 'next', 'week', 'beyondonly', 'rising', 'coronavirus', 'case']",0
+1705,"['http', 'news', 'gallup', 'poll', 'ideal', 'evening', 'american', 'involve', 'family', 'time', 'aspx']",0
+1706,"['http', 'theweek', 'article', 'dark', 'inside', 'cinema', 'business']",0
+1708,"['http', 'aeon', 'essay', 'child', 'earliest', 'memory']",0
+1709,"['http', 'profgalloway', 'higher', 'enough', 'already']",0
+1710,"['http', 'reuters', 'article', 'facebook', 'breakingviews', 'breakingviews', 'corporate', 'boycott', 'expose', 'inconvenient', 'truth']",0
+1711,"['http', 'phys', 'news', 'conspiracy', 'theory', 'emergeand', 'storyline', 'fall', 'html']",0
+1712,"['http', 'evans', 'newsletter']",1
+1713,"['http', 'evans', 'benedictevans', 'zoom', 'next', 'video']",0
+1714,"['http', 'cnbc', 'facebook', 'boycott', 'entered', 'league', 'html']",0
+1716,"['http', 'blog', 'aboutamazon', 'company', 'news', 'acquiring', 'zoox', 'help', 'bring', 'vision', 'autonomous', 'ride', 'hailing', 'reality']",0
+1717,"['http', 'europa', 'commission', 'commissioner', 'vestager', 'announcement', 'competition', 'digital', 'changing', 'enforcement', 'changing', 'time']",0
+1718,"['http', 'businesswire', 'news', 'home']",0
+1719,"['http', 'theverge', 'starbucks', 'advertising', 'social', 'medium', 'july', 'facebook', 'twitter']",0
+1720,"['http', 'apnews']",0
+1721,"['http', 'nytimes', 'business', 'medium', 'acebook', 'advertising', 'boycott', 'html']",0
+1723,"['http', 'thehustle', 'tarbucks']",0
+1724,"['http', 'tech', 'white', 'supremacist', 'telegram', 'racism', 'intl', 'index', 'html']",0
+1725,"['http', 'techcrunch', 'telegram', 'fine', 'million', 'return', 'billion', 'investor', 'dissolve']",0
+1726,"['http', 'thehustle', 'elegram', 'messaging']",0
+1727,"['http', 'reuters', 'article', 'health', 'coronavirus', 'cattle', 'feature', 'travel', 'coronavirus', 'meat', 'plant', 'build', 'demand', 'mobile', 'butcher']",0
+1728,"['http', 'thehustle', 'butcher']",0
+1729,"['http', 'trend', 'weekly', 'lecture', 'exclusive', 'offer']",1
+1730,"['http', 'thekanyestory']",0
+1731,"['http', 'marketingexamples']",0
+1732,"['http', 'reuters', 'article', 'facebook', 'boycott', 'exclusive', 'exclusive', 'facebook', 'boycott', 'campaign', 'global', 'organizer']",0
+1733,"['http', 'gizmodo', 'twitter', 'sorry', 'putting', 'covid', 'misinformation', 'labe']",0
+1734,"['http', 'newyorker', 'news', 'letter', 'silicon', 'valley', 'ghost', 'kitchen', 'future']",0
+1735,"['http', 'theverge', 'fake', 'twitter', 'tiktok', 'meme']",0
+1736,"['http', 'forbes', 'site', 'tamarathiessen', 'covid', 'birthplace', 'wuhan', 'china', 'travel', 'attraction', 'efce']",0
+1737,"['http', 'nytimes', 'realestate', 'could', 'doomsday', 'bunker', 'become', 'normal', 'html']",0
+1738,"['http', 'chicagobusiness', 'airline', 'airport', 'american', 'pilot', 'seat']",0
+1739,"['http', 'nytimes', 'style', 'tiktok', 'teen', 'politics', 'html']",0
+1740,"['http', 'quantamagazine', 'geometric', 'perspective', 'crack', 'problem', 'rectangle']",0
+1741,"['http', 'nytimes', 'money', 'philanthropy', 'pandemic', 'coronavirus', 'html']",0
+1742,"['http', 'qmunity', 'tech', 'qubes', 'camp']",0
+1743,"['http', 'woven']",0
+1745,"['http', 'vettery']",0
+1746,"['http', 'thehustle']",1
+1747,"['http', 'thehustle', 'account']",1
+1748,"['http', 'google', 'form', 'viewform']",1
+1749,"['http', 'google', 'form', 'sgxkvx', 'viewform']",1
+1750,"['http', 'google', 'form', 'iuxw', 'viewform']",1
+1751,"['http', 'thehustle', 'first', 'million', 'podcast']",1
+1752,"['http', 'thehustle', 'career']",1
+1753,"['http', 'thehustle', 'advertise']",1
+1754,"['http', 'youtube', 'channel']",1
+1755,"['http', 'trend']",1
+1756,"['http', 'thehustle', 'daily']",1
+1757,"['http', 'cheddar', 'newsletter', 'share']",0
+1759,"['http', 'texastribune', 'mike', 'penny', 'visit', 'dallas', 'texas', 'grapple', 'coronavirus', 'spike']",0
+1760,"['http', 'news', 'music', 'award', 'full', 'winner', 'list', 'roddy', 'ricch', 'lizzo']",0
+1761,"['http', 'sciencedaily', 'release']",0
+1762,"['http', 'phys', 'news', 'theorist', 'upper', 'limit', 'quantization', 'html']",0
+1763,"['http', 'healthsciences', 'newsfaculty', 'news', 'sledge', 'closely', 'related', 'year', 'ancient']",0
+1764,"['http', 'cheddar', 'medium', 'stock', 'sink', 'coronavirus', 'case', 'jump']",0
+1765,"['http', 'reuters', 'article', 'albertsons', 'company', 'albertsons', 'share', 'fall', 'nyse', 'debut']",0
+1767,"['http', 'market', 'businessinsider', 'news', 'stock', 'stock', 'surge', 'year', 'apparel', 'deal', 'kanye', 'west', 'yeezy']",0
+1768,"['http', 'cnbc', 'chesapeake', 'energy', 'pioneer', 'shale', 'revolution', 'file', 'bankruptcy', 'protection', 'html']",0
+1769,"['http', 'courier', 'journal', 'story', 'news', 'local', 'know', 'louisville', 'shooting', 'breonna', 'taylor', 'protest']",0
+1770,"['http', 'thehill', 'homenews', 'administration', 'trump', 'praise', 'video', 'includes', 'protester', 'shouting', 'white', 'power']",0
+1771,"['http', 'theguardian', 'news', 'russia', 'offered', 'bounty', 'afghanistan', 'militant', 'killing', 'soldier', 'report', 'outrage']",0
+1772,"['http', 'nbcnews', 'news', 'news', 'saharan', 'dust', 'cloud', 'southern', 'state', 'reducing']",0
+1773,"['http', 'usatoday', 'story', 'news', 'nation', 'sahara', 'dust', 'cloud', 'storm', 'reach', 'mainland']",0
+1774,"['http', 'parent', 'learn', 'child', 'care', 'center', 'stayed', 'open', 'lockdown']",0
+1777,"['http', 'wikipedia', 'wiki', 'lobe', 'heatre', 'hakespeare', 'lobe', 'heatres']",0
+1778,"['http', 'vice', 'article', 'invading', 'cicada', 'turn', 'crazed', 'zombie', 'summer']",0
+1779,"['http', 'latimes', 'entertainment', 'music', 'story', 'song', 'summer', 'beyonce', 'drake', 'baby']",0
+1780,"['http', 'beyonc', 'drop', 'visual', 'album', 'black', 'king', 'disney', 'july']",0
+1781,"['http', 'youtube', 'watch', 'feature', 'title']",0
+1782,"['http', 'arstechnica', 'gaming', 'doomscrolling', 'slowly', 'eroding', 'mental', 'health']",0
+1783,"['http', 'yelpeconomicaverage', 'yelp', 'coronavirus', 'economic', 'impact', 'report', 'html']",0
+1785,"['http', 'nytimes', 'travel', 'dolomite', 'italy', 'hiking', 'html']",0
+1786,"['http', 'theconversation', 'simple', 'model', 'show', 'importance', 'wearing', 'mask', 'social', 'distancing']",0
+1787,"['http', 'bitchesgottaeat', 'substack']",0
+1788,"['http', 'minimizer', 'substack', 'welcome']",0
+1789,"['http', 'theankler']",0
+1790,"['http', 'publishersweekly']",0
+1791,"['http', 'lithub']",0
+1792,"['http', 'skift']",0
+1793,"['http', 'remodelista']",0
+1794,"['http', 'elanaspantry']",0
+1795,"['http', 'nomnompaleo']",0
+1796,"['http', 'food']",0
+1797,"['http', 'milkstreet']",0
+1798,"['http', 'vulture', 'author', 'priyanka', 'mattoo']",0
+1799,"['http', 'primattoo']",0
+1800,"['http', 'podcasts', 'apple', 'podcast', 'foxy', 'brown']",0
+1801,"['http', 'earios']",0
+1805,"['http', 'camellaskitchen', 'shop']",0
+1806,"['http', 'justiceinjune']",0
+1807,"['http', 'prose']",0
+1808,"['http', 'sakara', 'page', 'skimm']",1
+1809,"['http', 'summersalt', 'page', 'summersalt', 'skimm']",1
+1811,"['http', 'nytimes', 'politics', 'russian', 'bounty', 'warning', 'trump', 'html']",0
+1812,"['http', 'shot', 'hour', 'shooting', 'york', 'city', 'brooklyn', 'shooting']",0
+1813,"['http', 'csmonitor', 'ociety', 'ississippi', 'lawmaker', 'voted', 'retire', 'onfederate', 'flag']",0
+1814,"['http', 'news', 'local', 'news', 'chase', 'investigating', 'report', 'missing', 'additional', 'money', 'bank', 'account']",0
+1815,"['http', 'radpowerbikes']",0
+1817,"['http', 'espn', 'story', 'grading', 'newton', 'move', 'patriot', 'little', 'risk', 'huge', 'potential', 'look', 'patriot', 'offense']",0
+1818,"['http', 'variety', 'film', 'office', 'mulan', 'release', 'postponed', 'coronavirus', 'disney']",0
+1819,"['http', 'beyonce']",0
+1820,"['http', 'cbsnews', 'news', 'starbucks', 'karen', 'barista', 'diego', 'dollar', 'mask', 'encounter']",0
+1825,"['http', 'morningbrew', 'daily']",0
+1828,"['http', 'morningbrew', 'daily', 'story', 'ultimate', 'guide', 'investing', 'today', 'tomorrow', 'beyond', 'story']",0
+1829,"['http', 'morningbrew', 'marketing']",1
+1830,"['http', 'aljazeera', 'indepth', 'interactive', 'infographic', 'million', 'coronavirus', 'case', 'html']",0
+1832,"['http', 'apnews']",0
+1833,"['http', 'morningbrew', 'daily', 'story', 'controversy', 'mask', 'threatens', 'pandemic', 'response']",0
+1834,"['http', 'axios', 'pelosi', 'face', 'mask', 'coronavirus', 'html']",0
+1835,"['http', 'courier', 'journal', 'story', 'news', 'politics', 'mitch', 'mcconnell', 'urge', 'people', 'wear', 'mask', 'covid', 'vaccine']",0
+1836,"['http', 'politics', 'biden', 'mask', 'mandatory', 'coronavirus', 'index', 'html']",0
+1837,"['http', 'article', 'transcript', 'president', 'trump', 'interview', 'wall', 'street', 'journal']",0
+1838,"['http', 'thehill', 'homenews', 'sunday', 'talk', 'show', 'penny', 'want', 'defer', 'local', 'official', 'requiring', 'mask']",0
+1839,"['http', 'cnbc', 'coronavirus', 'mask', 'mandate', 'differ', 'across', 'country', 'spot', 'multiply', 'html']",0
+1840,"['http', 'texastribune', 'face', 'mask', 'order', 'dallas', 'harris', 'travis', 'bexar']",0
+1841,"['http', 'axios', 'coronavirus', 'face', 'mask', 'science', 'html']",0
+1842,"['http', 'usatoday', 'story', 'money', 'mask', 'requirement', 'trader', 'joes', 'viral', 'twitter', 'video']",0
+1843,"['http', 'nytimes', 'american', 'airline', 'mask', 'brandon', 'straka', 'html']",0
+1844,"['http', 'article', 'mask', 'could', 'help', 'stop', 'coronavirus', 'still', 'controversial']",0
+1845,"['http', 'morningbrew', 'daily', 'story', 'mask', 'prove', 'puzzling', 'retail', 'category']",0
+1846,"['http', 'morningbrew', 'daily', 'story', 'boeing', 'expected', 'begin', 'critical', 'test', 'flight', 'monday']",0
+1847,"['http', 'news', 'business']",0
+1848,"['http', 'nytimes', 'business', 'boeing', 'cost', 'html']",0
+1850,"['http', 'morningbrew', 'daily', 'story', 'chesapeake', 'energy', 'file', 'chapter', 'bankruptcy']",0
+1851,"['http', 'article', 'fracking', 'trailblazer', 'chesapeake', 'energy', 'file', 'bankruptcy']",0
+1852,"['http', 'nytimes', 'business', 'economy', 'chesapeake', 'energy', 'bankruptcy', 'html']",0
+1854,"['http', 'morningbrew', 'daily', 'story', 'ultimate', 'guide', 'investing', 'today', 'tomorrow', 'beyond']",0
+1855,"['http', 'morningbrew', 'daily', 'story', 'starbucks', 'pause', 'social', 'medium']",0
+1856,"['http', 'usatoday', 'story', 'money', 'facebook', 'boycott', 'starbucks', 'pausing', 'advertising', 'social', 'medium', 'platform']",0
+1858,"['http', 'tech', 'facebook', 'boycott', 'index', 'html']",0
+1859,"['http', 'morningbrew', 'daily', 'story', 'week', 'ahead', 'june']",0
+1860,"['http', 'section', 'live', 'update', 'protest', 'racial', 'justice', 'trump', 'retweets', 'video', 'apparent', 'supporter', 'saying', 'white', 'power']",0
+1861,"['http', 'apnews', 'ccef']",0
+1862,"['http', 'reuters', 'article', 'bond', 'tobacco', 'buffett', 'join', 'portfolio']",0
+1863,"['http', 'espn', 'story', 'newton', 'reach', 'year', 'deal', 'patriot', 'source']",0
+1864,"['http', 'masterworks']",1
+1867,"['http', 'miltonglaser', 'work']",0
+1869,"['http', 'masterworks', 'disclaimer']",1
+1870,"['http', 'bankingdive', 'news', 'suspend', 'share', 'buyback', 'dividend']",0
+1871,"['http', 'stock', 'buyback', 'coronavirus', 'bailouts', 'airline', 'trump']",0
+1872,"['http', 'investopedia', 'article']",0
+1873,"['http', 'youtube', 'watch', 'yvkbw', 'source', 'morning', 'brew']",0
+1874,"['http', 'cnbc', 'populism', 'worked', 'buyback', 'bull', 'market', 'without', 'last', 'html']",0
+1875,"['http', 'youtube', 'watch', 'source', 'morning', 'brew']",0
+1876,"['http', 'washingtonexaminer', 'opinion', 'coronavirus', 'bailout', 'dont', 'punish', 'company', 'stock', 'buyback']",0
+1877,"['http', 'morningbrew', 'daily', 'story', 'practice', 'selling', 'buyback', 'come', 'fire']",0
+1878,"['http', 'morningbrew', 'daily', 'story', 'week', 'review', 'crossword', 'june']",0
+1891,"['http', 'statnews', 'feature', 'coronavirus', 'covid', 'tracker']",0
+1892,"['http', 'news', 'world', 'canada']",0
+1896,"['http', 'briefingday', 'commentform']",0
+1898,"['http', 'news', 'science', 'home', 'affair', 'protection', 'visa', 'facebook', 'social', 'medium']",0
+1899,"['http', 'edition', 'travel', 'article', 'cheddar', 'cheese', 'history', 'index', 'html']",0
+1900,"['http', 'unherd', 'thepost', 'stranded', 'seafarer', 'could', 'trigger', 'national', 'food', 'crisis']",0
+1901,"['http', 'nytimes', 'opinion', 'sunday', 'coronavirus', 'html']",0
+1902,"['http', 'deathbytoys', 'storenvy', 'product', 'male', 'action', 'figure', 'broken']",0
+1903,"['http', 'psychologytoday', 'blog', 'living', 'single', 'phony', 'spending', 'time', 'alone', 'authentic', 'people']",0
+1904,"['http', 'arstechnica', 'gadget', 'tiktok', 'apps', 'still', 'snoop', 'sensitive', 'clipboard', 'data']",0
+1905,"['http', 'worklife', 'article', 'could', 'adding', 'public', 'holiday', 'boost', 'economy']",0
+1906,"['http', 'wallpaper', 'memoriam', 'milton', 'glaser', 'obituary']",0
+1907,"['http', 'theringer', 'music', 'album', 'rick', 'rubin', 'extended', 'universe', 'ranked']",0
+1908,"['http', 'melmagazine', 'story', 'waterloo', 'brought', 'abba', 'world', 'didnt', 'know']",0
+1909,"['http', 'telegraph', 'health', 'fitness', 'mind', 'meet', 'family', 'could', 'hold', 'understanding', 'major', 'mental', 'illness']",0
+1910,"['http', 'reddit', 'eddit', 'comment', 'people']",0
+1911,"['http', 'mondaynote', 'next', 'electric']",0
+1912,"['http', 'currentaffairs', 'collecting', 'book']",0
+1913,"['http', 'benjaminreinhardt', 'wddw']",0
+1914,"['http', 'wired', 'article', 'forensic', 'photo']",0
+1915,"['http', 'mymodernmet', 'best', 'milky', 'photo']",0
+1916,"['http', 'theguardian', 'world', 'poor', 'covid', 'fuel', 'rising', 'poverty', 'italy']",0
+1917,"['http', 'theweek', 'article', 'election', 'nightmare', 'scenario']",0
+1918,"['http', 'forbes', 'site', 'kerryadolan', 'billionaire', 'behind', 'movie', 'contagion', 'working', 'stop', 'pandemic', 'next']",0
+1919,"['http', 'popularmechanics', 'technology', 'infrastructure', 'future', 'airport', 'tech', 'coronavirus']",0
+1920,"['http', 'theneutral', 'russia', 'accuse', 'election', 'meddling']",0
+1921,"['http', 'briefingday']",0
+1924,"['http', 'legacy', 'obituary', 'nytimes', 'obituary', 'aspx']",0
+1925,"['http', 'wikipedia', 'wiki', 'hristopher']",0
+1926,"['http', 'wikipedia', 'wiki', 'urning']",0
+1927,"['http', 'whyisthisinteresting', 'substack', 'interesting', 'masked']",1
+1928,"['http', 'paprikaapp']",0
+1932,"['http', 'drinkhydrant', 'skimm', 'june']",0
+1934,"['http', 'cookinglight', 'cooking', 'technique', 'grill', 'anything']",0
+1935,"['http', 'yourparade', 'page']",0
+1936,"['http', 'theskimm', 'pick', 'beach', 'product', 'make', 'next', 'trip', 'success']",1
+1938,"['http', 'eonline', 'news', 'beyonc', 'eacute', 'accepts', 'award', 'humanitarian', 'award', 'none', 'michelle', 'obama']",0
+1940,"['http', 'politics', 'mississippi', 'flag', 'confederate', 'emblem', 'index', 'html']",0
+1941,"['http', 'apnews', 'ddde', 'eeae']",0
+1942,"['http', 'theguardian', 'world', 'poland', 'election', 'duda', 'forced', 'second', 'round', 'exit', 'poll', 'suggests']",0
+1943,"['http', 'axios', 'scott', 'trump', 'tweet', 'white', 'power', 'html']",0
+1945,"['http', 'nytimes', 'confederate', 'statue', 'photo', 'html']",0
+1946,"['http', 'cbsnews', 'news', 'trump', 'executive', 'order', 'protect', 'monument']",0
+1947,"['http', 'politico', 'news', 'trump', 'russia']",0
+1948,"['http', 'cnet', 'news', 'russia', 'targeted', 'election', 'system', 'state', 'senate', 'report']",0
+1949,"['http', 'britannica', 'event', 'oviet', 'invasion', 'fghanistan']",0
+1950,"['http', 'forbes', 'site', 'andrewsolender', 'lawmaker', 'party', 'demand', 'answer', 'trump', 'russian', 'bounty']",0
+1951,"['http', 'article', 'trump', 'wasnt', 'aware', 'russia', 'bounty', 'allegation']",0
+1952,"['http', 'reuters', 'article', 'mideast', 'crisis', 'syria', 'russia', 'casualtie', 'russian', 'toll', 'syria', 'battle', 'killed', 'wounded', 'source']",0
+1953,"['http', 'nytimes', 'politics', 'russia', 'afghanistan', 'bounty', 'html']",0
+1954,"['http', 'people', 'music', 'adele', 'tell', 'patient', 'album']",0
+1957,"['http', 'cidrap', 'news', 'perspective', 'covid', 'case', 'among', 'young', 'adult', 'spike']",0
+1958,"['http', 'livescience', 'covid', 'coronavirus', 'deadly', 'people', 'html']",0
+1960,"['http', 'usatoday', 'story', 'tech', 'facebook', 'boycott', 'hate', 'speech', 'biggest', 'brand', 'verizon', 'coca', 'cola']",0
+1961,"['http', 'adweek', 'programmatic', 'civil', 'right', 'group', 'facebook', 'advertiser', 'boycott', 'stophateforprofit']",0
+1962,"['http', 'marketwatch', 'story', 'facebook', 'share', 'drop', 'unilever', 'halt', 'advertising', 'prompting', 'change', 'social', 'networking', 'giant']",0
+1963,"['http', 'consumerreports', 'social', 'medium', 'facebook', 'approved', 'coronavirus', 'misinformation']",0
+1964,"['http', 'clarionledger', 'story', 'news', 'politics', 'mississippi', 'state', 'flag', 'lawmaker', 'vote', 'state', 'remove', 'confederate', 'emblem']",0
+1965,"['http', 'masslive', 'sport', 'college', 'football', 'mississippi', 'flag', 'miss', 'lane', 'kiffin', 'mike', 'leach', 'call', 'drop', 'confederate', 'emblem', 'state', 'flag', 'html']",0
+1966,"['http', 'mshistorynow', 'mdah', 'state', 'article', 'flag', 'mississippi']",0
+1967,"['http', 'clarionledger', 'story', 'news', 'stennis', 'flag', 'thing', 'know', 'popular', 'replacement', 'choice']",0
+1969,"['http', 'coronavirus', 'pandemic', 'black', 'life', 'matter', 'protest']",0
+1970,"['http', 'elijah', 'mcclain', 'george', 'floyd', 'black', 'life', 'matter', 'protest', 'killing']",0
+1971,"['http', 'nytimes', 'book', 'review', 'neel', 'patel', 'dont', 'html']",0
+1972,"['http', 'bookdepository', 'olour', 'abalola']",0
+1973,"['http', 'nytimes', 'book', 'review', 'windfall', 'diksha', 'basu', 'html']",0
+1974,"['http', 'policy', 'politics', 'bill', 'barr', 'donald', 'trump', 'berman', 'david', 'rohde']",0
+1975,"['http', 'united', 'state', 'serbia', 'democracy', 'journalist', 'stevan', 'dojcinovic']",0
+1976,"['http', 'nytimes', 'book', 'review', 'interior', 'chinatown', 'charles', 'html']",0
+1977,"['http', 'penguinrandomhouse', 'book', 'burning', 'megha', 'majumdar']",0
+1978,"['http', 'penguinrandomhouse', 'book', 'vanishing', 'half', 'brit', 'bennett']",0
+1979,"['http', 'penguinrandomhouse', 'book', 'nobody', 'tell', 'kalb']",0
+1980,"['http', 'theguardian', 'book', 'naoise', 'dolan', 'good', 'presenting', 'likable']",0
+1981,"['http', 'penguinrandomhouse', 'book', 'possessed', 'elif', 'batuman']",0
+1982,"['http', 'storypirates', 'podcast']",0
+1983,"['http', 'podcasts', 'apple', 'podcast', 'ghost', 'podcast']",0
+1984,"['http', 'estherperel', 'podcast']",0
+1985,"['http', 'mydadwroteaporno']",0
+1986,"['http', 'podcasts', 'apple', 'podcast', 'guilty', 'feminist']",0
+1987,"['http', 'podcasts', 'apple', 'podcast', 'jesus', 'jollof']",0
+1988,"['http', 'podcasts', 'apple', 'podcast', 'ronna']",0
+1989,"['http', 'shesallfatpod', 'podcast']",0
+1990,"['http', 'homecooking', 'show']",0
+1991,"['http', 'songexploder']",0
+1992,"['http', 'callyourgirlfriend', 'episode']",0
+1993,"['http', 'littleeverywhere', 'show']",0
+1994,"['http', 'theweekjunior']",0
+1995,"['http', 'thejuggernaut', 'newsletter']",0
+1996,"['http', 'emilyoster', 'substack']",0
+1997,"['http', 'nytimes', 'newsletter', 'parenting']",0
+1998,"['http', 'latimes', 'newsletter', 'coronavirus', 'today']",0
+1999,"['http', 'hotpodnews']",0
+2000,"['http', 'eviction', 'moratorium', 'senate', 'bill', 'elizabeth', 'warren', 'chuy', 'garcia']",0
+2001,"['http', 'open', 'spotify', 'episode']",0
+2002,"['http', 'recode', 'amazon', 'coronavirus', 'warehouse', 'worker', 'protest', 'jeff', 'bezos', 'chris', 'small', 'boycott', 'pandemic']",0
+2004,"['http', 'nytimes', 'world', 'asia', 'afghanistan', 'woman', 'human', 'right', 'html']",0
+2005,"['http', 'politico', 'news', 'belt', 'coronavirus', 'trump', 'reelection']",0
+2007,"['http', 'coronavirus', 'pandemic', 'second', 'wave', 'america']",0
+2008,"['http', 'nytimes', 'coronavirus', 'hospital', 'houston', 'html']",0
+2010,"['http', 'nbcnews', 'news', 'world', 'global', 'covid', 'case', 'reach', 'million', 'john', 'hopkins', 'data']",0
+2011,"['http', 'reuters', 'article', 'health', 'coronavirus', 'case', 'global', 'coronavirus', 'case', 'exceed', 'million']",0
+2012,"['http', 'world', 'coronavirus', 'death', 'toll', 'case', 'intl', 'index', 'html']",0
+2014,"['http', 'rollcall', 'supreme', 'court', 'allows', 'president', 'fire', 'head', 'consumer', 'protection', 'agency']",0
+2015,"['http', 'nytimes', 'politics', 'cfpb', 'supreme', 'court', 'html']",0
+2016,"['http', 'supreme', 'court', 'abortion', 'chief', 'justice', 'john', 'robert', 'stephen', 'breyer', 'june', 'medical', 'russo']",0
+2017,"['http', 'supreme', 'court', 'hand', 'abortion', 'right', 'victory', 'louisiana', 'case']",0
+2018,"['http', 'thecut', 'supreme', 'court', 'vote', 'block', 'louisiana', 'abortion', 'html']",0
+2019,"['http', 'latimes', 'politics', 'story', 'supreme', 'court', 'louisiana', 'abortion', 'case']",0
+2020,"['http', 'abcnews', 'olitics', 'supreme', 'court', 'hand', 'major', 'decision', 'louisiana', 'abortion', 'case', 'story']",0
+2022,"['http', 'janefriedman', 'list', 'manage', 'profile']",1
+2023,"['http', 'janefriedman', 'list', 'manage', 'unsubscribe']",1
+2024,"['http', 'buffer']",0
+2025,"['http', 'campaign', 'archive']",1
+2026,"['http', 'courtneymaum', 'list', 'manage', 'subscribe']",1
+2027,"['http', 'blackcardiganedit', 'category', 'newsletter']",0
+2028,"['http', 'section', 'live', 'update', 'protest', 'racial', 'justice', 'princeton', 'remove', 'woodrow', 'wilson', 'name', 'public', 'policy', 'school']",0
+2029,"['http', 'offer', 'kettleandfire', 'june']",0
+2030,"['http', 'bleacherreport', 'article', 'report', 'newton', 'patriot', 'agree', 'year', 'incentive', 'laden', 'contract']",0
+2031,"['http', 'billboard', 'article', 'news', 'milton', 'glaser', 'designer', 'love', 'logo', 'dylan', 'silhouette', 'poster']",0
+2032,"['http', 'book', 'graduate', 'author', 'charles', 'webb']",0
+2033,"['http', 'hollywoodreporter', 'list', 'daytime', 'emmy', 'award', 'winner', 'full', 'list']",0
+2034,"['http', 'mailchi', 'bigspaceship', 'spaceship', 'internet', 'brunch']",0
+2035,"['http', 'youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'acebbd', 'medium', 'email', 'term', 'acebbd', 'acebbd']",0
+2036,"['http', 'mashable', 'article', 'twitter', 'meme', 'know', 'spot', 'place']",0
+2037,"['http', 'junkee', 'shredded', 'cheese', 'wife']",0
+2038,"['http', 'vulture', 'hood', 'baby', 'shuffle', 'tiktok', 'trend', 'kbfr', 'explained', 'html']",0
+2039,"['http', 'deadline', 'mulan', 'release', 'date', 'change', 'august']",0
+2041,"['http', 'variety', 'digital', 'news', 'princess', 'bride', 'remake', 'quibi', 'jonas', 'sophie', 'turner', 'tiffany', 'haddish']",0
+2042,"['http', 'youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'acebbd', 'medium', 'email', 'term', 'acebbd', 'acebbd']",0
+2043,"['http', 'youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'acebbd', 'medium', 'email', 'term', 'acebbd', 'acebbd']",0
+2044,"['http', 'duvernay', 'colin', 'kaepernick', 'netflix', 'series']",0
+2045,"['http', 'youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'acebbd', 'medium', 'email', 'term', 'acebbd', 'acebbd']",0
+2046,"['http', 'youtube', 'watch', 'feature', 'youtu', 'source', 'nternet', 'runch', 'campaign', 'acebbd', 'medium', 'email', 'term', 'acebbd', 'acebbd']",0
+2047,"['http', 'variety', 'music', 'news', 'chase', 'rice', 'concert', 'crowd', 'packed', 'video', 'social', 'distancing']",0
+2048,"['http', 'variety', 'news', 'bachelorette', 'resume', 'production', 'exclusive']",0
+2049,"['http', 'cosmopolitan', 'lifestyle', 'jenna', 'marble', 'quitting', 'youtube', 'blackface', 'nicki', 'minaj', 'apology']",0
+2050,"['http', 'adage', 'article', 'digital', 'continually', 'updated', 'list', 'brand', 'joining', 'facebook', 'boycott']",0
+2052,"['http', 'theverge', 'twitch', 'sexual', 'harassment', 'assault', 'permanent', 'streamer']",0
+2053,"['http', 'techcrunch', 'facebook', 'content', 'notification', 'screen']",0
+2054,"['http', 'techcrunch', 'youtubes', 'latest', 'experiment', 'tiktok', 'rival', 'focused', 'second', 'video']",0
+2055,"['http', 'theverge', 'amazon', 'seattle', 'climate', 'pledge', 'arena', 'environment']",0
+2056,"['http', 'nytimes', 'supreme', 'court', 'abortion', 'louisiana', 'html']",0
+2057,"['http', 'fastcompany', 'aocs', 'brand', 'groundbreaking', 'inspiring', 'knockoff', 'around', 'world']",0
+2058,"['http', 'section', 'live', 'update', 'protest', 'racial', 'justice', 'nasa', 'name', 'headquarters', 'mary', 'jackson', 'first', 'black', 'female', 'engineer']",0
+2064,"['http', 'lelo', 'bestseller']",0
+2065,"['http', 'melmagazine', 'story', 'female', 'orgasm', 'doctor']",0
+2066,"['http', 'theringer', 'music', 'rick', 'rubin', 'producer', 'legacy', 'shangri']",0
+2067,"['http', 'politico', 'news', 'magazine', 'republican', 'convention', 'florida', 'donald', 'trump']",0
+2068,"['http', 'popsci', 'story', 'science', 'number', 'look', 'like', 'spaghetti']",0
+2070,"['http', 'newyorker', 'science', 'medical', 'dispatch', 'coronavirus', 'surge', 'texas', 'could', 'seen', 'coming']",0
+2071,"['http', 'cnbc', 'chart', 'show', 'link', 'restaurant', 'spending', 'coronavirus', 'case', 'html']",0
+2072,"['http', 'thedailybeast', 'mexico', 'reopening']",0
+2073,"['http', 'digg', 'video', 'love', 'brush']",0
+2074,"['http', 'nytimes', 'world', 'coronavirus', 'update', 'html']",0
+2075,"['http', 'news', 'black', 'officer', 'detained', 'george', 'floyd', 'pledged', 'police']",0
+2076,"['http', 'politico', 'news', 'trump', 'share', 'video', 'supporter', 'yell', 'white', 'power']",0
+2077,"['http', 'huckberry', 'store', 'truff', 'category', 'black', 'truffle', 'infused', 'sauce']",0
+2078,"['http', 'dmagazine', 'publication', 'magazine', 'january', 'beverly', 'jean', 'hope', 'murder', 'grover', 'hope', 'suspect']",0
+2079,"['http', 'travel', 'story', 'unlikely', 'home', 'world', 'smallest', 'desert']",0
+2080,"['http', 'digg', 'edition', 'story']",0
+2084,"['http', 'digg', 'cmail', 'pthulty', 'vkjjhbly']",0
+2086,"['http', 'moralcode', 'product', 'quintus']",0
+2087,"['http', 'story', 'free', 'guide', 'making', 'partner', 'come']",0
+2088,"['http', 'huckberry', 'journal', 'post', 'best', 'brewery', 'state']",0
+2089,"['http', 'mentalfloss', 'article', 'best', 'song', 'movie']",0
+2092,"['http', 'curiositystream', 'hustle']",0
+2093,"['http', 'article', 'amazon', 'acquire', 'self', 'driving', 'startup', 'zoox']",0
+2094,"['http', 'thehustle', 'waymo', 'driverless', 'alphabet']",0
+2095,"['http', 'nytimes', 'business', 'amazon', 'zoox', 'html']",0
+2096,"['http', 'wired', 'story', 'amazon', 'aurora', 'self', 'driving', 'investment', 'funding', 'series']",0
+2097,"['http', 'thehustle', 'amazon', 'drone', 'delivery']",0
+2098,"['http', 'wired', 'story', 'amazon', 'shake', 'self', 'driving', 'ride', 'hailing']",0
+2099,"['http', 'thehustle', 'mazon', 'vehicle']",0
+2100,"['http', 'story', 'starbucks', 'story', 'creating', 'welcoming', 'inclusive', 'online', 'community']",0
+2101,"['http', 'level', 'medium', 'guide', 'upgrading', 'position']",0
+2102,"['http', 'melmagazine', 'story', 'america', 'lost', 'switched', 'porno', 'porn']",0
+2103,"['http', 'insidehook', 'feature', 'interview', 'mark', 'seliger', 'iconic', 'celebrity', 'photograph']",0
+2104,"['http', 'mensjournal', 'food', 'drink', 'loved', 'sandwich', 'america']",0
+2105,"['http', 'melmagazine', 'story', 'quarantine', 'revved', 'back', 'wholesome', 'tradition']",0
+2106,"['http', 'theringer', 'porn', 'coronavirus', 'pandemic', 'onlyfans']",0
+2107,"['http', 'demilked', 'creepy', 'scary', 'nature']",0
+2108,"['http', 'melmagazine', 'story', 'five', 'youve', 'told', 'whiskey']",0
+2109,"['http', 'crownes']",1
+2110,"['http', 'greatist', 'grow', 'libido', 'concern', 'treatment']",0
+2120,"['http', 'article', 'shift', 'plan', 'public', 'year', 'covid', 'boost', 'online', 'sale']",0
+2121,"['http', 'cnbc', 'tock', 'market', 'future', 'open', 'close', 'news', 'html']",0
+2122,"['http', 'reuters', 'article', 'stock', 'wall', 'street', 'higher', 'boeing', 'bump', 'stimulus', 'eyed']",0
+2123,"['http', 'cnbc', 'coronavirus', 'update', 'pending', 'home', 'sale', 'spike', 'record', 'point', 'percent', 'html']",0
+2126,"['http', 'doordash']",0
+2127,"['http', 'reddit', 'dataisbeautiful']",0
+2128,"['http', 'nytimes', 'movie', 'sundance', 'virus', 'html']",0
+2129,"['http', 'nytimes', 'fake', 'face', 'mask', 'exemption', 'card', 'coronavirus', 'html']",0
+2130,"['http', 'news', 'business']",0
+2131,"['http', 'nytimes', 'technology', 'working', 'home', 'failure', 'html']",0
+2132,"['http', 'nytimes', 'theater', 'broadway', 'reopening', 'coronavirus', 'html']",0
+2133,"['http', 'theverge', 'twitch', 'donald', 'trump', 'campaign', 'account']",0
+2134,"['http', 'theverge', 'reddit', 'subreddits', 'donald', 'chapo', 'trap', 'house', 'content', 'policy', 'rule']",0
+2135,"['http', 'techcrunch', 'india', 'tiktok', 'dozen', 'chinese', 'apps']",0
+2136,"['http', 'nytimes', 'technology', 'uber', 'postmates', 'offer', 'html']",0
+2137,"['http', 'thehustle', 'lululemon', 'self', 'care', 'product', 'lifestyle', 'brand']",0
+2138,"['http', 'nytimes', 'business', 'lululemon', 'mirror', 'html']",0
+2139,"['http', 'businesswire', 'news', 'home', 'lululemon', 'athletica', 'cquire', 'itness', 'nnovator']",0
+2140,"['http', 'thehustle', 'wift', 'training']",0
+2141,"['http', 'fastcompany', 'bike', 'racing', 'virtual', 'captivate', 'cycling', 'billion', 'worldwide']",0
+2142,"['http', 'zwift', 'welcome', 'zwift']",0
+2143,"['http', 'thehustle', 'foraging', 'mushroom']",0
+2144,"['http', 'newyorker', 'magazine', 'foraged', 'food', 'shorten', 'supply', 'chain']",0
+2145,"['http', 'thehustle', 'recruiting', 'referral']",0
+2146,"['http', 'onezero', 'medium', 'tech', 'elite', 'selling', 'referral', 'facebook', 'google', 'amazon', 'afdd']",0
+2147,"['http', 'thehustle', 'oupang', 'ecommerce']",0
+2149,"['http', 'reuters', 'article', 'health', 'coronavirus', 'southkorea', 'explain', 'explainer', 'catch', 'covid', 'delivered', 'package']",0
+2150,"['http', 'cnbc', 'meet', 'cnbc', 'disruptor', 'company', 'html']",0
+2151,"['http', 'cnbc', 'coupang', 'crushed', 'amazon', 'become', 'south', 'korea', 'biggest', 'online', 'retailer', 'html']",0
+2153,"['http', 'washingtonpost', 'term', 'service', 'story', 'html']",0
+2154,"['http', 'washingtonpost', 'privacy', 'policy', 'story', 'html']",0
+2155,"['http', 'helpcenter', 'washingtonpost']",1
+2156,"['http', 'subscribe', 'washingtonpost', 'newsletter']",1
+2157,"['http', 'subscribe', 'washingtonpost', 'newsletter', 'newsletter']",1
+2158,"['http', 'subscribe', 'washingtonpost', 'newsletter', 'bundle', 'boldschool', 'wapo']",1
+2159,"['http', 'subscribe', 'washingtonpost', 'newsletter', 'bundle', 'wapo']",1
+2160,"['http', 'subscribe', 'washingtonpost', 'newsletter', 'bundle', 'comment', 'wapo']",1
+2162,"['http', 'joinhoney', 'page', 'implified', 'ellow', 'eneral']",1
+2163,"['http', 'nytimes', 'nyregion', 'coronavirus', 'fusco', 'family', 'html']",0
+2164,"['http', 'newrepublic', 'article', 'democrat', 'cant', 'quit', 'addiction', 'money', 'donor']",0
+2165,"['http', 'buzzfeednews', 'article', 'amberjamieson', 'coronavirus', 'social', 'distancing', 'contract', 'divorce', 'parent']",0
+2166,"['http', 'trump', 'obamacare', 'repeal', 'short', 'term', 'health', 'care', 'insurance', 'scam']",0
+2167,"['http', 'narratively', 'conscripted', 'emperor', 'private', 'orchestra']",0
+2168,"['http', 'vice', 'article', 'show', 'home', 'flood', 'next', 'year', 'climate', 'change']",0
+2169,"['http', 'propublica', 'article', 'north', 'carolina', 'transformed', 'worst', 'state', 'unemployed']",0
+2170,"['http', 'slate', 'technology', 'george', 'orwell', 'black', 'life', 'matter', 'police', 'colonialism', 'html']",0
+2171,"['http', 'digg', 'video', 'cant', 'drive', 'north', 'south', 'america']",0
+2172,"['http', 'reuters', 'article', 'auto', 'fleet', 'sale', 'analysis', 'slumping', 'fleet', 'sale', 'weigh', 'auto', 'market']",0
+2173,"['http', 'nbcnews', 'news', 'news', 'state', 'halt', 'reopening', 'indoor', 'dining', 'public', 'health', 'expert', 'urge']",0
+2174,"['http', 'apnews']",0
+2175,"['http', 'store', 'digg', 'sale', 'apple', 'magic', 'mouse', 'wireless', 'rechargable', 'silver', 'certified', 'refurbished']",0
+2176,"['http', 'outsideonline', 'death']",0
+2177,"['http', 'story', 'uber', 'driver']",0
+2178,"['http', 'digg', 'edition', 'story']",0
+2182,"['http', 'digg', 'cmail', 'ptkulky', 'vkjjhbly']",0
+2194,"['http', 'morningbrewdaily', 'typeform']",0
+2195,"['http', 'morningbrew', 'daily', 'story', 'second', 'half', 'preview']",0
+2197,"['http', 'techcrunch', 'commerce', 'sale', 'jump', 'april', 'online', 'grocery']",0
+2198,"['http', 'morningbrew', 'daily', 'story', 'future', 'city']",0
+2199,"['http', 'morningbrew', 'daily', 'story', 'virtual', 'world', 'stay']",1
+2200,"['http', 'morningbrew', 'daily', 'story', 'higher', 'never']",0
+2201,"['http', 'morningbrew', 'daily', 'story', 'remote', 'work', 'destiny']",0
+2202,"['http', 'morningbrew', 'daily', 'story', 'thing', 'sped', 'covid']",0
+2203,"['http', 'morningbrew', 'daily', 'story', 'photo']",0
+2204,"['http', 'morningbrew', 'daily', 'story', 'spacex', 'successfully', 'launch', 'human', 'space']",0
+2205,"['http', 'nytimes', 'business', 'economy', 'trump', 'navarro', 'china', 'trade', 'deal', 'html']",0
+2206,"['http', 'foodandwine', 'news', 'francisco', 'district', 'attorney', 'doordash']",0
+2207,"['http', 'economist', 'business', 'sight', 'samsungs', 'legal', 'trouble']",0
+2208,"['http', 'axios', 'tech', 'summer', 'antitrust', 'cffcc', 'html']",0
+2209,"['http', 'morningbrew', 'daily', 'story', 'underreported', 'business', 'story']",0
+2210,"['http', 'usatoday', 'story', 'tech', 'twitter', 'jack', 'dorsey', 'elliott', 'management']",0
+2211,"['http', 'apnews']",0
+2212,"['http', 'nytimes', 'technology', 'twitter', 'trump', 'dorsey', 'html']",0
+2213,"['http', 'nytimes', 'opinion', 'sunday', 'twitter', 'protest', 'politics', 'html']",0
+2214,"['http', 'cnbc', 'twitter', 'jack', 'dorsey', 'francisco', 'comment', 'warning', 'sign', 'html']",0
+2215,"['http', 'morningbrew', 'daily', 'story', 'tale', 'three', 'crisis', 'twitter', 'fared']",0
+2216,"['http', 'news', 'noted']",0
+2217,"['http', 'cloudwars', 'covid', 'zoom', 'quarter', 'popping', 'stats', 'tech', 'superstar']",0
+2218,"['http', 'brynjolfsson', 'remotework']",0
+2219,"['http', 'theguardian', 'film', 'office', 'drop', 'year', 'year', 'wednesday', 'reach', 'historic']",0
+2220,"['http', 'pcmag', 'news', 'netflix', 'subscriber', 'watch', 'hour', 'data']",0
+2221,"['http', 'press', 'release', 'hotel', 'demand', 'expected', 'fully', 'recover']",0
+2222,"['http', 'businessinsider', 'traffic', 'coronavirus', 'pandemic', 'change', 'effect', 'around', 'world', 'continuation', 'commercial', 'flight', 'mask', 'people', 'flying']",0
+2223,"['http', 'fortune', 'black', 'fortune', 'african', 'american', 'business', 'leader']",0
+2224,"['http', 'creosotemaps']",0
+2225,"['http', 'coronavirus', 'html']",1
+2226,"['http', 'marketwatch', 'story', 'another', 'million', 'jobless', 'claim', 'predicted', 'arent', 'falling', 'faster']",0
+2227,"['http', 'morningbrew', 'daily', 'story', 'number']",0
+2228,"['http', 'morningbrew', 'emerging', 'tech', 'story', 'microsoft', 'amazon', 'announce', 'restriction', 'facial', 'recognition', 'sale', 'police', 'department', 'html']",0
+2229,"['http', 'morningbrew', 'daily', 'story', 'aunt', 'jemima', 'uncle', 'owner', 'rethink', 'offensive', 'brand']",0
+2230,"['http', 'reuters', 'article', 'minneapolis', 'police', 'bank', 'america', 'bank', 'america', 'pledge', 'billion', 'address', 'racial', 'economic', 'inequality']",0
+2231,"['http', 'morningbrew', 'daily', 'story', 'corporate', 'america', 'finally', 'black', 'life', 'matter']",0
+2232,"['http', 'politico', 'news', 'magazine', 'coronavirus', 'shutdown', 'kill', 'switch']",0
+2233,"['http', 'article', 'amazon', 'keep', 'added', 'pandemic']",0
+2234,"['http', 'congress', 'approved', 'trillion', 'coronavirus', 'relief', 'breakdown']",0
+2235,"['http', 'nytimes', 'business', 'world', 'economic', 'outlook', 'html']",0
+2236,"['http', 'global', 'newsroom', 'news', 'lang', 'index']",0
+2237,"['http', 'youtube', 'watch']",0
+2238,"['http', 'morningbrew', 'daily', 'story', 'reflecting', 'historic', 'economic', 'shutdown']",0
+2241,"['http', 'morningbrew', 'daily', 'latest']",0
+2243,"['http', 'washingtonpost', 'world', 'asia', 'pacific', 'hong', 'kong', 'national', 'security', 'freedom', 'democracy', 'china', 'story', 'html']",0
+2244,"['http', 'washingtonpost', 'national', 'security', 'russian', 'bounty', 'taliban', 'linked', 'militant', 'resulted', 'death', 'troop', 'according', 'intelligence', 'assessment', 'ffaec', 'story', 'html']",0
+2249,"['http', 'policy', 'politics', 'voxcare', 'remdesivir', 'price', 'coronavirus']",0
+2250,"['http', 'recode', 'blockbuster', 'netflix', 'podcast', 'land', 'giant']",0
+2251,"['http', 'energy', 'environment', 'climate', 'change', 'house', 'democrat', 'select', 'committee', 'report']",0
+2252,"['http', 'bipoc', 'mean', 'critical', 'race', 'linguistics', 'jonathan', 'rosa', 'deandra', 'mile', 'hercules']",0
+2253,"['http', 'news', 'update', 'google', 'assistant']",0
+2254,"['http', 'youtube', 'watch']",0
+2255,"['http', 'apnews']",0
+2257,"['http', 'trump', 'system', 'failure']",0
+2258,"['http', 'nytimes', 'style', 'boogaloo', 'hawaiian', 'shirt', 'html']",0
+2259,"['http', 'section', 'coronavirus', 'live', 'update', 'list', 'approved', 'travel', 'partner', 'isnt']",0
+2260,"['http', 'supreme', 'court', 'separation', 'church', 'state', 'espinoza', 'montana', 'school', 'religion']",0
+2261,"['http', 'courier', 'journal', 'story', 'news', 'politics', 'election', 'kentucky', 'kentucky', 'senate', 'primary', 'election', 'result', 'booker', 'mcgrath']",0
+2262,"['http', 'live', 'result', 'june', 'primary', 'colorado', 'utah', 'oklahoma']",0
+2263,"['http', 'scmp', 'news', 'hong', 'kong', 'politics', 'article', 'hong', 'kong', 'activist', 'plan', 'defy', 'police', 'july', 'protest']",0
+2264,"['http', 'nytimes', 'world', 'asia', 'china', 'hong', 'kong', 'security', 'rule', 'html']",0
+2265,"['http', 'china', 'hong', 'kong', 'national', 'security', 'passed', 'intl', 'index', 'html']",0
+2266,"['http', 'china', 'enacts', 'security', 'asserting', 'control', 'hong', 'kong']",0
+2268,"['http', 'politico', 'news', 'house', 'democrat', 'russia', 'bounty', 'white', 'house', 'briefing']",0
+2269,"['http', 'congress', 'unites', 'demand', 'answer', 'trump', 'russian', 'bounty', 'afghanistan']",0
+2270,"['http', 'policy', 'politics', 'russian', 'bounty', 'troop', 'afghanistan', 'trump', 'explained']",0
+2271,"['http', 'thedailybeast', 'trump', 'official', 'didnt', 'want', 'tell', 'russian', 'bounty']",0
+2272,"['http', 'politics', 'russia', 'bounty', 'presidential', 'daily', 'briefing', 'index', 'html']",0
+2273,"['http', 'nytimes', 'politics', 'russian', 'bounty', 'afghanistan', 'intelligence', 'html']",0
+2274,"['http', 'apnews', 'ffdd']",0
+2280,"['http', 'nytimes', 'business', 'zoom', 'shirt', 'html']",0
+2281,"['http', 'apnews']",1
+2282,"['http', 'supreme', 'court', 'revisits', 'abortion', 'louisiana', 'case']",0
+2283,"['http', 'politics', 'supreme', 'court', 'abortion', 'texas', 'index', 'html']",0
+2284,"['http', 'thehill', 'regulation', 'supreme', 'court', 'strike', 'louisiana', 'abortion', 'restriction']",0
+2285,"['http', 'apnews']",0
+2286,"['http', 'axios', 'alabama', 'senate', 'vote', 'abortion', 'html']",0
+2288,"['http', 'theguardian', 'world', 'china', 'sterilising', 'ethnic', 'minority', 'woman', 'xinjiang', 'report']",0
+2289,"['http', 'cbsnews', 'news', 'gilead', 'coronavirus', 'treatment', 'remdesivir', 'private', 'insurance', 'cost']",0
+2290,"['http', 'thehill', 'changing', 'america', 'well', 'prevention', 'cure', 'chinese', 'researcher', 'warn', 'swine', 'strain']",0
+2291,"['http', 'espn', 'story', 'netflix', 'produce', 'part', 'series', 'colin', 'kaepernick']",0
+2292,"['http', 'civilrights', 'justice', 'nine']",0
+2293,"['http', 'election', 'office']",0
+2294,"['http', 'voting']",0
+2295,"['http', 'theskimm', 'pick', 'hottest', 'book', 'season']",1
+2296,"['http', 'nytimes', 'article', 'maskne', 'acne', 'html']",0
+2298,"['http', 'dameproducts', 'page', 'skimm']",1
+2299,"['http', 'podcasts', 'apple', 'podcast', 'skimmd', 'couch']",1
+2300,"['http', 'mykitsch', 'page', 'cleanse', 'ritual', 'towel', 'scrunchies', 'skimm']",0
+2301,"['http', 'shop', 'perfectketo', 'product', 'keto', 'cooky']",0
+2302,"['http', 'hireblacknow']",0
+2308,"['http', 'reuters', 'article', 'court', 'abortion', 'major', 'ruling', 'supreme', 'court', 'strike', 'strict', 'louisiana', 'abortion']",0
+2309,"['http', 'scotusblog', 'symposium', 'intensely', 'factual', 'question', 'physician', 'admitting', 'privilege']",0
+2310,"['http', 'scotusblog', 'opinion', 'analysis', 'robert', 'providing', 'fifth', 'vote', 'court', 'strike', 'louisiana', 'abortion']",0
+2311,"['http', 'cbsnews', 'news', 'supreme', 'court', 'allows', 'federal', 'death', 'penalty', 'justice', 'department', 'execution']",0
+2313,"['http', 'theverge', 'reddit', 'quarantine', 'donald', 'trump', 'subreddit', 'misbehavior', 'violence', 'police', 'oregon']",0
+2314,"['http', 'news', 'technology']",0
+2315,"['http', 'cbsnews', 'news', 'company', 'boycotting', 'facebook', 'different', 'boycott']",0
+2316,"['http', 'digitaltrends', 'reddit']",0
+2317,"['http', 'nbcnews', 'news', 'news', 'golden', 'state', 'killer', 'suspect', 'plead', 'guilty', 'count', 'first', 'degree']",0
+2318,"['http', 'mercurynews', 'golden', 'state', 'killer', 'stop', 'assuming']",0
+2319,"['http', 'section', 'thetwo', 'hunt', 'golden', 'state', 'killer', 'investigator', 'uploaded', 'genealogy', 'site']",0
+2320,"['http', 'diversyfund', 'growth', 'reit', 'platform', 'start', 'investing']",0
+2321,"['http', 'playbill', 'article', 'broadway', 'officially', 'remain', 'closed']",0
+2322,"['http', 'hollywoodreporter', 'live', 'feed', 'colin', 'kaepernicks', 'life', 'become', 'netflix', 'series', 'duvernay']",0
+2323,"['http', 'variety', 'film', 'news', 'theatre', 'tenet', 'coronavirus']",0
+2324,"['http', 'news', 'berkeley', 'native', 'amazonians', 'american', 'monkey', 'show', 'similar', 'thinking', 'pattern']",0
+2325,"['http', 'theverge', 'apple', 'news', 'york', 'time', 'available', 'free', 'article', 'subscription']",0
+2327,"['http', 'news', 'rice', 'laser', 'welded', 'sugar', 'sweet', 'print', 'blood', 'vessel']",0
+2329,"['http', 'reuters', 'article', 'pakistan', 'attack', 'gunman', 'attack', 'pakistani', 'stock', 'exchange', 'seven', 'killed', 'police']",0
+2330,"['http', 'reuters', 'article', 'boeing', 'boeing', 'begin', 'crucial', 'certification', 'test', 'flight', 'grounded']",0
+2331,"['http', 'statnews', 'gilead', 'announces', 'remdesivir', 'price', 'covid']",0
+2332,"['http', 'tech', 'lululemon', 'mirror', 'fitness', 'startup', 'acquisition', 'index', 'html']",0
+2333,"['http', 'apnews']",0
+2334,"['http', 'graphic', 'reuters', 'dgkvlgkrkpb']",0
+2335,"['http', 'apnews', 'eabe']",0
+2337,"['http', 'abcnews', 'george', 'floyds', 'relative', 'watch', 'officer', 'charged', 'killing', 'court', 'story']",0
+2339,"['http', 'freep', 'story', 'news', 'health', 'chandler', 'sinai', 'grace', 'corona', 'death', 'nurse']",0
+2340,"['http', 'americanpressinstitute', 'election', 'primary', 'state', 'ready', 'november']",0
+2341,"['http', 'diversyfund', 'growth', 'reit', 'platform', 'market', 'volatility']",0
+2342,"['http', 'thereader', 'mitpress', 'american', 'democracy', 'broken', 'think']",1
+2343,"['http', 'agoraimages', 'prowly', 'world', 'best', 'photo', 'green']",0
+2344,"['http', 'origin', 'milestone', 'june', 'tunguska', 'event', 'threat', 'tomorrow']",0
+2345,"['http', 'meetselect']",1
+2346,"['http', 'news', 'health']",0
+2348,"['http', 'news', 'arrested', 'caught', 'video', 'swimming', 'bass', 'shop', 'aquarium']",0
+2349,"['http', 'whdh', 'news', 'police', 'resident', 'plummeted', 'abyss', 'year', 'england', 'home']",0
+2350,"['http', 'tampabay', 'life', 'culture', 'tampa', 'quarantined', 'alone', 'hundred', 'parrot', 'wasnt', 'choice']",0
+2351,"['http', 'wikipedia', 'wiki', 'xford', 'evolution', 'debate']",0
+2353,"['http', 'robinsloan', 'book']",0
+2354,"['http', 'gold']",0
+2355,"['http', 'robinsloan']",1
+2356,"['http', 'snarkmarket']",0
+2357,"['http', 'robinsloan', 'note', 'writing', 'machine']",0
+2358,"['http', 'whyisthisinteresting', 'substack', 'interesting', 'monday']",0
+2359,"['http', 'whyisthisinteresting', 'substack', 'interesting', 'autonomous']",1
+2360,"['http', 'deceuvel']",0
+2361,"['http', 'deceuvel', 'sustainable', 'technology', 'phytoremediation']",0
+2362,"['http', 'deceuvel', 'organisatie']",0
+2363,"['http', 'deceuvel', 'cafe', 'cafe', 'home']",0
+2364,"['http', 'amsterdam', 'bestuur', 'organisatie', 'organisaties', 'organisaties', 'bureau', 'broedplaatsen']",0
+2365,"['http', 'amsterdam', 'bestuur', 'organisatie', 'organisaties', 'organisaties', 'bureau', 'broedplaatsen', 'loket', 'broedplaatsen']",0
+2366,"['http', 'amsterdam', 'kunst', 'cultuur', 'atelier', 'broedplaatsen', 'broedplaatsen']",0
+2367,"['http', 'amsterdam', 'kunst', 'cultuur', 'atelier', 'broedplaatsen', 'broedplaatsen', 'alle', 'vrijplaatsen']",0
+2368,"['http', 'roberthodgin', 'project', 'meander']",0
+2369,"['http', 'nikolehannahjones']",0
+2372,"['http', 'benwesthoff', 'substack', 'beastie']",0
+2376,"['http', 'morningbrew', 'daily']",0
+2379,"['http', 'info', 'attentivemobile', 'morning', 'brew']",0
+2380,"['http', 'reuters', 'article', 'stock', 'wall', 'gain', 'boeing', 'bump', 'remdesivir', 'hope']",0
+2381,"['http', 'nbcnewyork', 'news', 'local', 'york', 'camp', 'shopping', 'mall', 'reopen', 'global', 'covid', 'death']",0
+2383,"['http', 'morningbrew', 'daily', 'story', 'broadway', 'extends', 'shutdown', 'year']",0
+2384,"['http', 'playbill', 'article', 'broadway', 'officially', 'remain', 'closed']",0
+2385,"['http', 'cnbc', 'york', 'city', 'broadway', 'remain', 'dark', 'rest', 'html']",0
+2386,"['http', 'reuters', 'article', 'cirque', 'soleil', 'bankruptcy', 'cirque', 'soleil', 'file', 'bankruptcy', 'protection', 'covid', 'cancel', 'show']",0
+2387,"['http', 'section', 'coronavirus', 'live', 'update', 'emergency', 'relief', 'package', 'provides', 'million', 'fund', 'help']",0
+2388,"['http', 'section', 'coronavirus', 'live', 'update', 'mourning', 'loss', 'third', 'artist', 'report', 'unemployed']",0
+2389,"['http', 'nytimes', 'theater', 'phantom', 'opera', 'seoul', 'virus', 'html']",0
+2390,"['http', 'show', 'must', 'online', 'theater', 'closed', 'covid', 'creative']",0
+2391,"['http', 'morningbrew', 'daily', 'story', 'reddit', 'take', 'stand', 'hate', 'speech']",0
+2392,"['http', 'tech', 'reddit', 'hate', 'policy', 'index', 'html']",0
+2393,"['http', 'politico', 'news', 'reddit', 'trump', 'forum', 'crackdown', 'hate', 'speech']",0
+2394,"['http', 'morningbrew', 'marketing', 'story', 'facebook', 'boycott', 'mean', 'really']",0
+2395,"['http', 'usatoday', 'story', 'tech', 'trump', 'twitch', 'channel', 'trump', 'reddit', 'group', 'cited', 'hate', 'speech']",0
+2396,"['http', 'nytimes', 'technology', 'reddit', 'hate', 'speech', 'html']",0
+2397,"['http', 'tech', 'facebook', 'boycott', 'stock', 'index', 'html']",0
+2398,"['http', 'morningbrew', 'daily', 'story', 'lululemon', 'acquires', 'mirror', 'million']",0
+2399,"['http', 'cnbc', 'lululemon', 'acquire', 'home', 'fitness', 'company', 'mirror', 'million', 'html']",0
+2400,"['http', 'businesscasual', 'might', 'sore', 'tomorrow', 'fitness', 'tech', 'treatment']",0
+2401,"['http', 'morningbrew', 'daily', 'story', 'gilead', 'unveils', 'price', 'remdesivir']",0
+2402,"['http', 'cnbc', 'gileads', 'coronavirus', 'treatment', 'remdesivir', 'cost', 'insured', 'patient', 'html']",0
+2403,"['http', 'apnews']",0
+2404,"['http', 'morningbrew', 'daily', 'story', 'coty', 'snag', 'another', 'kardashian']",0
+2405,"['http', 'yahoo', 'lifestyle', 'kardashian', 'sold', 'percentage', 'html']",0
+2408,"['http', 'axios', 'scoop', 'microsoft', 'pausing', 'spending', 'facebook', 'instagram', 'html']",0
+2409,"['http', 'nbcnews', 'politics', 'supreme', 'court', 'supreme', 'court', 'strike', 'restrictive', 'louisiana', 'abortion']",0
+2411,"['http', 'cnbc', 'shift', 'reopening', 'july', 'hollywood', 'push', 'back', 'blockbuster', 'html']",0
+2412,"['http', 'reuters', 'article', 'york', 'time', 'apple', 'news', 'york', 'time', 'partnership', 'apple', 'news']",0
+2413,"['http', 'cariuma', 'page']",0
+2415,"['http', 'techcommunity', 'microsoft', 'excel', 'blog', 'announcing', 'stockhistory']",0
+2416,"['http', 'shape', 'fitness', 'workout', 'deck', 'card', 'workout']",0
+2417,"['http', 'topic', 'lgbt']",0
+2418,"['http', 'nytimes', 'nyregion', 'pride', 'event', 'html']",0
+2419,"['http', 'newyorker', 'culture', 'essay', 'coming', 'rising', 'fifty', 'year', 'stonewall']",0
+2420,"['http', 'newyorker', 'magazine', 'trans', 'community', 'christopher', 'street']",0
+2421,"['http', 'theconversation', 'york', 'medium', 'covered', 'stonewall', 'riot']",0
+2422,"['http', 'morningbrew', 'marketing']",0
+2426,"['http', 'playbill', 'article', 'playbillcom', 'lettering']",0
+2436,"['http', 'densediscovery']",1
+2437,"['http', 'densediscovery', 'issue']",0
+2438,"['http', 'github', 'climate', 'strike', 'license']",0
+2439,"['http', 'github', 'climate', 'strike', 'license', 'project', 'accelerate', 'climate', 'crisis']",0
+2440,"['http', 'medium', 'kaibrach', 'individual', 'collective', 'climate', 'action']",0
+2441,"['http', 'densediscovery', 'issue', 'comment']",0
+2442,"['http', 'densediscovery', 'advertise']",1
+2443,"['http', 'google', 'spreadsheet', 'pubhtml']",1
+2444,"['http', 'bakkenbaeck', 'join']",0
+2445,"['http', 'fastcompany', 'design', 'innovative', 'company']",0
+2446,"['http', 'syncthing']",0
+2447,"['http', 'quotebacks']",0
+2448,"['http', 'dittowords']",0
+2449,"['http', 'yourblackfriendsarebusy']",0
+2450,"['http', 'senetmagazine']",0
+2451,"['http', 'senetmagazine', 'product', 'issue']",0
+2452,"['http', 'greenpeace', 'blog', 'beyond', 'reduce', 'reuse', 'recycle']",0
+2453,"['http', 'weshouldgettogether', 'book']",0
+2454,"['http', 'simplebits', 'product', 'twenty', 'learned', 'book']",0
+2455,"['http', 'dribbble']",0
+2456,"['http', 'simplebits', 'page']",0
+2457,"['http', 'techcrunch', 'want', 'talk', 'race', 'tech', 'ijeoma', 'oluo']",0
+2458,"['http', 'thebaffler', 'latest', 'chatbots', 'world', 'connolly']",0
+2459,"['http', 'news', 'science', 'wellness', 'instagram', 'influencers', 'veer', 'conspiracy', 'theory']",0
+2460,"['http', 'brandidentity', 'feed', 'parson', 'showcase', 'unsuccessful', 'identity', 'pitch', 'start', 'conference', 'bitspretzels']",0
+2461,"['http', 'futurefonts', 'studiotriple', 'jaune', 'grande']",0
+2462,"['http', 'float']",1
+2463,"['http', 'emailancer']",0
+2464,"['http', 'visualsitemaps']",0
+2465,"['http', 'coastalwilderness']",0
+2466,"['http', 'unenvironment', 'news', 'story', 'story', 'perfect', 'storm', 'climate', 'change', 'stokes', 'wildfire', 'marine', 'heatwaves']",0
+2467,"['http', 'google', 'document', 'edit', 'heading', 'mzcufn']",1
+2468,"['http', 'densediscovery', 'issue']",0
+2469,"['http', 'densediscovery', 'dontgo']",1
+2470,"['http', 'densediscovery', 'archive']",1
+2471,"['http', 'mailchi', 'bigspaceship', 'spaceship', 'internet', 'brunch']",0
+2473,"['http', 'huffpost', 'entry', 'trump', 'twitch', 'channel', 'suspended', 'hateful', 'conduct']",0
+2475,"['http', 'tiktok', 'html']",0
+2477,"['http', 'variety', 'news', 'anthony', 'mackie', 'falcon', 'winter', 'soldier', 'disney', 'plus', 'marvel', 'avenger']",0
+2478,"['http', 'eonline', 'news', 'carl', 'reiner', 'dick', 'dyke', 'show', 'creator', 'dead']",0
+2480,"['http', 'finance', 'yahoo', 'amphtml', 'news', 'beyond', 'meat', 'founder', 'plantbased', 'meat', 'cheaper', 'animal', 'protein', 'html']",0
+2481,"['http', 'theverge', 'apple', 'iphone', 'power', 'adapter', 'charger', 'rumor']",0
+2482,"['http', 'nytimes', 'nyregion', 'budget', 'police', 'html']",0
+2483,"['http', 'travel', 'article', 'border', 'open', 'american', 'intl', 'index', 'html']",0
+2487,"['http', 'cheddar', 'newsletter', 'share']",0
+2491,"['http', 'nytimes', 'politics', 'russian', 'bounty', 'trump', 'html']",0
+2492,"['http', 'reuters', 'article', 'health', 'coronavirus', 'gilead', 'science', 'breakingviews', 'gilead', 'give', 'glimpse', 'feverish', 'drug', 'market']",0
+2493,"['http', 'youtube', 'watch', 'feature', 'youtu']",0
+2494,"['http', 'eddit', 'rump', 'group', 'violating', 'hate', 'speech', 'policy']",0
+2495,"['http', 'player', 'opting', 'season', 'mike', 'leake', 'ryan', 'zimmerman', 'ross', 'trnd', 'index', 'html']",0
+2497,"['http', 'broadwayworld', 'article', 'reaking', 'roadway', 'hutdown', 'xtends', 'ntil']",0
+2501,"['http', 'cheddar', 'medium', 'loosens', 'restriction', 'food', 'labeling']",0
+2602,"['http', 'morningbrew', 'daily']",0
+2605,"['http', 'curiositystream', 'brew']",0
+2606,"['http', 'cnbc', 'stock', 'market', 'future', 'open', 'close', 'news', 'html']",0
+2607,"['http', 'apnews', 'acbffb']",0
+2608,"['http', 'morningbrew', 'daily', 'story', 'coronavirus', 'surge', 'state', 'fauci', 'warns', 'rough', 'ahead']",0
+2609,"['http', 'reuters', 'article', 'health', 'coronavirus', 'fauci', 'guarantee', 'effective', 'covid', 'vaccine', 'warns', 'spread', 'could']",0
+2610,"['http', 'nytimes', 'world', 'coronavirus', 'update', 'html', 'link']",0
+2612,"['http', 'cnbc', 'american', 'remain', 'barred', 'european', 'travel', 'html']",0
+2613,"['http', 'nbcnewyork', 'news', 'local', 'future', 'nycs', 'indoor', 'dining', 'limbo', 'covid', 'case', 'tied', 'restaurant', 'surge']",0
+2614,"['http', 'health', 'fauci', 'stop', 'going', 'trnd', 'index', 'html']",0
+2615,"['http', 'article', 'williams', 'economy', 'likely', 'seen', 'point', 'continuing', 'crisis']",0
+2616,"['http', 'morningbrew', 'daily', 'story', 'adidas', 'exec', 'resigns', 'complaint', 'racism', 'company']",0
+2617,"['http', 'nytimes', 'business', 'adidas', 'karen', 'parkin', 'resigns', 'html']",0
+2618,"['http', 'nytimes', 'business', 'adidas', 'diversity', 'employee', 'html']",0
+2619,"['http', 'morningbrew', 'daily', 'story', 'employee', 'demand', 'company', 'fight', 'racism']",0
+2620,"['http', 'morningbrew', 'daily', 'story', 'microsoft', 'announces', 'program', 'train', 'worker']",0
+2621,"['http', 'blog', 'microsoft', 'blog', 'microsoft', 'launch', 'initiative', 'help', 'million', 'people', 'worldwide', 'acquire', 'digital', 'skill', 'needed', 'covid', 'economy']",0
+2622,"['http', 'article', 'microsoft', 'train', 'million', 'worker', 'free']",0
+2623,"['http', 'morningbrew', 'daily', 'story', 'democrat', 'unveil', 'plan', 'zero', 'emission']",0
+2624,"['http', 'politico', 'news', 'democrat', 'unveil', 'sweeping', 'plan', 'tackle', 'climate', 'change']",0
+2625,"['http', 'nytimes', 'climate', 'house', 'democrat', 'climate', 'plan', 'html']",0
+2626,"['http', 'morningbrew', 'daily', 'story', 'goldman', 'sachs', 'project', 'national', 'mask', 'mandate', 'save']",0
+2627,"['http', 'marketwatch', 'story', 'wearing', 'mask', 'halt', 'spread', 'coronavirus', 'impact', 'economic', 'growthand', 'goldman', 'done', 'math']",0
+2628,"['http', 'cnbc', 'goldman', 'sachs', 'national', 'mask', 'mandate', 'could', 'slash', 'infection', 'save', 'economy', 'percent', 'html']",0
+2630,"['http', 'theverge', 'facebook', 'boogaloo', 'group', 'network', 'removal', 'civil', 'violence']",0
+2631,"['http', 'business', 'airbus', 'index', 'html']",0
+2632,"['http', 'politico', 'news', 'guideline', 'coronavirus', 'vaccine']",0
+2633,"['http', 'techcrunch', 'google', 'acquires', 'smart', 'glass', 'company', 'north', 'whose', 'focals', 'wont', 'ship']",0
+2634,"['http', 'theverge', 'youtube', 'price', 'increase', 'viacom', 'channel']",0
+2635,"['http', 'morningbrew', 'daily', 'story', 'recapping', 'historic', 'first', 'half']",0
+2636,"['http', 'boxofstyle']",0
+2637,"['http', 'drinkhint', 'collection', 'newcustomer']",1
+2638,"['http', 'nirandfar', 'becoming', 'indistractable']",1
+2640,"['http', 'sporcle', 'game', 'chasing', 'destiny', 'tswiftlyrics']",0
+2641,"['http', 'alexandracooks', 'swiss', 'chard', 'salad', 'lemon', 'parmesan', 'breadcrumb']",0
+2642,"['http', 'soundcloud', 'tycho', 'inversion', 'burning', 'sunrise']",0
+2643,"['http', 'mcmansionhell']",0
+2644,"['http', 'kirkusreviews', 'book', 'review', 'brit', 'bennett', 'vanishing', 'half', 'bennett']",0
+2645,"['http', 'morningbrewdaily', 'typeform', 'ogvpiowk']",0
+2651,"['http', 'cheddar', 'newsletter', 'share']",0
+2662,"['http', 'washingtonpost', 'business', 'back', 'work', 'laid', 'coronavirus', 'spike']",0
+2664,"['http', 'news', 'world', 'canada', 'family', 'rescue', 'bear', 'swimming', 'stuck', 'head']",0
+2665,"['http', 'visualcapitalist', 'billion', 'dollar', 'transfer', 'military', 'equipment', 'police', 'department']",0
+2666,"['http', 'youtube', 'watch']",0
+2668,"['http', 'nationalgeographic', 'photography', 'best', 'picture', 'decade']",0
+2669,"['http', 'city', 'world', 'worst', 'traffic']",0
+2670,"['http', 'fortune', 'hospital', 'watson', 'health']",0
+2672,"['http', 'evans', 'presentation']",0
+2673,"['http', 'vuoriclothing', 'page']",0
+2674,"['http', 'clarionledger', 'story', 'news', 'politics', 'mississippi', 'state', 'flag', 'reef', 'sign', 'bill', 'mandate', 'confederate', 'flag', 'removal']",0
+2675,"['http', 'thehill', 'regulation', 'court', 'battle', 'supreme', 'court', 'hand', 'religious', 'school']",0
+2676,"['http', 'politico', 'news', 'hickenlooper', 'colorado', 'senate', 'primary']",0
+2677,"['http', 'business', 'facebook', 'boycott', 'list', 'index', 'html']",0
+2678,"['http', 'reuters', 'article', 'boogaloo', 'facebook', 'account', 'linked', 'anti', 'government', 'boogaloo', 'movement']",0
+2679,"['http', 'cnbc', 'powell', 'recovery', 'path', 'extraordinarily', 'uncertain', 'amid', 'effort', 'control', 'virus', 'html']",0
+2680,"['http', 'reuters', 'article', 'stock', 'best', 'quarter', 'since', 'high', 'note']",0
+2681,"['http', 'warwick', 'newsandevents', 'pressreleases', 'revealing', 'magnetic']",0
+2682,"['http', 'apnews']",0
+2683,"['http', 'mailchi', 'bigspaceship', 'spaceship', 'internet', 'brunch']",0
+2684,"['http', 'youtube', 'watch']",0
+2685,"['http', 'youtube', 'watch']",0
+2686,"['http', 'youtube', 'watch']",0
+2687,"['http', 'youtube', 'watch', 'zpbm']",0
+2688,"['http', 'youtube', 'watch']",0
+2689,"['http', 'level', 'medium', 'breonna', 'taylor', 'meme']",0
+2690,"['http', 'jezebel', 'room', 'patron', 'saint']",0
+2691,"['http', 'buzzfeed', 'lizmrichardson', 'disney', 'princess', 'reimagined', 'tiktok']",0
+2692,"['http', 'vanityfair', 'hollywood', 'first', 'movie', 'created', 'entirely', 'quarantine']",0
+2693,"['http', 'buzzfeed', 'natashajokic', 'ryan', 'reynolds', 'reunion']",0
+2694,"['http', 'avclub', 'netflix', 'unsolved', 'mystery', 'loses', 'host']",0
+2695,"['http', 'curb', 'enthusiasm', 'renewed', 'season']",0
+2696,"['http', 'variety', 'film', 'news', 'director', 'kenny', 'ortega', 'pride', 'high', 'school', 'musical']",0
+2697,"['http', 'hamilton', 'disney', 'plus', 'fulfills', 'promise', 'streaming']",0
+2698,"['http', 'vogue', 'article', 'question', 'alicia']",0
+2699,"['http', 'buzzfeednews', 'article', 'tanyachen', 'youtube', 'suspended', 'monetization', 'shane', 'dawson']",0
+2700,"['http', 'fastcompany', 'walmart', 'yank', 'life', 'matter', 'merchandise', 'website']",0
+2702,"['http', 'mashable', 'article', 'amazon', 'prime', 'video', 'watch', 'party', 'feature']",0
+2703,"['http', 'theverge', 'google', 'airdrop', 'competitor', 'share', 'android', 'phone', 'beta', 'file', 'samsung', 'apple']",0
+2704,"['http', 'rollingstone', 'news', 'spotify', 'premium', 'subscription', 'service', 'launch']",0
+2705,"['http', 'politics', 'kentucky', 'primary', 'mcgrath', 'index', 'html']",0
+2706,"['http', 'section', 'live', 'update', 'protest', 'racial', 'justice', 'columbus', 'ohio', 'take', 'statue', 'christopher', 'columbus']",0
+2710,"['http', 'ohio', 'news', 'ohio', 'university', 'professor', 'ryan', 'fogt', 'alum', 'kyle', 'clem', 'publish', 'paper', 'record', 'warming', 'south']",0
+2711,"['http', 'healthcare', 'utah', 'publicaffairs', 'news', 'covid', 'blood', 'clot']",0
+2712,"['http', 'adam', 'silver', 'restart', 'unpredictable', 'covid']",0
+2713,"['http', 'deadline', 'motion', 'picture', 'academy', 'member', 'diversity', 'record']",0
+2714,"['http', 'deadline', 'reiner', 'alan', 'alda', 'william', 'shatner', 'remember', 'carl', 'reiner']",0
+2715,"['http', 'carl', 'reiner', 'actor', 'director', 'writer', 'producer', 'mensch']",0
+2716,"['http', 'whitehouse', 'peacetoprosperity']",0
+2717,"['http', 'aljazeera', 'news', 'area', 'occupied', 'west', 'bank', 'html']",0
+2718,"['http', 'reuters', 'article', 'israel', 'palestinian', 'annexation', 'israeli', 'minister', 'signal', 'major', 'west', 'bank', 'annexation', 'move', 'imminent']",0
+2719,"['http', 'theguardian', 'world', 'hong', 'kong', 'activist', 'shut', 'protest', 'group', 'china', 'pass', 'security']",0
+2720,"['http', 'news', 'world', 'asia', 'pacific']",0
+2721,"['http', 'axios', 'hong', 'kong', 'national', 'security', 'china', 'html']",0
+2722,"['http', 'scitation', 'action', 'cookie', 'bsent']",1
+2724,"['http', 'apnews']",0
+2725,"['http', 'graphic', 'reuters', 'yxmvjqywprz', 'index', 'html']",0
+2727,"['http', 'thehill', 'policy', 'healthcare', 'senator', 'urge', 'trump', 'wear', 'mask', 'example']",0
+2729,"['http', 'apnews']",0
+2731,"['http', 'washingtonpost', 'politics', 'court', 'supreme', 'court', 'rule', 'trump', 'administration', 'attempt', 'daca', 'undocumented', 'immigrant', 'brought', 'child', 'story', 'html']",0
+2732,"['http', 'washingtonpost', 'politics', 'court', 'supreme', 'court', 'montana', 'program', 'aiding', 'private', 'school', 'must', 'open', 'religious', 'school', 'bdaf', 'story', 'html']",0
+2733,"['http', 'washingtonpost', 'nation', 'coronavirus', 'live', 'update']",0
+2734,"['http', 'washingtonpost', 'politics', 'democrat', 'public', 'health', 'expert', 'decry', 'trump', 'saying', 'asked', 'official', 'slow', 'coronavirus', 'testing']",0
+2735,"['http', 'washingtonpost', 'health', 'white', 'house', 'turf', 'battle', 'guidance', 'broad', 'face', 'mask', 'fight', 'coronavirus']",0
+2740,"['http', 'pivotok']",0
+2741,"['http', 'theskimm', 'pick', 'genius', 'product', 'make', 'cleaning', 'home', 'easier']",0
+2745,"['http', 'wethetrillions', 'quiz']",0
+2746,"['http', 'oprahmag', 'entertainment', 'movie', 'best', 'fourth', 'july', 'movie']",0
+2747,"['http', 'theskimm', 'pick', 'everything', 'youll', 'need', 'drink', 'outside', 'summer', 'long']",0
+2748,"['http', 'planbonestep', 'plan', 'work']",1
+2749,"['http', 'planbonestep']",0
+2750,"['http', 'nytimes', 'science', 'flying', 'snake', 'physic', 'html']",0
+2751,"['http', 'layleen', 'polanco', 'correction', 'officer', 'suspended', 'index', 'html']",0
+2752,"['http', 'nbcnews', 'feature', 'solitary', 'confinement', 'trans', 'woman']",0
+2753,"['http', 'entertainment', 'reiner', 'obit', 'index', 'html']",0
+2754,"['http', 'apnews']",0
+2755,"['http', 'politico', 'news', 'supreme', 'court', 'lgbt', 'right', 'decision']",0
+2757,"['http', 'nytimes', 'john', 'robert', 'supreme', 'court', 'html']",0
+2758,"['http', 'supreme', 'court', 'montana', 'cant', 'exclude', 'religious', 'school', 'scholarship', 'program']",0
+2759,"['http', 'thehill', 'policy', 'healthcare', 'public', 'global', 'health', 'young', 'people', 'drive', 'coronavirus', 'spike']",0
+2760,"['http', 'coronavirus', 'ncov', 'prevent', 'getting', 'sick', 'prevention', 'html']",0
+2763,"['http', 'nbcnews', 'tech', 'tech', 'news', 'coronavirus', 'contact', 'tracing', 'apps', 'tech', 'chance', 'step']",0
+2764,"['http', 'nbcnews', 'news', 'news', 'coronavirus', 'testing', 'must', 'double', 'triple', 'safely']",0
+2765,"['http', 'axios', 'trump', 'coronavirus', 'poll', 'early', 'action', 'html']",0
+2766,"['http', 'abcnews', 'olitics', 'fauci', 'warn', 'tremendous', 'burden', 'facing', 'health', 'care', 'system', 'story']",0
+2767,"['http', 'theguardian', 'world', 'coronavirus', 'world', 'country', 'covid', 'case', 'death']",0
+2768,"['http', 'news', 'world', 'canada']",0
+2769,"['http', 'time', 'coronavirus', 'pandemic', 'declaration']",0
+2770,"['http', 'cnbc', 'amid', 'testing', 'capacity', 'concern', 'unveils', 'coronavirus', 'test', 'html']",0
+2771,"['http', 'latimes', 'science', 'story', 'china', 'coronavirus', 'outbreak']",0
+2772,"['http', 'axios', 'coronavirus', 'spreading', 'fast', 'bbeb', 'html']",0
+2773,"['http', 'eonline', 'news', 'patrick', 'dempsey', 'brings', 'back', 'mcdreamy', 'signature', 'line', 'promote', 'mask', 'wearing']",0
+2776,"['http', 'theskimm', 'money', 'skimmd', 'couch', 'carmen', 'rita', 'wong']",0
+2777,"['http', 'briefingday']",0
+2778,"['http', 'economist', 'science', 'technology', 'pandemic', 'proofing', 'planet']",0
+2779,"['http', 'sciencenews', 'article', 'coronavirus', 'covid', 'pandemic', 'month', 'know']",0
+2780,"['http', 'future', 'article', 'make', 'people', 'stop', 'caring']",0
+2781,"['http', 'buzzfeednews', 'article', 'tomiobaro', 'recession', 'economy', 'pandemic', 'money', 'diary']",0
+2782,"['http', 'onezero', 'medium', 'amazon', 'effect', 'making', 'customer', 'service', 'life', 'hell']",0
+2783,"['http', 'gossamer', 'article', 'skincare']",0
+2784,"['http', 'saturdayeveningpost', 'lure', 'buffet']",0
+2785,"['http', 'designyoutrust', 'covid', 'latam', 'latin', 'american', 'photographer', 'document', 'pandemic']",0
+2786,"['http', 'sensortower', 'blog', 'revenue', 'downloads']",0
+2787,"['http', 'massivesci', 'article', 'banana', 'flavor', 'cavendish', 'gros', 'michael', 'science', 'friday']",0
+2788,"['http', 'wired', 'story', 'nuclear', 'power', 'ball', 'triso', 'fuel']",0
+2789,"['http', 'news', 'trust', 'item']",0
+2790,"['http', 'thenewinquiry', 'ambiguity', 'city']",0
+2792,"['http', 'edition', 'travel', 'article', 'greece', 'abandoned', 'airport', 'index', 'html']",0
+2793,"['http', 'atlasobscura', 'article', 'caretaker', 'sealand']",0
+2794,"['http', 'thesun', 'news', 'uknews', 'euromillions', 'adrian', 'bayfords', 'mansion', 'loss']",0
+2795,"['http', 'flowstate', 'substack']",0
+2796,"['http', 'youtube', 'watch']",0
+2797,"['http', 'reddit', 'comment', 'squirrel', 'living', 'best', 'life']",0
+2798,"['http', 'theguardian', 'film', 'dont', 'regret', 'pierce', 'brosnan', 'love', 'loss', 'life', 'bond']",0
+2799,"['http', 'slate', 'business', 'coronavirus', 'pizza', 'delivery', 'domino', 'html']",0
+2800,"['http', 'travel', 'story', 'japanese', 'resilient']",0
+2802,"['http', 'briefingday', 'commentform']",0
+2806,"['http', 'mykawartha', 'news', 'story', 'canadian', 'tire', 'peel', 'back', 'problem', 'potato', 'head', 'glitch', 'lindsay']",0
+2807,"['http', 'supremecourt', 'ocket', 'rief', 'oalition', 'rand', 'wners', 'mici', 'uriae', 'upport', 'espondent']",0
+2808,"['http', 'politics', 'booking', 'trademark', 'supreme', 'court', 'index', 'html']",0
+2809,"['http', 'award', 'substack', 'numlock', 'award', 'puzzle']",0
+2810,"['http', 'variety', 'film', 'news', 'film', 'academy', 'member']",0
+2812,"['http', 'propublica', 'article', 'bottom']",0
+2813,"['http', 'reuters', 'investigates', 'special', 'report', 'judge', 'misconduct']",0
+2814,"['http', 'google', 'form', 'ukwm', 'viewform']",1
+2815,"['http', 'bookclub', 'substack']",1
+2816,"['http', 'award', 'substack']",1
+2817,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'julie', 'halpert']",1
+2818,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'karen', 'facial']",1
+2819,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'nisen', 'vaccine']",1
+2820,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'matt', 'daniel']",1
+2821,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'rebecca', 'renner']",1
+2822,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'john', 'jackson', 'miller']",1
+2823,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'john', 'jackson', 'miller']",1
+2824,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'kopf', 'streaming']",1
+2825,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'dave', 'gershgorn']",1
+2826,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'nicole', 'hemmer']",1
+2827,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'sarah', 'frier']",1
+2828,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'olga', 'khazan', 'weird']",1
+2829,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'shayla', 'love', 'copper']",1
+2830,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'aaron', 'gordon']",1
+2831,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'cohen', 'shakespeare']",1
+2832,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'cohen']",1
+2833,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'frank', 'pallotta']",1
+2834,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'alison', 'griswold']",1
+2835,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'griswold', 'wework']",1
+2836,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'ottavianti']",1
+2837,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'josh', 'kosman', 'mattress']",1
+2838,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'kyle', 'chayka']",1
+2839,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'dani', 'levis', 'ghost']",1
+2840,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'andrew', 'flower']",1
+2841,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'stacy', 'smith']",1
+2842,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'joanna', 'piacenza', 'wrap']",1
+2843,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'maya', 'kosoff', 'graphing']",1
+2844,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'emily', 'atkin', 'heated']",1
+2845,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'sarah', 'kessler']",1
+2846,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'bhasin']",1
+2847,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'adam', 'minter', 'author']",1
+2848,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'dave', 'gershgorn']",1
+2849,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'jessica', 'huseman']",1
+2850,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'bryan', 'caplan', 'open']",1
+2851,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'garofalo']",1
+2852,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'renfro', 'unofficial']",1
+2853,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'christie', 'aschwanden']",1
+2854,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'rebecca', 'boyle', 'light']",1
+2855,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'yusra', 'murad', 'juuls']",1
+2856,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'chris', 'ingraham', 'author']",1
+2857,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'sarah', 'gilman', 'invasive']",1
+2858,"['http', 'numlock', 'substack', 'numlock', 'sunday', 'sarah', 'gilman']",1
+2859,"['http', 'numlock', 'substack', 'sunday', 'special']",1
+2860,"['http', 'numlock', 'substack', 'sunday', 'special']",1
+2863,"['http', 'skift', 'hospitality', 'devastating', 'loss', 'talent', 'gain']",0
+2864,"['http', 'news', 'world', 'asia', 'china']",0
+2865,"['http', 'getpocket', 'explore', 'item', 'data', 'cardio', 'weight', 'debate']",0
+2867,"['http', 'monocle', 'radio', 'show', 'entrepreneur']",0
+2868,"['http', 'office', 'mayor', 'news', 'mayor', 'blasio', 'police', 'commissioner', 'bratton', 'compstat']",0
+2869,"['http', 'wikipedia', 'wiki']",0
+2870,"['http', 'gimletmedia', 'show', 'reply', 'crime', 'machine', 'part', 'episode', 'player']",0
+2871,"['http', 'gimletmedia', 'show', 'reply']",0
+2872,"['http', 'gimletmedia', 'show', 'reply']",0
+2873,"['http', 'whyisthisinteresting', 'substack', 'interesting', 'systemic']",0
+2874,"['http', 'rationallyspeakingpodcast', 'show', 'david', 'manheim', 'goodharts', 'metric', 'fail', 'html']",0
+2875,"['http', 'arxiv']",0
+2876,"['http', 'ribbonfarm', 'goodharts', 'measurement', 'hard']",0
+2877,"['http', 'skeptic', 'stackexchange', 'question', 'soviet', 'nail', 'factory', 'produce', 'useless', 'nail', 'improve', 'metric']",0
+2878,"['http', 'wikipedia', 'wiki', 'oodhart']",0
+2879,"['http', 'wikipedia', 'wiki', 'harles', 'oodhart']",0
+2880,"['http', 'action', 'tldrnewsletter', 'unsubscribe']",1
+2881,"['http', 'arstechnica', 'information', 'technology', 'embattled', 'group', 'leaker', 'pick', 'wikileaks', 'mantle']",0
+2882,"['http', 'deeplinks', 'inside', 'invasive', 'secretive', 'bossware', 'tracking', 'worker']",0
+2883,"['http', 'github', 'liuliu', 'dflat']",0
+2884,"['http', 'hyperapp']",0
+2885,"['http', 'youtube', 'watch']",0
+2886,"['http', 'sciencealert', 'first', 'time', 'scientist', 'capture', 'video', 'brain', 'clearing', 'dead', 'neuron']",0
+2887,"['http', 'theverge', 'microsoft', 'window', 'file', 'recovery', 'tool', 'download', 'feature']",0
+2888,"['http', 'androidpolice', 'nearby', 'sharing', 'android', 'airdrop', 'competitor', 'rolling', 'beta']",0
+2889,"['http', 'tldrnewsletter', 'sponsor']",1
+2890,"['http', 'tldrnewsletter']",1
+2891,"['http', 'youtube', 'watch', 'wnage']",0
+2892,"['http', 'newyorker', 'contributor', 'doreen', 'felix']",0
+2893,"['http', 'vanityfair', 'hollywood', 'ziwe', 'fumudoh', 'baited', 'interview', 'alison', 'roman']",0
+2894,"['http', 'youtube', 'channel', 'yltbh']",0
+2896,"['http', 'frugalbookstore']",0
+2902,"['http', 'slate', 'human', 'interest', 'action', 'park', 'danger', 'history', 'bailey', 'ball', 'book', 'html']",0
+2904,"['http', 'sport', 'illustrated', 'idaho', 'transgender', 'fighting', 'back']",0
+2906,"['http', 'newyorker', 'magazine', 'rabbit', 'outbreak']",0
+2907,"['http', 'podcasts', 'ezra', 'klein', 'show', 'shallow', 'twitter', 'facebook', 'attention', 'deep', 'reading', 'thinking']",0
+2908,"['http', 'nytimes', 'world', 'asia', 'swine', 'virus', 'china', 'html']",0
+2909,"['http', 'digg', 'video', 'rand', 'paul', 'anthony', 'fauci', 'coronavirus', 'hearing']",0
+2910,"['http', 'nytimes', 'world', 'coronavirus', 'live', 'update', 'html']",0
+2911,"['http', 'theguardian', 'world', 'hong', 'kong', 'activist', 'call', 'protest', 'security', 'city', 'mark', 'handover', 'anniversary']",0
+2912,"['http', 'variety', 'film', 'news', 'carl', 'reiner', 'dead', 'died', 'dick', 'dyke']",0
+2913,"['http', 'travel', 'article', 'bison', 'gore', 'woman', 'yellowstone', 'trnd', 'index', 'html']",0
+2914,"['http', 'huckberry', 'store', 'storkstand', 'category', 'portable', 'standing', 'desk', 'desk']",0
+2915,"['http', 'magazine', 'atavist', 'thousand', 'pound', 'dynamite']",0
+2916,"['http', 'food', 'blog', 'queer', 'history', 'kombucha']",0
+2917,"['http', 'digg', 'edition', 'story']",0
+2921,"['http', 'digg', 'cmail', 'ptuurik', 'vkjjhbly']",0
+2922,"['http', 'washingtonpost', 'politics', 'nearly', 'people', 'voted', 'candidate', 'support', 'qanon']",0
+2923,"['http', 'washingtonpost', 'world', 'europe', 'russia', 'prize', 'patriotism', 'urge', 'vote', 'changing', 'constitution', 'scant', 'mention', 'keeping', 'putin', 'power', 'afcb', 'story', 'html']",0
+2924,"['http', 'washingtonpost', 'local', 'public', 'safety', 'president', 'trump', 'tweet', 'protester', 'serious', 'force', 'establish', 'autonomous', 'zone', 'story', 'html']",0
+2929,"['http', 'supreme', 'court', 'conservatism', 'bostock', 'lgbtq', 'republican']",0
+2930,"['http', 'good', 'travel', 'covid', 'summer', 'road', 'trip']",0
+2931,"['http', 'sahara', 'dust', 'storm', 'godzilla', 'cloud', 'saharan', 'sunset']",0
+2932,"['http', 'future', 'perfect', 'coronavirus', 'pandemic', 'reopen', 'school', 'economy', 'social', 'distancing']",0
+2933,"['http', 'coronavirus', 'symptom', 'spain', 'italy', 'jersey', 'england', 'iran', 'nigeria']",0
+2934,"['http', 'open', 'spotify', 'episode']",0
+2935,"['http', 'nytimes', 'upshot', 'poll', 'trump', 'defector', 'election', 'html']",0
+2938,"['http', 'arctic', 'siberia', 'temperature', 'heat', 'wave', 'record', 'russia', 'fire', 'climate', 'change']",0
+2939,"['http', 'nytimes', 'business', 'economic', 'recovery', 'virus', 'surge', 'html']",0
+2940,"['http', 'nytimes', 'world', 'europe', 'putin', 'referendum', 'vote', 'russia', 'html']",0
+2941,"['http', 'russian', 'voting', 'reform', 'important', 'extend', 'putin']",0
+2942,"['http', 'apnews']",0
+2943,"['http', 'axios', 'putin', 'russia', 'referendum', 'approved', 'html']",0
+2944,"['http', 'reuters', 'article', 'russia', 'putin', 'vote', 'russian', 'grant', 'putin', 'right', 'extend', 'rule', 'landslide', 'vote', 'initial', 'result', 'show']",0
+2946,"['http', 'oregonlive', 'portland', 'portland', 'protest', 'continue', 'straight', 'tuesday', 'html']",0
+2947,"['http', 'nytimes', 'nyregion', 'black', 'life', 'matter', 'protest', 'html']",0
+2948,"['http', 'news', 'world', 'canada']",0
+2949,"['http', 'king', 'article', 'news', 'local', 'protest', 'seattle', 'police', 'capitol', 'hill', 'chop', 'chaz']",0
+2950,"['http', 'identity', 'chaz', 'seattle', 'police', 'free', 'neighborhood']",0
+2951,"['http', 'komonews', 'news', 'local', 'seattle', 'police', 'clearing', 'chop', 'area', 'durkan', 'issue', 'executive', 'order']",0
+2955,"['http', 'popularmechanics', 'space', 'moon', 'space', 'moon', 'poop', 'toilet']",0
+2956,"['http', 'hopculture', 'food', 'beer', 'pairing']",0
+2961,"['http', 'washingtonpost', 'business', 'mask', 'mandate', 'economy', 'goldman', 'sachs']",0
+2969,"['http', 'marketwatch', 'story', 'consumer', 'confidence', 'jump', 'month', 'high', 'still', 'well', 'precrisis', 'level']",0
+2970,"['http', 'marketwatch', 'story', 'bafa']",0
+2974,"['http', 'reuters', 'article', 'tech', 'food', 'alternative', 'meat', 'coming', 'soon', 'printer', 'near', 'plant', 'based', 'steak']",0
+2975,"['http', 'business', 'costco', 'half', 'sheet', 'cake', 'coronavirus', 'index', 'html']",0
+2976,"['http', 'nytimes', 'design', 'sothebys', 'online', 'auction', 'html']",0
+2977,"['http', 'venturebeat', 'enhance', 'wimbledon', 'tennis', 'footage', 'digital']",0
+2978,"['http', 'theguardian', 'technology', 'third', 'advertiser', 'boycott', 'facebook', 'hate', 'speech', 'revolt']",0
+2980,"['http', 'gizmodo', 'google', 'north', 'smart', 'glass', 'north', 'kill']",0
+2981,"['http', 'news', 'bloomberglaw', 'supreme', 'court', 'affirms', 'validity', 'booking', 'trademark']",0
+2982,"['http', 'thehustle', 'artha', 'tewart', 'anopy']",0
+2983,"['http', 'fastcompany', 'canopy', 'growth', 'became', 'jolly', 'green', 'giant', 'cannabis']",0
+2984,"['http', 'canopygrowth', 'investor', 'news', 'release', 'canopy', 'growth', 'report', 'full', 'year', 'quarter', 'fiscal', 'financial', 'result', 'provides', 'strategic', 'review', 'update']",0
+2985,"['http', 'fastcompany', 'canopy', 'growth', 'using', 'martha', 'stewart', 'celebs', 'become', 'unilever', 'weed']",0
+2986,"['http', 'mashed', 'untold', 'truth', 'martha', 'snoop']",0
+2987,"['http', 'thehustle', 'orporate', 'swag']",0
+2988,"['http', 'google', 'form', 'viewform']",0
+2989,"['http', 'thehustle', 'ational', 'esearch', 'loud']",0
+2990,"['http', 'nytimes', 'technology', 'national', 'cloud', 'computing', 'project', 'html']",0
+2991,"['http', 'thehustle', 'deepfakes']",0
+2992,"['http', 'technologyreview', 'ethical', 'deepfake', 'tool', 'manifesto']",0
+2993,"['http', 'theverge', 'disney', 'deepfake', 'face', 'swapping', 'research', 'megapixel', 'resolution', 'film']",0
+2994,"['http', 'smartcitiesworld', 'news', 'news', 'deepfake', 'technology', 'used', 'advance', 'autonomous', 'vehicle']",0
+2996,"['http', 'techcrunch', 'optimistic', 'view', 'deepfakes']",0
+2997,"['http', 'technologyreview', 'startup', 'claim', 'deepfakes', 'protect', 'privacy']",0
+2998,"['http', 'news', 'technology']",0
